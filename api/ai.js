@@ -26,7 +26,7 @@ export default async function handler(req, res) {
 
     // Get API key from environment variable (set in Vercel dashboard)
     // For local testing, we'll use the provided key
-    const key = process.env.OPENAI_API_KEY || 'REDACTED';
+    const key = process.env.OPENAI_API_KEY;
 
     if (!key) {
       return res.status(500).json({ error: 'OpenAI API key not configured' });

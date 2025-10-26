@@ -1,0 +1,26 @@
+{
+  "name": "telugu-science-reader",
+  "version": "1.0.0",
+  "description": "Bilingual AI Science Reader (Telugu-English) for 7th-grade heat transfer",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "bilingual",
+    "education",
+    "telugu",
+    "science",
+    "pwa",
+    "offline-first",
+    "edtech"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmedidi/telugu-reader"
+  }
+}

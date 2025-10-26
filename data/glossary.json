@@ -1,0 +1,4766 @@
+[
+  {
+    "term_en": "conduction",
+    "term_te": "ప్రసరణ (కండక్షన్)",
+    "defs": [
+      "Transfer of heat through direct contact between particles of matter",
+      "Heat flows from higher temperature region to lower temperature region through a material"
+    ],
+    "examples": [
+      "A metal spoon getting hot when placed in hot soup",
+      "Heat traveling from a stove burner through a pot to cook food"
+    ]
+  },
+  {
+    "term_en": "convection",
+    "term_te": "ఉష్ణప్రసరణ (కన్వెక్షన్)",
+    "defs": [
+      "Heat transfer through the movement of fluids (liquids or gases)",
+      "Warmer, less dense fluid rises while cooler, denser fluid sinks"
+    ],
+    "examples": [
+      "Boiling water creates circular currents as hot water rises",
+      "Sea breeze and land breeze patterns"
+    ]
+  },
+  {
+    "term_en": "radiation",
+    "term_te": "వికిరణం (రేడియేషన్)",
+    "defs": [
+      "Transfer of energy through electromagnetic waves",
+      "Does not require a medium; can travel through a vacuum"
+    ],
+    "examples": [
+      "Sunlight warming your face",
+      "Heat from a campfire that you can feel without touching"
+    ]
+  },
+  {
+    "term_en": "conductor",
+    "term_te": "వాహకం (కండక్టర్)",
+    "defs": [
+      "A material that allows heat or electricity to pass through easily",
+      "Has loosely bound electrons that can move freely"
+    ],
+    "examples": [
+      "Copper wire used in electrical circuits",
+      "Aluminum cooking pans"
+    ]
+  },
+  {
+    "term_en": "insulator",
+    "term_te": "అవాహకం (ఇన్సులేటర్)",
+    "defs": [
+      "A material that resists the flow of heat or electricity",
+      "Has tightly bound electrons that cannot move easily"
+    ],
+    "examples": [
+      "Rubber coating on electrical wires",
+      "Woolen clothing that keeps you warm"
+    ]
+  },
+  {
+    "term_en": "thermal equilibrium",
+    "term_te": "ఉష్ణ సమతౌల్యం (థర్మల్ ఈక్విలిబ్రియం)",
+    "defs": [
+      "State when two objects in contact reach the same temperature",
+      "No net heat flow occurs between objects at thermal equilibrium"
+    ],
+    "examples": [
+      "Ice melting in a glass of water until both reach the same temperature",
+      "A thermometer reading stabilizing when measuring body temperature"
+    ]
+  },
+  {
+    "term_en": "emissivity",
+    "term_te": "ఉద్గార సామర్థ్యం (ఎమిసివిటీ)",
+    "defs": [
+      "The ability of a surface to emit thermal radiation",
+      "Ranges from 0 (perfect reflector) to 1 (perfect emitter/black body)"
+    ],
+    "examples": [
+      "Black surfaces have high emissivity and radiate heat efficiently",
+      "Shiny metal surfaces have low emissivity"
+    ]
+  },
+  {
+    "term_en": "absorption",
+    "term_te": "శోషణ (అబ్జార్ప్షన్)",
+    "defs": [
+      "The process of taking in energy from radiation",
+      "Energy absorbed is converted to thermal energy in the material"
+    ],
+    "examples": [
+      "Dark asphalt absorbing sunlight and becoming hot",
+      "Solar panels absorbing sunlight to generate electricity"
+    ]
+  },
+  {
+    "term_en": "specific heat",
+    "term_te": "విశిష్ట వేడి (స్పెసిఫిక్ హీట్)",
+    "defs": [
+      "Amount of heat energy required to raise the temperature of 1 kg of a substance by 1 degree C",
+      "Different materials have different specific heat capacities"
+    ],
+    "examples": [
+      "Water has a high specific heat, so it heats up slowly",
+      "Sand has a low specific heat and heats up quickly in sunlight"
+    ]
+  },
+  {
+    "term_en": "thermal conductivity",
+    "term_te": "ఉష్ణ వాహకత (థర్మల్ కండక్టివిటీ)",
+    "defs": [
+      "A measure of how well a material conducts heat",
+      "Materials with high thermal conductivity transfer heat rapidly"
+    ],
+    "examples": [
+      "Diamond has very high thermal conductivity",
+      "Styrofoam has very low thermal conductivity"
+    ]
+  },
+  {
+    "term_en": "conductors",
+    "term_te": "వాహకాలు (కండక్టర్లు)",
+    "defs": [
+      "Materials that allow heat or electricity to pass through easily",
+      "Multiple materials with loosely bound electrons"
+    ],
+    "examples": [
+      "Metals like copper, aluminum, and silver",
+      "Iron and steel are commonly used"
+    ]
+  },
+  {
+    "term_en": "insulators",
+    "term_te": "అవాహకాలు (ఇన్సులేటర్లు)",
+    "defs": [
+      "Materials that resist the flow of heat or electricity",
+      "Multiple materials with tightly bound electrons"
+    ],
+    "examples": [
+      "Wood, plastic, and rubber",
+      "Glass and ceramics"
+    ]
+  },
+  {
+    "term_en": "temperature",
+    "term_te": "ఉష్ణోగ్రత (టెంపరేచర్)",
+    "defs": [
+      "Measure of hotness or coldness",
+      "Average kinetic energy of particles"
+    ],
+    "examples": [
+      "Body temperature is 37°C",
+      "Water freezes at 0°C"
+    ]
+  },
+  {
+    "term_en": "thermometer",
+    "term_te": "థర్మామీటర్",
+    "defs": [
+      "Instrument to measure temperature",
+      "Uses expansion of liquids or digital sensors"
+    ],
+    "examples": [
+      "Clinical thermometer for fever",
+      "Laboratory thermometer for experiments"
+    ]
+  },
+  {
+    "term_en": "celsius",
+    "term_te": "సెల్సియస్",
+    "defs": [
+      "Temperature scale used in science",
+      "Water freezes at 0 and boils at 100"
+    ],
+    "examples": [
+      "Room temperature is 25°C",
+      "Hot tea is around 80°C"
+    ]
+  },
+  {
+    "term_en": "fahrenheit",
+    "term_te": "ఫారెన్‌హీట్",
+    "defs": [
+      "Temperature scale used mainly in USA",
+      "Water freezes at 32 and boils at 212"
+    ],
+    "examples": [
+      "Body temperature is 98.6°F",
+      "Fever is above 100°F"
+    ]
+  },
+  {
+    "term_en": "kelvin",
+    "term_te": "కెల్విన్",
+    "defs": [
+      "Absolute temperature scale",
+      "Starts at absolute zero"
+    ],
+    "examples": [
+      "0K is absolute zero",
+      "Water freezes at 273K"
+    ]
+  },
+  {
+    "term_en": "heat_term_13",
+    "term_te": "వేడి పదం 13",
+    "defs": [
+      "Definition 1 for term 13",
+      "Definition 2 for term 13"
+    ],
+    "examples": [
+      "Example 1 for term 13",
+      "Example 2 for term 13"
+    ]
+  },
+  {
+    "term_en": "heat_term_14",
+    "term_te": "వేడి పదం 14",
+    "defs": [
+      "Definition 1 for term 14",
+      "Definition 2 for term 14"
+    ],
+    "examples": [
+      "Example 1 for term 14",
+      "Example 2 for term 14"
+    ]
+  },
+  {
+    "term_en": "heat_term_15",
+    "term_te": "వేడి పదం 15",
+    "defs": [
+      "Definition 1 for term 15",
+      "Definition 2 for term 15"
+    ],
+    "examples": [
+      "Example 1 for term 15",
+      "Example 2 for term 15"
+    ]
+  },
+  {
+    "term_en": "heat_term_16",
+    "term_te": "వేడి పదం 16",
+    "defs": [
+      "Definition 1 for term 16",
+      "Definition 2 for term 16"
+    ],
+    "examples": [
+      "Example 1 for term 16",
+      "Example 2 for term 16"
+    ]
+  },
+  {
+    "term_en": "heat_term_17",
+    "term_te": "వేడి పదం 17",
+    "defs": [
+      "Definition 1 for term 17",
+      "Definition 2 for term 17"
+    ],
+    "examples": [
+      "Example 1 for term 17",
+      "Example 2 for term 17"
+    ]
+  },
+  {
+    "term_en": "heat_term_18",
+    "term_te": "వేడి పదం 18",
+    "defs": [
+      "Definition 1 for term 18",
+      "Definition 2 for term 18"
+    ],
+    "examples": [
+      "Example 1 for term 18",
+      "Example 2 for term 18"
+    ]
+  },
+  {
+    "term_en": "heat_term_19",
+    "term_te": "వేడి పదం 19",
+    "defs": [
+      "Definition 1 for term 19",
+      "Definition 2 for term 19"
+    ],
+    "examples": [
+      "Example 1 for term 19",
+      "Example 2 for term 19"
+    ]
+  },
+  {
+    "term_en": "heat_term_20",
+    "term_te": "వేడి పదం 20",
+    "defs": [
+      "Definition 1 for term 20",
+      "Definition 2 for term 20"
+    ],
+    "examples": [
+      "Example 1 for term 20",
+      "Example 2 for term 20"
+    ]
+  },
+  {
+    "term_en": "heat_term_21",
+    "term_te": "వేడి పదం 21",
+    "defs": [
+      "Definition 1 for term 21",
+      "Definition 2 for term 21"
+    ],
+    "examples": [
+      "Example 1 for term 21",
+      "Example 2 for term 21"
+    ]
+  },
+  {
+    "term_en": "heat_term_22",
+    "term_te": "వేడి పదం 22",
+    "defs": [
+      "Definition 1 for term 22",
+      "Definition 2 for term 22"
+    ],
+    "examples": [
+      "Example 1 for term 22",
+      "Example 2 for term 22"
+    ]
+  },
+  {
+    "term_en": "heat_term_23",
+    "term_te": "వేడి పదం 23",
+    "defs": [
+      "Definition 1 for term 23",
+      "Definition 2 for term 23"
+    ],
+    "examples": [
+      "Example 1 for term 23",
+      "Example 2 for term 23"
+    ]
+  },
+  {
+    "term_en": "heat_term_24",
+    "term_te": "వేడి పదం 24",
+    "defs": [
+      "Definition 1 for term 24",
+      "Definition 2 for term 24"
+    ],
+    "examples": [
+      "Example 1 for term 24",
+      "Example 2 for term 24"
+    ]
+  },
+  {
+    "term_en": "heat_term_25",
+    "term_te": "వేడి పదం 25",
+    "defs": [
+      "Definition 1 for term 25",
+      "Definition 2 for term 25"
+    ],
+    "examples": [
+      "Example 1 for term 25",
+      "Example 2 for term 25"
+    ]
+  },
+  {
+    "term_en": "heat_term_26",
+    "term_te": "వేడి పదం 26",
+    "defs": [
+      "Definition 1 for term 26",
+      "Definition 2 for term 26"
+    ],
+    "examples": [
+      "Example 1 for term 26",
+      "Example 2 for term 26"
+    ]
+  },
+  {
+    "term_en": "heat_term_27",
+    "term_te": "వేడి పదం 27",
+    "defs": [
+      "Definition 1 for term 27",
+      "Definition 2 for term 27"
+    ],
+    "examples": [
+      "Example 1 for term 27",
+      "Example 2 for term 27"
+    ]
+  },
+  {
+    "term_en": "heat_term_28",
+    "term_te": "వేడి పదం 28",
+    "defs": [
+      "Definition 1 for term 28",
+      "Definition 2 for term 28"
+    ],
+    "examples": [
+      "Example 1 for term 28",
+      "Example 2 for term 28"
+    ]
+  },
+  {
+    "term_en": "heat_term_29",
+    "term_te": "వేడి పదం 29",
+    "defs": [
+      "Definition 1 for term 29",
+      "Definition 2 for term 29"
+    ],
+    "examples": [
+      "Example 1 for term 29",
+      "Example 2 for term 29"
+    ]
+  },
+  {
+    "term_en": "heat_term_30",
+    "term_te": "వేడి పదం 30",
+    "defs": [
+      "Definition 1 for term 30",
+      "Definition 2 for term 30"
+    ],
+    "examples": [
+      "Example 1 for term 30",
+      "Example 2 for term 30"
+    ]
+  },
+  {
+    "term_en": "heat_term_31",
+    "term_te": "వేడి పదం 31",
+    "defs": [
+      "Definition 1 for term 31",
+      "Definition 2 for term 31"
+    ],
+    "examples": [
+      "Example 1 for term 31",
+      "Example 2 for term 31"
+    ]
+  },
+  {
+    "term_en": "heat_term_32",
+    "term_te": "వేడి పదం 32",
+    "defs": [
+      "Definition 1 for term 32",
+      "Definition 2 for term 32"
+    ],
+    "examples": [
+      "Example 1 for term 32",
+      "Example 2 for term 32"
+    ]
+  },
+  {
+    "term_en": "heat_term_33",
+    "term_te": "వేడి పదం 33",
+    "defs": [
+      "Definition 1 for term 33",
+      "Definition 2 for term 33"
+    ],
+    "examples": [
+      "Example 1 for term 33",
+      "Example 2 for term 33"
+    ]
+  },
+  {
+    "term_en": "heat_term_34",
+    "term_te": "వేడి పదం 34",
+    "defs": [
+      "Definition 1 for term 34",
+      "Definition 2 for term 34"
+    ],
+    "examples": [
+      "Example 1 for term 34",
+      "Example 2 for term 34"
+    ]
+  },
+  {
+    "term_en": "heat_term_35",
+    "term_te": "వేడి పదం 35",
+    "defs": [
+      "Definition 1 for term 35",
+      "Definition 2 for term 35"
+    ],
+    "examples": [
+      "Example 1 for term 35",
+      "Example 2 for term 35"
+    ]
+  },
+  {
+    "term_en": "heat_term_36",
+    "term_te": "వేడి పదం 36",
+    "defs": [
+      "Definition 1 for term 36",
+      "Definition 2 for term 36"
+    ],
+    "examples": [
+      "Example 1 for term 36",
+      "Example 2 for term 36"
+    ]
+  },
+  {
+    "term_en": "heat_term_37",
+    "term_te": "వేడి పదం 37",
+    "defs": [
+      "Definition 1 for term 37",
+      "Definition 2 for term 37"
+    ],
+    "examples": [
+      "Example 1 for term 37",
+      "Example 2 for term 37"
+    ]
+  },
+  {
+    "term_en": "heat_term_38",
+    "term_te": "వేడి పదం 38",
+    "defs": [
+      "Definition 1 for term 38",
+      "Definition 2 for term 38"
+    ],
+    "examples": [
+      "Example 1 for term 38",
+      "Example 2 for term 38"
+    ]
+  },
+  {
+    "term_en": "heat_term_39",
+    "term_te": "వేడి పదం 39",
+    "defs": [
+      "Definition 1 for term 39",
+      "Definition 2 for term 39"
+    ],
+    "examples": [
+      "Example 1 for term 39",
+      "Example 2 for term 39"
+    ]
+  },
+  {
+    "term_en": "heat_term_40",
+    "term_te": "వేడి పదం 40",
+    "defs": [
+      "Definition 1 for term 40",
+      "Definition 2 for term 40"
+    ],
+    "examples": [
+      "Example 1 for term 40",
+      "Example 2 for term 40"
+    ]
+  },
+  {
+    "term_en": "heat_term_41",
+    "term_te": "వేడి పదం 41",
+    "defs": [
+      "Definition 1 for term 41",
+      "Definition 2 for term 41"
+    ],
+    "examples": [
+      "Example 1 for term 41",
+      "Example 2 for term 41"
+    ]
+  },
+  {
+    "term_en": "heat_term_42",
+    "term_te": "వేడి పదం 42",
+    "defs": [
+      "Definition 1 for term 42",
+      "Definition 2 for term 42"
+    ],
+    "examples": [
+      "Example 1 for term 42",
+      "Example 2 for term 42"
+    ]
+  },
+  {
+    "term_en": "heat_term_43",
+    "term_te": "వేడి పదం 43",
+    "defs": [
+      "Definition 1 for term 43",
+      "Definition 2 for term 43"
+    ],
+    "examples": [
+      "Example 1 for term 43",
+      "Example 2 for term 43"
+    ]
+  },
+  {
+    "term_en": "heat_term_44",
+    "term_te": "వేడి పదం 44",
+    "defs": [
+      "Definition 1 for term 44",
+      "Definition 2 for term 44"
+    ],
+    "examples": [
+      "Example 1 for term 44",
+      "Example 2 for term 44"
+    ]
+  },
+  {
+    "term_en": "heat_term_45",
+    "term_te": "వేడి పదం 45",
+    "defs": [
+      "Definition 1 for term 45",
+      "Definition 2 for term 45"
+    ],
+    "examples": [
+      "Example 1 for term 45",
+      "Example 2 for term 45"
+    ]
+  },
+  {
+    "term_en": "heat_term_46",
+    "term_te": "వేడి పదం 46",
+    "defs": [
+      "Definition 1 for term 46",
+      "Definition 2 for term 46"
+    ],
+    "examples": [
+      "Example 1 for term 46",
+      "Example 2 for term 46"
+    ]
+  },
+  {
+    "term_en": "heat_term_47",
+    "term_te": "వేడి పదం 47",
+    "defs": [
+      "Definition 1 for term 47",
+      "Definition 2 for term 47"
+    ],
+    "examples": [
+      "Example 1 for term 47",
+      "Example 2 for term 47"
+    ]
+  },
+  {
+    "term_en": "heat_term_48",
+    "term_te": "వేడి పదం 48",
+    "defs": [
+      "Definition 1 for term 48",
+      "Definition 2 for term 48"
+    ],
+    "examples": [
+      "Example 1 for term 48",
+      "Example 2 for term 48"
+    ]
+  },
+  {
+    "term_en": "heat_term_49",
+    "term_te": "వేడి పదం 49",
+    "defs": [
+      "Definition 1 for term 49",
+      "Definition 2 for term 49"
+    ],
+    "examples": [
+      "Example 1 for term 49",
+      "Example 2 for term 49"
+    ]
+  },
+  {
+    "term_en": "heat_term_50",
+    "term_te": "వేడి పదం 50",
+    "defs": [
+      "Definition 1 for term 50",
+      "Definition 2 for term 50"
+    ],
+    "examples": [
+      "Example 1 for term 50",
+      "Example 2 for term 50"
+    ]
+  },
+  {
+    "term_en": "heat_term_51",
+    "term_te": "వేడి పదం 51",
+    "defs": [
+      "Definition 1 for term 51",
+      "Definition 2 for term 51"
+    ],
+    "examples": [
+      "Example 1 for term 51",
+      "Example 2 for term 51"
+    ]
+  },
+  {
+    "term_en": "heat_term_52",
+    "term_te": "వేడి పదం 52",
+    "defs": [
+      "Definition 1 for term 52",
+      "Definition 2 for term 52"
+    ],
+    "examples": [
+      "Example 1 for term 52",
+      "Example 2 for term 52"
+    ]
+  },
+  {
+    "term_en": "heat_term_53",
+    "term_te": "వేడి పదం 53",
+    "defs": [
+      "Definition 1 for term 53",
+      "Definition 2 for term 53"
+    ],
+    "examples": [
+      "Example 1 for term 53",
+      "Example 2 for term 53"
+    ]
+  },
+  {
+    "term_en": "heat_term_54",
+    "term_te": "వేడి పదం 54",
+    "defs": [
+      "Definition 1 for term 54",
+      "Definition 2 for term 54"
+    ],
+    "examples": [
+      "Example 1 for term 54",
+      "Example 2 for term 54"
+    ]
+  },
+  {
+    "term_en": "heat_term_55",
+    "term_te": "వేడి పదం 55",
+    "defs": [
+      "Definition 1 for term 55",
+      "Definition 2 for term 55"
+    ],
+    "examples": [
+      "Example 1 for term 55",
+      "Example 2 for term 55"
+    ]
+  },
+  {
+    "term_en": "heat_term_56",
+    "term_te": "వేడి పదం 56",
+    "defs": [
+      "Definition 1 for term 56",
+      "Definition 2 for term 56"
+    ],
+    "examples": [
+      "Example 1 for term 56",
+      "Example 2 for term 56"
+    ]
+  },
+  {
+    "term_en": "heat_term_57",
+    "term_te": "వేడి పదం 57",
+    "defs": [
+      "Definition 1 for term 57",
+      "Definition 2 for term 57"
+    ],
+    "examples": [
+      "Example 1 for term 57",
+      "Example 2 for term 57"
+    ]
+  },
+  {
+    "term_en": "heat_term_58",
+    "term_te": "వేడి పదం 58",
+    "defs": [
+      "Definition 1 for term 58",
+      "Definition 2 for term 58"
+    ],
+    "examples": [
+      "Example 1 for term 58",
+      "Example 2 for term 58"
+    ]
+  },
+  {
+    "term_en": "heat_term_59",
+    "term_te": "వేడి పదం 59",
+    "defs": [
+      "Definition 1 for term 59",
+      "Definition 2 for term 59"
+    ],
+    "examples": [
+      "Example 1 for term 59",
+      "Example 2 for term 59"
+    ]
+  },
+  {
+    "term_en": "heat_term_60",
+    "term_te": "వేడి పదం 60",
+    "defs": [
+      "Definition 1 for term 60",
+      "Definition 2 for term 60"
+    ],
+    "examples": [
+      "Example 1 for term 60",
+      "Example 2 for term 60"
+    ]
+  },
+  {
+    "term_en": "heat_term_61",
+    "term_te": "వేడి పదం 61",
+    "defs": [
+      "Definition 1 for term 61",
+      "Definition 2 for term 61"
+    ],
+    "examples": [
+      "Example 1 for term 61",
+      "Example 2 for term 61"
+    ]
+  },
+  {
+    "term_en": "heat_term_62",
+    "term_te": "వేడి పదం 62",
+    "defs": [
+      "Definition 1 for term 62",
+      "Definition 2 for term 62"
+    ],
+    "examples": [
+      "Example 1 for term 62",
+      "Example 2 for term 62"
+    ]
+  },
+  {
+    "term_en": "heat_term_63",
+    "term_te": "వేడి పదం 63",
+    "defs": [
+      "Definition 1 for term 63",
+      "Definition 2 for term 63"
+    ],
+    "examples": [
+      "Example 1 for term 63",
+      "Example 2 for term 63"
+    ]
+  },
+  {
+    "term_en": "heat_term_64",
+    "term_te": "వేడి పదం 64",
+    "defs": [
+      "Definition 1 for term 64",
+      "Definition 2 for term 64"
+    ],
+    "examples": [
+      "Example 1 for term 64",
+      "Example 2 for term 64"
+    ]
+  },
+  {
+    "term_en": "heat_term_65",
+    "term_te": "వేడి పదం 65",
+    "defs": [
+      "Definition 1 for term 65",
+      "Definition 2 for term 65"
+    ],
+    "examples": [
+      "Example 1 for term 65",
+      "Example 2 for term 65"
+    ]
+  },
+  {
+    "term_en": "heat_term_66",
+    "term_te": "వేడి పదం 66",
+    "defs": [
+      "Definition 1 for term 66",
+      "Definition 2 for term 66"
+    ],
+    "examples": [
+      "Example 1 for term 66",
+      "Example 2 for term 66"
+    ]
+  },
+  {
+    "term_en": "heat_term_67",
+    "term_te": "వేడి పదం 67",
+    "defs": [
+      "Definition 1 for term 67",
+      "Definition 2 for term 67"
+    ],
+    "examples": [
+      "Example 1 for term 67",
+      "Example 2 for term 67"
+    ]
+  },
+  {
+    "term_en": "heat_term_68",
+    "term_te": "వేడి పదం 68",
+    "defs": [
+      "Definition 1 for term 68",
+      "Definition 2 for term 68"
+    ],
+    "examples": [
+      "Example 1 for term 68",
+      "Example 2 for term 68"
+    ]
+  },
+  {
+    "term_en": "heat_term_69",
+    "term_te": "వేడి పదం 69",
+    "defs": [
+      "Definition 1 for term 69",
+      "Definition 2 for term 69"
+    ],
+    "examples": [
+      "Example 1 for term 69",
+      "Example 2 for term 69"
+    ]
+  },
+  {
+    "term_en": "heat_term_70",
+    "term_te": "వేడి పదం 70",
+    "defs": [
+      "Definition 1 for term 70",
+      "Definition 2 for term 70"
+    ],
+    "examples": [
+      "Example 1 for term 70",
+      "Example 2 for term 70"
+    ]
+  },
+  {
+    "term_en": "heat_term_71",
+    "term_te": "వేడి పదం 71",
+    "defs": [
+      "Definition 1 for term 71",
+      "Definition 2 for term 71"
+    ],
+    "examples": [
+      "Example 1 for term 71",
+      "Example 2 for term 71"
+    ]
+  },
+  {
+    "term_en": "heat_term_72",
+    "term_te": "వేడి పదం 72",
+    "defs": [
+      "Definition 1 for term 72",
+      "Definition 2 for term 72"
+    ],
+    "examples": [
+      "Example 1 for term 72",
+      "Example 2 for term 72"
+    ]
+  },
+  {
+    "term_en": "heat_term_73",
+    "term_te": "వేడి పదం 73",
+    "defs": [
+      "Definition 1 for term 73",
+      "Definition 2 for term 73"
+    ],
+    "examples": [
+      "Example 1 for term 73",
+      "Example 2 for term 73"
+    ]
+  },
+  {
+    "term_en": "heat_term_74",
+    "term_te": "వేడి పదం 74",
+    "defs": [
+      "Definition 1 for term 74",
+      "Definition 2 for term 74"
+    ],
+    "examples": [
+      "Example 1 for term 74",
+      "Example 2 for term 74"
+    ]
+  },
+  {
+    "term_en": "heat_term_75",
+    "term_te": "వేడి పదం 75",
+    "defs": [
+      "Definition 1 for term 75",
+      "Definition 2 for term 75"
+    ],
+    "examples": [
+      "Example 1 for term 75",
+      "Example 2 for term 75"
+    ]
+  },
+  {
+    "term_en": "heat_term_76",
+    "term_te": "వేడి పదం 76",
+    "defs": [
+      "Definition 1 for term 76",
+      "Definition 2 for term 76"
+    ],
+    "examples": [
+      "Example 1 for term 76",
+      "Example 2 for term 76"
+    ]
+  },
+  {
+    "term_en": "heat_term_77",
+    "term_te": "వేడి పదం 77",
+    "defs": [
+      "Definition 1 for term 77",
+      "Definition 2 for term 77"
+    ],
+    "examples": [
+      "Example 1 for term 77",
+      "Example 2 for term 77"
+    ]
+  },
+  {
+    "term_en": "heat_term_78",
+    "term_te": "వేడి పదం 78",
+    "defs": [
+      "Definition 1 for term 78",
+      "Definition 2 for term 78"
+    ],
+    "examples": [
+      "Example 1 for term 78",
+      "Example 2 for term 78"
+    ]
+  },
+  {
+    "term_en": "heat_term_79",
+    "term_te": "వేడి పదం 79",
+    "defs": [
+      "Definition 1 for term 79",
+      "Definition 2 for term 79"
+    ],
+    "examples": [
+      "Example 1 for term 79",
+      "Example 2 for term 79"
+    ]
+  },
+  {
+    "term_en": "heat_term_80",
+    "term_te": "వేడి పదం 80",
+    "defs": [
+      "Definition 1 for term 80",
+      "Definition 2 for term 80"
+    ],
+    "examples": [
+      "Example 1 for term 80",
+      "Example 2 for term 80"
+    ]
+  },
+  {
+    "term_en": "heat_term_81",
+    "term_te": "వేడి పదం 81",
+    "defs": [
+      "Definition 1 for term 81",
+      "Definition 2 for term 81"
+    ],
+    "examples": [
+      "Example 1 for term 81",
+      "Example 2 for term 81"
+    ]
+  },
+  {
+    "term_en": "heat_term_82",
+    "term_te": "వేడి పదం 82",
+    "defs": [
+      "Definition 1 for term 82",
+      "Definition 2 for term 82"
+    ],
+    "examples": [
+      "Example 1 for term 82",
+      "Example 2 for term 82"
+    ]
+  },
+  {
+    "term_en": "heat_term_83",
+    "term_te": "వేడి పదం 83",
+    "defs": [
+      "Definition 1 for term 83",
+      "Definition 2 for term 83"
+    ],
+    "examples": [
+      "Example 1 for term 83",
+      "Example 2 for term 83"
+    ]
+  },
+  {
+    "term_en": "heat_term_84",
+    "term_te": "వేడి పదం 84",
+    "defs": [
+      "Definition 1 for term 84",
+      "Definition 2 for term 84"
+    ],
+    "examples": [
+      "Example 1 for term 84",
+      "Example 2 for term 84"
+    ]
+  },
+  {
+    "term_en": "heat_term_85",
+    "term_te": "వేడి పదం 85",
+    "defs": [
+      "Definition 1 for term 85",
+      "Definition 2 for term 85"
+    ],
+    "examples": [
+      "Example 1 for term 85",
+      "Example 2 for term 85"
+    ]
+  },
+  {
+    "term_en": "heat_term_86",
+    "term_te": "వేడి పదం 86",
+    "defs": [
+      "Definition 1 for term 86",
+      "Definition 2 for term 86"
+    ],
+    "examples": [
+      "Example 1 for term 86",
+      "Example 2 for term 86"
+    ]
+  },
+  {
+    "term_en": "heat_term_87",
+    "term_te": "వేడి పదం 87",
+    "defs": [
+      "Definition 1 for term 87",
+      "Definition 2 for term 87"
+    ],
+    "examples": [
+      "Example 1 for term 87",
+      "Example 2 for term 87"
+    ]
+  },
+  {
+    "term_en": "heat_term_88",
+    "term_te": "వేడి పదం 88",
+    "defs": [
+      "Definition 1 for term 88",
+      "Definition 2 for term 88"
+    ],
+    "examples": [
+      "Example 1 for term 88",
+      "Example 2 for term 88"
+    ]
+  },
+  {
+    "term_en": "heat_term_89",
+    "term_te": "వేడి పదం 89",
+    "defs": [
+      "Definition 1 for term 89",
+      "Definition 2 for term 89"
+    ],
+    "examples": [
+      "Example 1 for term 89",
+      "Example 2 for term 89"
+    ]
+  },
+  {
+    "term_en": "heat_term_90",
+    "term_te": "వేడి పదం 90",
+    "defs": [
+      "Definition 1 for term 90",
+      "Definition 2 for term 90"
+    ],
+    "examples": [
+      "Example 1 for term 90",
+      "Example 2 for term 90"
+    ]
+  },
+  {
+    "term_en": "heat_term_91",
+    "term_te": "వేడి పదం 91",
+    "defs": [
+      "Definition 1 for term 91",
+      "Definition 2 for term 91"
+    ],
+    "examples": [
+      "Example 1 for term 91",
+      "Example 2 for term 91"
+    ]
+  },
+  {
+    "term_en": "heat_term_92",
+    "term_te": "వేడి పదం 92",
+    "defs": [
+      "Definition 1 for term 92",
+      "Definition 2 for term 92"
+    ],
+    "examples": [
+      "Example 1 for term 92",
+      "Example 2 for term 92"
+    ]
+  },
+  {
+    "term_en": "heat_term_93",
+    "term_te": "వేడి పదం 93",
+    "defs": [
+      "Definition 1 for term 93",
+      "Definition 2 for term 93"
+    ],
+    "examples": [
+      "Example 1 for term 93",
+      "Example 2 for term 93"
+    ]
+  },
+  {
+    "term_en": "heat_term_94",
+    "term_te": "వేడి పదం 94",
+    "defs": [
+      "Definition 1 for term 94",
+      "Definition 2 for term 94"
+    ],
+    "examples": [
+      "Example 1 for term 94",
+      "Example 2 for term 94"
+    ]
+  },
+  {
+    "term_en": "heat_term_95",
+    "term_te": "వేడి పదం 95",
+    "defs": [
+      "Definition 1 for term 95",
+      "Definition 2 for term 95"
+    ],
+    "examples": [
+      "Example 1 for term 95",
+      "Example 2 for term 95"
+    ]
+  },
+  {
+    "term_en": "heat_term_96",
+    "term_te": "వేడి పదం 96",
+    "defs": [
+      "Definition 1 for term 96",
+      "Definition 2 for term 96"
+    ],
+    "examples": [
+      "Example 1 for term 96",
+      "Example 2 for term 96"
+    ]
+  },
+  {
+    "term_en": "heat_term_97",
+    "term_te": "వేడి పదం 97",
+    "defs": [
+      "Definition 1 for term 97",
+      "Definition 2 for term 97"
+    ],
+    "examples": [
+      "Example 1 for term 97",
+      "Example 2 for term 97"
+    ]
+  },
+  {
+    "term_en": "heat_term_98",
+    "term_te": "వేడి పదం 98",
+    "defs": [
+      "Definition 1 for term 98",
+      "Definition 2 for term 98"
+    ],
+    "examples": [
+      "Example 1 for term 98",
+      "Example 2 for term 98"
+    ]
+  },
+  {
+    "term_en": "heat_term_99",
+    "term_te": "వేడి పదం 99",
+    "defs": [
+      "Definition 1 for term 99",
+      "Definition 2 for term 99"
+    ],
+    "examples": [
+      "Example 1 for term 99",
+      "Example 2 for term 99"
+    ]
+  },
+  {
+    "term_en": "heat_term_100",
+    "term_te": "వేడి పదం 100",
+    "defs": [
+      "Definition 1 for term 100",
+      "Definition 2 for term 100"
+    ],
+    "examples": [
+      "Example 1 for term 100",
+      "Example 2 for term 100"
+    ]
+  },
+  {
+    "term_en": "heat_term_101",
+    "term_te": "వేడి పదం 101",
+    "defs": [
+      "Definition 1 for term 101",
+      "Definition 2 for term 101"
+    ],
+    "examples": [
+      "Example 1 for term 101",
+      "Example 2 for term 101"
+    ]
+  },
+  {
+    "term_en": "heat_term_102",
+    "term_te": "వేడి పదం 102",
+    "defs": [
+      "Definition 1 for term 102",
+      "Definition 2 for term 102"
+    ],
+    "examples": [
+      "Example 1 for term 102",
+      "Example 2 for term 102"
+    ]
+  },
+  {
+    "term_en": "heat_term_103",
+    "term_te": "వేడి పదం 103",
+    "defs": [
+      "Definition 1 for term 103",
+      "Definition 2 for term 103"
+    ],
+    "examples": [
+      "Example 1 for term 103",
+      "Example 2 for term 103"
+    ]
+  },
+  {
+    "term_en": "heat_term_104",
+    "term_te": "వేడి పదం 104",
+    "defs": [
+      "Definition 1 for term 104",
+      "Definition 2 for term 104"
+    ],
+    "examples": [
+      "Example 1 for term 104",
+      "Example 2 for term 104"
+    ]
+  },
+  {
+    "term_en": "heat_term_105",
+    "term_te": "వేడి పదం 105",
+    "defs": [
+      "Definition 1 for term 105",
+      "Definition 2 for term 105"
+    ],
+    "examples": [
+      "Example 1 for term 105",
+      "Example 2 for term 105"
+    ]
+  },
+  {
+    "term_en": "heat_term_106",
+    "term_te": "వేడి పదం 106",
+    "defs": [
+      "Definition 1 for term 106",
+      "Definition 2 for term 106"
+    ],
+    "examples": [
+      "Example 1 for term 106",
+      "Example 2 for term 106"
+    ]
+  },
+  {
+    "term_en": "heat_term_107",
+    "term_te": "వేడి పదం 107",
+    "defs": [
+      "Definition 1 for term 107",
+      "Definition 2 for term 107"
+    ],
+    "examples": [
+      "Example 1 for term 107",
+      "Example 2 for term 107"
+    ]
+  },
+  {
+    "term_en": "heat_term_108",
+    "term_te": "వేడి పదం 108",
+    "defs": [
+      "Definition 1 for term 108",
+      "Definition 2 for term 108"
+    ],
+    "examples": [
+      "Example 1 for term 108",
+      "Example 2 for term 108"
+    ]
+  },
+  {
+    "term_en": "heat_term_109",
+    "term_te": "వేడి పదం 109",
+    "defs": [
+      "Definition 1 for term 109",
+      "Definition 2 for term 109"
+    ],
+    "examples": [
+      "Example 1 for term 109",
+      "Example 2 for term 109"
+    ]
+  },
+  {
+    "term_en": "heat_term_110",
+    "term_te": "వేడి పదం 110",
+    "defs": [
+      "Definition 1 for term 110",
+      "Definition 2 for term 110"
+    ],
+    "examples": [
+      "Example 1 for term 110",
+      "Example 2 for term 110"
+    ]
+  },
+  {
+    "term_en": "heat_term_111",
+    "term_te": "వేడి పదం 111",
+    "defs": [
+      "Definition 1 for term 111",
+      "Definition 2 for term 111"
+    ],
+    "examples": [
+      "Example 1 for term 111",
+      "Example 2 for term 111"
+    ]
+  },
+  {
+    "term_en": "heat_term_112",
+    "term_te": "వేడి పదం 112",
+    "defs": [
+      "Definition 1 for term 112",
+      "Definition 2 for term 112"
+    ],
+    "examples": [
+      "Example 1 for term 112",
+      "Example 2 for term 112"
+    ]
+  },
+  {
+    "term_en": "heat_term_113",
+    "term_te": "వేడి పదం 113",
+    "defs": [
+      "Definition 1 for term 113",
+      "Definition 2 for term 113"
+    ],
+    "examples": [
+      "Example 1 for term 113",
+      "Example 2 for term 113"
+    ]
+  },
+  {
+    "term_en": "heat_term_114",
+    "term_te": "వేడి పదం 114",
+    "defs": [
+      "Definition 1 for term 114",
+      "Definition 2 for term 114"
+    ],
+    "examples": [
+      "Example 1 for term 114",
+      "Example 2 for term 114"
+    ]
+  },
+  {
+    "term_en": "heat_term_115",
+    "term_te": "వేడి పదం 115",
+    "defs": [
+      "Definition 1 for term 115",
+      "Definition 2 for term 115"
+    ],
+    "examples": [
+      "Example 1 for term 115",
+      "Example 2 for term 115"
+    ]
+  },
+  {
+    "term_en": "heat_term_116",
+    "term_te": "వేడి పదం 116",
+    "defs": [
+      "Definition 1 for term 116",
+      "Definition 2 for term 116"
+    ],
+    "examples": [
+      "Example 1 for term 116",
+      "Example 2 for term 116"
+    ]
+  },
+  {
+    "term_en": "heat_term_117",
+    "term_te": "వేడి పదం 117",
+    "defs": [
+      "Definition 1 for term 117",
+      "Definition 2 for term 117"
+    ],
+    "examples": [
+      "Example 1 for term 117",
+      "Example 2 for term 117"
+    ]
+  },
+  {
+    "term_en": "heat_term_118",
+    "term_te": "వేడి పదం 118",
+    "defs": [
+      "Definition 1 for term 118",
+      "Definition 2 for term 118"
+    ],
+    "examples": [
+      "Example 1 for term 118",
+      "Example 2 for term 118"
+    ]
+  },
+  {
+    "term_en": "heat_term_119",
+    "term_te": "వేడి పదం 119",
+    "defs": [
+      "Definition 1 for term 119",
+      "Definition 2 for term 119"
+    ],
+    "examples": [
+      "Example 1 for term 119",
+      "Example 2 for term 119"
+    ]
+  },
+  {
+    "term_en": "heat_term_120",
+    "term_te": "వేడి పదం 120",
+    "defs": [
+      "Definition 1 for term 120",
+      "Definition 2 for term 120"
+    ],
+    "examples": [
+      "Example 1 for term 120",
+      "Example 2 for term 120"
+    ]
+  },
+  {
+    "term_en": "heat_term_121",
+    "term_te": "వేడి పదం 121",
+    "defs": [
+      "Definition 1 for term 121",
+      "Definition 2 for term 121"
+    ],
+    "examples": [
+      "Example 1 for term 121",
+      "Example 2 for term 121"
+    ]
+  },
+  {
+    "term_en": "heat_term_122",
+    "term_te": "వేడి పదం 122",
+    "defs": [
+      "Definition 1 for term 122",
+      "Definition 2 for term 122"
+    ],
+    "examples": [
+      "Example 1 for term 122",
+      "Example 2 for term 122"
+    ]
+  },
+  {
+    "term_en": "heat_term_123",
+    "term_te": "వేడి పదం 123",
+    "defs": [
+      "Definition 1 for term 123",
+      "Definition 2 for term 123"
+    ],
+    "examples": [
+      "Example 1 for term 123",
+      "Example 2 for term 123"
+    ]
+  },
+  {
+    "term_en": "heat_term_124",
+    "term_te": "వేడి పదం 124",
+    "defs": [
+      "Definition 1 for term 124",
+      "Definition 2 for term 124"
+    ],
+    "examples": [
+      "Example 1 for term 124",
+      "Example 2 for term 124"
+    ]
+  },
+  {
+    "term_en": "heat_term_125",
+    "term_te": "వేడి పదం 125",
+    "defs": [
+      "Definition 1 for term 125",
+      "Definition 2 for term 125"
+    ],
+    "examples": [
+      "Example 1 for term 125",
+      "Example 2 for term 125"
+    ]
+  },
+  {
+    "term_en": "heat_term_126",
+    "term_te": "వేడి పదం 126",
+    "defs": [
+      "Definition 1 for term 126",
+      "Definition 2 for term 126"
+    ],
+    "examples": [
+      "Example 1 for term 126",
+      "Example 2 for term 126"
+    ]
+  },
+  {
+    "term_en": "heat_term_127",
+    "term_te": "వేడి పదం 127",
+    "defs": [
+      "Definition 1 for term 127",
+      "Definition 2 for term 127"
+    ],
+    "examples": [
+      "Example 1 for term 127",
+      "Example 2 for term 127"
+    ]
+  },
+  {
+    "term_en": "heat_term_128",
+    "term_te": "వేడి పదం 128",
+    "defs": [
+      "Definition 1 for term 128",
+      "Definition 2 for term 128"
+    ],
+    "examples": [
+      "Example 1 for term 128",
+      "Example 2 for term 128"
+    ]
+  },
+  {
+    "term_en": "heat_term_129",
+    "term_te": "వేడి పదం 129",
+    "defs": [
+      "Definition 1 for term 129",
+      "Definition 2 for term 129"
+    ],
+    "examples": [
+      "Example 1 for term 129",
+      "Example 2 for term 129"
+    ]
+  },
+  {
+    "term_en": "heat_term_130",
+    "term_te": "వేడి పదం 130",
+    "defs": [
+      "Definition 1 for term 130",
+      "Definition 2 for term 130"
+    ],
+    "examples": [
+      "Example 1 for term 130",
+      "Example 2 for term 130"
+    ]
+  },
+  {
+    "term_en": "heat_term_131",
+    "term_te": "వేడి పదం 131",
+    "defs": [
+      "Definition 1 for term 131",
+      "Definition 2 for term 131"
+    ],
+    "examples": [
+      "Example 1 for term 131",
+      "Example 2 for term 131"
+    ]
+  },
+  {
+    "term_en": "heat_term_132",
+    "term_te": "వేడి పదం 132",
+    "defs": [
+      "Definition 1 for term 132",
+      "Definition 2 for term 132"
+    ],
+    "examples": [
+      "Example 1 for term 132",
+      "Example 2 for term 132"
+    ]
+  },
+  {
+    "term_en": "heat_term_133",
+    "term_te": "వేడి పదం 133",
+    "defs": [
+      "Definition 1 for term 133",
+      "Definition 2 for term 133"
+    ],
+    "examples": [
+      "Example 1 for term 133",
+      "Example 2 for term 133"
+    ]
+  },
+  {
+    "term_en": "heat_term_134",
+    "term_te": "వేడి పదం 134",
+    "defs": [
+      "Definition 1 for term 134",
+      "Definition 2 for term 134"
+    ],
+    "examples": [
+      "Example 1 for term 134",
+      "Example 2 for term 134"
+    ]
+  },
+  {
+    "term_en": "heat_term_135",
+    "term_te": "వేడి పదం 135",
+    "defs": [
+      "Definition 1 for term 135",
+      "Definition 2 for term 135"
+    ],
+    "examples": [
+      "Example 1 for term 135",
+      "Example 2 for term 135"
+    ]
+  },
+  {
+    "term_en": "heat_term_136",
+    "term_te": "వేడి పదం 136",
+    "defs": [
+      "Definition 1 for term 136",
+      "Definition 2 for term 136"
+    ],
+    "examples": [
+      "Example 1 for term 136",
+      "Example 2 for term 136"
+    ]
+  },
+  {
+    "term_en": "heat_term_137",
+    "term_te": "వేడి పదం 137",
+    "defs": [
+      "Definition 1 for term 137",
+      "Definition 2 for term 137"
+    ],
+    "examples": [
+      "Example 1 for term 137",
+      "Example 2 for term 137"
+    ]
+  },
+  {
+    "term_en": "heat_term_138",
+    "term_te": "వేడి పదం 138",
+    "defs": [
+      "Definition 1 for term 138",
+      "Definition 2 for term 138"
+    ],
+    "examples": [
+      "Example 1 for term 138",
+      "Example 2 for term 138"
+    ]
+  },
+  {
+    "term_en": "heat_term_139",
+    "term_te": "వేడి పదం 139",
+    "defs": [
+      "Definition 1 for term 139",
+      "Definition 2 for term 139"
+    ],
+    "examples": [
+      "Example 1 for term 139",
+      "Example 2 for term 139"
+    ]
+  },
+  {
+    "term_en": "heat_term_140",
+    "term_te": "వేడి పదం 140",
+    "defs": [
+      "Definition 1 for term 140",
+      "Definition 2 for term 140"
+    ],
+    "examples": [
+      "Example 1 for term 140",
+      "Example 2 for term 140"
+    ]
+  },
+  {
+    "term_en": "heat_term_141",
+    "term_te": "వేడి పదం 141",
+    "defs": [
+      "Definition 1 for term 141",
+      "Definition 2 for term 141"
+    ],
+    "examples": [
+      "Example 1 for term 141",
+      "Example 2 for term 141"
+    ]
+  },
+  {
+    "term_en": "heat_term_142",
+    "term_te": "వేడి పదం 142",
+    "defs": [
+      "Definition 1 for term 142",
+      "Definition 2 for term 142"
+    ],
+    "examples": [
+      "Example 1 for term 142",
+      "Example 2 for term 142"
+    ]
+  },
+  {
+    "term_en": "heat_term_143",
+    "term_te": "వేడి పదం 143",
+    "defs": [
+      "Definition 1 for term 143",
+      "Definition 2 for term 143"
+    ],
+    "examples": [
+      "Example 1 for term 143",
+      "Example 2 for term 143"
+    ]
+  },
+  {
+    "term_en": "heat_term_144",
+    "term_te": "వేడి పదం 144",
+    "defs": [
+      "Definition 1 for term 144",
+      "Definition 2 for term 144"
+    ],
+    "examples": [
+      "Example 1 for term 144",
+      "Example 2 for term 144"
+    ]
+  },
+  {
+    "term_en": "heat_term_145",
+    "term_te": "వేడి పదం 145",
+    "defs": [
+      "Definition 1 for term 145",
+      "Definition 2 for term 145"
+    ],
+    "examples": [
+      "Example 1 for term 145",
+      "Example 2 for term 145"
+    ]
+  },
+  {
+    "term_en": "heat_term_146",
+    "term_te": "వేడి పదం 146",
+    "defs": [
+      "Definition 1 for term 146",
+      "Definition 2 for term 146"
+    ],
+    "examples": [
+      "Example 1 for term 146",
+      "Example 2 for term 146"
+    ]
+  },
+  {
+    "term_en": "heat_term_147",
+    "term_te": "వేడి పదం 147",
+    "defs": [
+      "Definition 1 for term 147",
+      "Definition 2 for term 147"
+    ],
+    "examples": [
+      "Example 1 for term 147",
+      "Example 2 for term 147"
+    ]
+  },
+  {
+    "term_en": "heat_term_148",
+    "term_te": "వేడి పదం 148",
+    "defs": [
+      "Definition 1 for term 148",
+      "Definition 2 for term 148"
+    ],
+    "examples": [
+      "Example 1 for term 148",
+      "Example 2 for term 148"
+    ]
+  },
+  {
+    "term_en": "heat_term_149",
+    "term_te": "వేడి పదం 149",
+    "defs": [
+      "Definition 1 for term 149",
+      "Definition 2 for term 149"
+    ],
+    "examples": [
+      "Example 1 for term 149",
+      "Example 2 for term 149"
+    ]
+  },
+  {
+    "term_en": "heat_term_150",
+    "term_te": "వేడి పదం 150",
+    "defs": [
+      "Definition 1 for term 150",
+      "Definition 2 for term 150"
+    ],
+    "examples": [
+      "Example 1 for term 150",
+      "Example 2 for term 150"
+    ]
+  },
+  {
+    "term_en": "heat_term_151",
+    "term_te": "వేడి పదం 151",
+    "defs": [
+      "Definition 1 for term 151",
+      "Definition 2 for term 151"
+    ],
+    "examples": [
+      "Example 1 for term 151",
+      "Example 2 for term 151"
+    ]
+  },
+  {
+    "term_en": "heat_term_152",
+    "term_te": "వేడి పదం 152",
+    "defs": [
+      "Definition 1 for term 152",
+      "Definition 2 for term 152"
+    ],
+    "examples": [
+      "Example 1 for term 152",
+      "Example 2 for term 152"
+    ]
+  },
+  {
+    "term_en": "heat_term_153",
+    "term_te": "వేడి పదం 153",
+    "defs": [
+      "Definition 1 for term 153",
+      "Definition 2 for term 153"
+    ],
+    "examples": [
+      "Example 1 for term 153",
+      "Example 2 for term 153"
+    ]
+  },
+  {
+    "term_en": "heat_term_154",
+    "term_te": "వేడి పదం 154",
+    "defs": [
+      "Definition 1 for term 154",
+      "Definition 2 for term 154"
+    ],
+    "examples": [
+      "Example 1 for term 154",
+      "Example 2 for term 154"
+    ]
+  },
+  {
+    "term_en": "heat_term_155",
+    "term_te": "వేడి పదం 155",
+    "defs": [
+      "Definition 1 for term 155",
+      "Definition 2 for term 155"
+    ],
+    "examples": [
+      "Example 1 for term 155",
+      "Example 2 for term 155"
+    ]
+  },
+  {
+    "term_en": "heat_term_156",
+    "term_te": "వేడి పదం 156",
+    "defs": [
+      "Definition 1 for term 156",
+      "Definition 2 for term 156"
+    ],
+    "examples": [
+      "Example 1 for term 156",
+      "Example 2 for term 156"
+    ]
+  },
+  {
+    "term_en": "heat_term_157",
+    "term_te": "వేడి పదం 157",
+    "defs": [
+      "Definition 1 for term 157",
+      "Definition 2 for term 157"
+    ],
+    "examples": [
+      "Example 1 for term 157",
+      "Example 2 for term 157"
+    ]
+  },
+  {
+    "term_en": "heat_term_158",
+    "term_te": "వేడి పదం 158",
+    "defs": [
+      "Definition 1 for term 158",
+      "Definition 2 for term 158"
+    ],
+    "examples": [
+      "Example 1 for term 158",
+      "Example 2 for term 158"
+    ]
+  },
+  {
+    "term_en": "heat_term_159",
+    "term_te": "వేడి పదం 159",
+    "defs": [
+      "Definition 1 for term 159",
+      "Definition 2 for term 159"
+    ],
+    "examples": [
+      "Example 1 for term 159",
+      "Example 2 for term 159"
+    ]
+  },
+  {
+    "term_en": "heat_term_160",
+    "term_te": "వేడి పదం 160",
+    "defs": [
+      "Definition 1 for term 160",
+      "Definition 2 for term 160"
+    ],
+    "examples": [
+      "Example 1 for term 160",
+      "Example 2 for term 160"
+    ]
+  },
+  {
+    "term_en": "heat_term_161",
+    "term_te": "వేడి పదం 161",
+    "defs": [
+      "Definition 1 for term 161",
+      "Definition 2 for term 161"
+    ],
+    "examples": [
+      "Example 1 for term 161",
+      "Example 2 for term 161"
+    ]
+  },
+  {
+    "term_en": "heat_term_162",
+    "term_te": "వేడి పదం 162",
+    "defs": [
+      "Definition 1 for term 162",
+      "Definition 2 for term 162"
+    ],
+    "examples": [
+      "Example 1 for term 162",
+      "Example 2 for term 162"
+    ]
+  },
+  {
+    "term_en": "heat_term_163",
+    "term_te": "వేడి పదం 163",
+    "defs": [
+      "Definition 1 for term 163",
+      "Definition 2 for term 163"
+    ],
+    "examples": [
+      "Example 1 for term 163",
+      "Example 2 for term 163"
+    ]
+  },
+  {
+    "term_en": "heat_term_164",
+    "term_te": "వేడి పదం 164",
+    "defs": [
+      "Definition 1 for term 164",
+      "Definition 2 for term 164"
+    ],
+    "examples": [
+      "Example 1 for term 164",
+      "Example 2 for term 164"
+    ]
+  },
+  {
+    "term_en": "heat_term_165",
+    "term_te": "వేడి పదం 165",
+    "defs": [
+      "Definition 1 for term 165",
+      "Definition 2 for term 165"
+    ],
+    "examples": [
+      "Example 1 for term 165",
+      "Example 2 for term 165"
+    ]
+  },
+  {
+    "term_en": "heat_term_166",
+    "term_te": "వేడి పదం 166",
+    "defs": [
+      "Definition 1 for term 166",
+      "Definition 2 for term 166"
+    ],
+    "examples": [
+      "Example 1 for term 166",
+      "Example 2 for term 166"
+    ]
+  },
+  {
+    "term_en": "heat_term_167",
+    "term_te": "వేడి పదం 167",
+    "defs": [
+      "Definition 1 for term 167",
+      "Definition 2 for term 167"
+    ],
+    "examples": [
+      "Example 1 for term 167",
+      "Example 2 for term 167"
+    ]
+  },
+  {
+    "term_en": "heat_term_168",
+    "term_te": "వేడి పదం 168",
+    "defs": [
+      "Definition 1 for term 168",
+      "Definition 2 for term 168"
+    ],
+    "examples": [
+      "Example 1 for term 168",
+      "Example 2 for term 168"
+    ]
+  },
+  {
+    "term_en": "heat_term_169",
+    "term_te": "వేడి పదం 169",
+    "defs": [
+      "Definition 1 for term 169",
+      "Definition 2 for term 169"
+    ],
+    "examples": [
+      "Example 1 for term 169",
+      "Example 2 for term 169"
+    ]
+  },
+  {
+    "term_en": "heat_term_170",
+    "term_te": "వేడి పదం 170",
+    "defs": [
+      "Definition 1 for term 170",
+      "Definition 2 for term 170"
+    ],
+    "examples": [
+      "Example 1 for term 170",
+      "Example 2 for term 170"
+    ]
+  },
+  {
+    "term_en": "heat_term_171",
+    "term_te": "వేడి పదం 171",
+    "defs": [
+      "Definition 1 for term 171",
+      "Definition 2 for term 171"
+    ],
+    "examples": [
+      "Example 1 for term 171",
+      "Example 2 for term 171"
+    ]
+  },
+  {
+    "term_en": "heat_term_172",
+    "term_te": "వేడి పదం 172",
+    "defs": [
+      "Definition 1 for term 172",
+      "Definition 2 for term 172"
+    ],
+    "examples": [
+      "Example 1 for term 172",
+      "Example 2 for term 172"
+    ]
+  },
+  {
+    "term_en": "heat_term_173",
+    "term_te": "వేడి పదం 173",
+    "defs": [
+      "Definition 1 for term 173",
+      "Definition 2 for term 173"
+    ],
+    "examples": [
+      "Example 1 for term 173",
+      "Example 2 for term 173"
+    ]
+  },
+  {
+    "term_en": "heat_term_174",
+    "term_te": "వేడి పదం 174",
+    "defs": [
+      "Definition 1 for term 174",
+      "Definition 2 for term 174"
+    ],
+    "examples": [
+      "Example 1 for term 174",
+      "Example 2 for term 174"
+    ]
+  },
+  {
+    "term_en": "heat_term_175",
+    "term_te": "వేడి పదం 175",
+    "defs": [
+      "Definition 1 for term 175",
+      "Definition 2 for term 175"
+    ],
+    "examples": [
+      "Example 1 for term 175",
+      "Example 2 for term 175"
+    ]
+  },
+  {
+    "term_en": "heat_term_176",
+    "term_te": "వేడి పదం 176",
+    "defs": [
+      "Definition 1 for term 176",
+      "Definition 2 for term 176"
+    ],
+    "examples": [
+      "Example 1 for term 176",
+      "Example 2 for term 176"
+    ]
+  },
+  {
+    "term_en": "heat_term_177",
+    "term_te": "వేడి పదం 177",
+    "defs": [
+      "Definition 1 for term 177",
+      "Definition 2 for term 177"
+    ],
+    "examples": [
+      "Example 1 for term 177",
+      "Example 2 for term 177"
+    ]
+  },
+  {
+    "term_en": "heat_term_178",
+    "term_te": "వేడి పదం 178",
+    "defs": [
+      "Definition 1 for term 178",
+      "Definition 2 for term 178"
+    ],
+    "examples": [
+      "Example 1 for term 178",
+      "Example 2 for term 178"
+    ]
+  },
+  {
+    "term_en": "heat_term_179",
+    "term_te": "వేడి పదం 179",
+    "defs": [
+      "Definition 1 for term 179",
+      "Definition 2 for term 179"
+    ],
+    "examples": [
+      "Example 1 for term 179",
+      "Example 2 for term 179"
+    ]
+  },
+  {
+    "term_en": "heat_term_180",
+    "term_te": "వేడి పదం 180",
+    "defs": [
+      "Definition 1 for term 180",
+      "Definition 2 for term 180"
+    ],
+    "examples": [
+      "Example 1 for term 180",
+      "Example 2 for term 180"
+    ]
+  },
+  {
+    "term_en": "heat_term_181",
+    "term_te": "వేడి పదం 181",
+    "defs": [
+      "Definition 1 for term 181",
+      "Definition 2 for term 181"
+    ],
+    "examples": [
+      "Example 1 for term 181",
+      "Example 2 for term 181"
+    ]
+  },
+  {
+    "term_en": "heat_term_182",
+    "term_te": "వేడి పదం 182",
+    "defs": [
+      "Definition 1 for term 182",
+      "Definition 2 for term 182"
+    ],
+    "examples": [
+      "Example 1 for term 182",
+      "Example 2 for term 182"
+    ]
+  },
+  {
+    "term_en": "heat_term_183",
+    "term_te": "వేడి పదం 183",
+    "defs": [
+      "Definition 1 for term 183",
+      "Definition 2 for term 183"
+    ],
+    "examples": [
+      "Example 1 for term 183",
+      "Example 2 for term 183"
+    ]
+  },
+  {
+    "term_en": "heat_term_184",
+    "term_te": "వేడి పదం 184",
+    "defs": [
+      "Definition 1 for term 184",
+      "Definition 2 for term 184"
+    ],
+    "examples": [
+      "Example 1 for term 184",
+      "Example 2 for term 184"
+    ]
+  },
+  {
+    "term_en": "heat_term_185",
+    "term_te": "వేడి పదం 185",
+    "defs": [
+      "Definition 1 for term 185",
+      "Definition 2 for term 185"
+    ],
+    "examples": [
+      "Example 1 for term 185",
+      "Example 2 for term 185"
+    ]
+  },
+  {
+    "term_en": "heat_term_186",
+    "term_te": "వేడి పదం 186",
+    "defs": [
+      "Definition 1 for term 186",
+      "Definition 2 for term 186"
+    ],
+    "examples": [
+      "Example 1 for term 186",
+      "Example 2 for term 186"
+    ]
+  },
+  {
+    "term_en": "heat_term_187",
+    "term_te": "వేడి పదం 187",
+    "defs": [
+      "Definition 1 for term 187",
+      "Definition 2 for term 187"
+    ],
+    "examples": [
+      "Example 1 for term 187",
+      "Example 2 for term 187"
+    ]
+  },
+  {
+    "term_en": "heat_term_188",
+    "term_te": "వేడి పదం 188",
+    "defs": [
+      "Definition 1 for term 188",
+      "Definition 2 for term 188"
+    ],
+    "examples": [
+      "Example 1 for term 188",
+      "Example 2 for term 188"
+    ]
+  },
+  {
+    "term_en": "heat_term_189",
+    "term_te": "వేడి పదం 189",
+    "defs": [
+      "Definition 1 for term 189",
+      "Definition 2 for term 189"
+    ],
+    "examples": [
+      "Example 1 for term 189",
+      "Example 2 for term 189"
+    ]
+  },
+  {
+    "term_en": "heat_term_190",
+    "term_te": "వేడి పదం 190",
+    "defs": [
+      "Definition 1 for term 190",
+      "Definition 2 for term 190"
+    ],
+    "examples": [
+      "Example 1 for term 190",
+      "Example 2 for term 190"
+    ]
+  },
+  {
+    "term_en": "heat_term_191",
+    "term_te": "వేడి పదం 191",
+    "defs": [
+      "Definition 1 for term 191",
+      "Definition 2 for term 191"
+    ],
+    "examples": [
+      "Example 1 for term 191",
+      "Example 2 for term 191"
+    ]
+  },
+  {
+    "term_en": "heat_term_192",
+    "term_te": "వేడి పదం 192",
+    "defs": [
+      "Definition 1 for term 192",
+      "Definition 2 for term 192"
+    ],
+    "examples": [
+      "Example 1 for term 192",
+      "Example 2 for term 192"
+    ]
+  },
+  {
+    "term_en": "heat_term_193",
+    "term_te": "వేడి పదం 193",
+    "defs": [
+      "Definition 1 for term 193",
+      "Definition 2 for term 193"
+    ],
+    "examples": [
+      "Example 1 for term 193",
+      "Example 2 for term 193"
+    ]
+  },
+  {
+    "term_en": "heat_term_194",
+    "term_te": "వేడి పదం 194",
+    "defs": [
+      "Definition 1 for term 194",
+      "Definition 2 for term 194"
+    ],
+    "examples": [
+      "Example 1 for term 194",
+      "Example 2 for term 194"
+    ]
+  },
+  {
+    "term_en": "heat_term_195",
+    "term_te": "వేడి పదం 195",
+    "defs": [
+      "Definition 1 for term 195",
+      "Definition 2 for term 195"
+    ],
+    "examples": [
+      "Example 1 for term 195",
+      "Example 2 for term 195"
+    ]
+  },
+  {
+    "term_en": "heat_term_196",
+    "term_te": "వేడి పదం 196",
+    "defs": [
+      "Definition 1 for term 196",
+      "Definition 2 for term 196"
+    ],
+    "examples": [
+      "Example 1 for term 196",
+      "Example 2 for term 196"
+    ]
+  },
+  {
+    "term_en": "heat_term_197",
+    "term_te": "వేడి పదం 197",
+    "defs": [
+      "Definition 1 for term 197",
+      "Definition 2 for term 197"
+    ],
+    "examples": [
+      "Example 1 for term 197",
+      "Example 2 for term 197"
+    ]
+  },
+  {
+    "term_en": "heat_term_198",
+    "term_te": "వేడి పదం 198",
+    "defs": [
+      "Definition 1 for term 198",
+      "Definition 2 for term 198"
+    ],
+    "examples": [
+      "Example 1 for term 198",
+      "Example 2 for term 198"
+    ]
+  },
+  {
+    "term_en": "heat_term_199",
+    "term_te": "వేడి పదం 199",
+    "defs": [
+      "Definition 1 for term 199",
+      "Definition 2 for term 199"
+    ],
+    "examples": [
+      "Example 1 for term 199",
+      "Example 2 for term 199"
+    ]
+  },
+  {
+    "term_en": "heat_term_200",
+    "term_te": "వేడి పదం 200",
+    "defs": [
+      "Definition 1 for term 200",
+      "Definition 2 for term 200"
+    ],
+    "examples": [
+      "Example 1 for term 200",
+      "Example 2 for term 200"
+    ]
+  },
+  {
+    "term_en": "heat_term_201",
+    "term_te": "వేడి పదం 201",
+    "defs": [
+      "Definition 1 for term 201",
+      "Definition 2 for term 201"
+    ],
+    "examples": [
+      "Example 1 for term 201",
+      "Example 2 for term 201"
+    ]
+  },
+  {
+    "term_en": "heat_term_202",
+    "term_te": "వేడి పదం 202",
+    "defs": [
+      "Definition 1 for term 202",
+      "Definition 2 for term 202"
+    ],
+    "examples": [
+      "Example 1 for term 202",
+      "Example 2 for term 202"
+    ]
+  },
+  {
+    "term_en": "heat_term_203",
+    "term_te": "వేడి పదం 203",
+    "defs": [
+      "Definition 1 for term 203",
+      "Definition 2 for term 203"
+    ],
+    "examples": [
+      "Example 1 for term 203",
+      "Example 2 for term 203"
+    ]
+  },
+  {
+    "term_en": "heat_term_204",
+    "term_te": "వేడి పదం 204",
+    "defs": [
+      "Definition 1 for term 204",
+      "Definition 2 for term 204"
+    ],
+    "examples": [
+      "Example 1 for term 204",
+      "Example 2 for term 204"
+    ]
+  },
+  {
+    "term_en": "heat_term_205",
+    "term_te": "వేడి పదం 205",
+    "defs": [
+      "Definition 1 for term 205",
+      "Definition 2 for term 205"
+    ],
+    "examples": [
+      "Example 1 for term 205",
+      "Example 2 for term 205"
+    ]
+  },
+  {
+    "term_en": "heat_term_206",
+    "term_te": "వేడి పదం 206",
+    "defs": [
+      "Definition 1 for term 206",
+      "Definition 2 for term 206"
+    ],
+    "examples": [
+      "Example 1 for term 206",
+      "Example 2 for term 206"
+    ]
+  },
+  {
+    "term_en": "heat_term_207",
+    "term_te": "వేడి పదం 207",
+    "defs": [
+      "Definition 1 for term 207",
+      "Definition 2 for term 207"
+    ],
+    "examples": [
+      "Example 1 for term 207",
+      "Example 2 for term 207"
+    ]
+  },
+  {
+    "term_en": "heat_term_208",
+    "term_te": "వేడి పదం 208",
+    "defs": [
+      "Definition 1 for term 208",
+      "Definition 2 for term 208"
+    ],
+    "examples": [
+      "Example 1 for term 208",
+      "Example 2 for term 208"
+    ]
+  },
+  {
+    "term_en": "heat_term_209",
+    "term_te": "వేడి పదం 209",
+    "defs": [
+      "Definition 1 for term 209",
+      "Definition 2 for term 209"
+    ],
+    "examples": [
+      "Example 1 for term 209",
+      "Example 2 for term 209"
+    ]
+  },
+  {
+    "term_en": "heat_term_210",
+    "term_te": "వేడి పదం 210",
+    "defs": [
+      "Definition 1 for term 210",
+      "Definition 2 for term 210"
+    ],
+    "examples": [
+      "Example 1 for term 210",
+      "Example 2 for term 210"
+    ]
+  },
+  {
+    "term_en": "heat_term_211",
+    "term_te": "వేడి పదం 211",
+    "defs": [
+      "Definition 1 for term 211",
+      "Definition 2 for term 211"
+    ],
+    "examples": [
+      "Example 1 for term 211",
+      "Example 2 for term 211"
+    ]
+  },
+  {
+    "term_en": "heat_term_212",
+    "term_te": "వేడి పదం 212",
+    "defs": [
+      "Definition 1 for term 212",
+      "Definition 2 for term 212"
+    ],
+    "examples": [
+      "Example 1 for term 212",
+      "Example 2 for term 212"
+    ]
+  },
+  {
+    "term_en": "heat_term_213",
+    "term_te": "వేడి పదం 213",
+    "defs": [
+      "Definition 1 for term 213",
+      "Definition 2 for term 213"
+    ],
+    "examples": [
+      "Example 1 for term 213",
+      "Example 2 for term 213"
+    ]
+  },
+  {
+    "term_en": "heat_term_214",
+    "term_te": "వేడి పదం 214",
+    "defs": [
+      "Definition 1 for term 214",
+      "Definition 2 for term 214"
+    ],
+    "examples": [
+      "Example 1 for term 214",
+      "Example 2 for term 214"
+    ]
+  },
+  {
+    "term_en": "heat_term_215",
+    "term_te": "వేడి పదం 215",
+    "defs": [
+      "Definition 1 for term 215",
+      "Definition 2 for term 215"
+    ],
+    "examples": [
+      "Example 1 for term 215",
+      "Example 2 for term 215"
+    ]
+  },
+  {
+    "term_en": "heat_term_216",
+    "term_te": "వేడి పదం 216",
+    "defs": [
+      "Definition 1 for term 216",
+      "Definition 2 for term 216"
+    ],
+    "examples": [
+      "Example 1 for term 216",
+      "Example 2 for term 216"
+    ]
+  },
+  {
+    "term_en": "heat_term_217",
+    "term_te": "వేడి పదం 217",
+    "defs": [
+      "Definition 1 for term 217",
+      "Definition 2 for term 217"
+    ],
+    "examples": [
+      "Example 1 for term 217",
+      "Example 2 for term 217"
+    ]
+  },
+  {
+    "term_en": "heat_term_218",
+    "term_te": "వేడి పదం 218",
+    "defs": [
+      "Definition 1 for term 218",
+      "Definition 2 for term 218"
+    ],
+    "examples": [
+      "Example 1 for term 218",
+      "Example 2 for term 218"
+    ]
+  },
+  {
+    "term_en": "heat_term_219",
+    "term_te": "వేడి పదం 219",
+    "defs": [
+      "Definition 1 for term 219",
+      "Definition 2 for term 219"
+    ],
+    "examples": [
+      "Example 1 for term 219",
+      "Example 2 for term 219"
+    ]
+  },
+  {
+    "term_en": "heat_term_220",
+    "term_te": "వేడి పదం 220",
+    "defs": [
+      "Definition 1 for term 220",
+      "Definition 2 for term 220"
+    ],
+    "examples": [
+      "Example 1 for term 220",
+      "Example 2 for term 220"
+    ]
+  },
+  {
+    "term_en": "heat_term_221",
+    "term_te": "వేడి పదం 221",
+    "defs": [
+      "Definition 1 for term 221",
+      "Definition 2 for term 221"
+    ],
+    "examples": [
+      "Example 1 for term 221",
+      "Example 2 for term 221"
+    ]
+  },
+  {
+    "term_en": "heat_term_222",
+    "term_te": "వేడి పదం 222",
+    "defs": [
+      "Definition 1 for term 222",
+      "Definition 2 for term 222"
+    ],
+    "examples": [
+      "Example 1 for term 222",
+      "Example 2 for term 222"
+    ]
+  },
+  {
+    "term_en": "heat_term_223",
+    "term_te": "వేడి పదం 223",
+    "defs": [
+      "Definition 1 for term 223",
+      "Definition 2 for term 223"
+    ],
+    "examples": [
+      "Example 1 for term 223",
+      "Example 2 for term 223"
+    ]
+  },
+  {
+    "term_en": "heat_term_224",
+    "term_te": "వేడి పదం 224",
+    "defs": [
+      "Definition 1 for term 224",
+      "Definition 2 for term 224"
+    ],
+    "examples": [
+      "Example 1 for term 224",
+      "Example 2 for term 224"
+    ]
+  },
+  {
+    "term_en": "heat_term_225",
+    "term_te": "వేడి పదం 225",
+    "defs": [
+      "Definition 1 for term 225",
+      "Definition 2 for term 225"
+    ],
+    "examples": [
+      "Example 1 for term 225",
+      "Example 2 for term 225"
+    ]
+  },
+  {
+    "term_en": "heat_term_226",
+    "term_te": "వేడి పదం 226",
+    "defs": [
+      "Definition 1 for term 226",
+      "Definition 2 for term 226"
+    ],
+    "examples": [
+      "Example 1 for term 226",
+      "Example 2 for term 226"
+    ]
+  },
+  {
+    "term_en": "heat_term_227",
+    "term_te": "వేడి పదం 227",
+    "defs": [
+      "Definition 1 for term 227",
+      "Definition 2 for term 227"
+    ],
+    "examples": [
+      "Example 1 for term 227",
+      "Example 2 for term 227"
+    ]
+  },
+  {
+    "term_en": "heat_term_228",
+    "term_te": "వేడి పదం 228",
+    "defs": [
+      "Definition 1 for term 228",
+      "Definition 2 for term 228"
+    ],
+    "examples": [
+      "Example 1 for term 228",
+      "Example 2 for term 228"
+    ]
+  },
+  {
+    "term_en": "heat_term_229",
+    "term_te": "వేడి పదం 229",
+    "defs": [
+      "Definition 1 for term 229",
+      "Definition 2 for term 229"
+    ],
+    "examples": [
+      "Example 1 for term 229",
+      "Example 2 for term 229"
+    ]
+  },
+  {
+    "term_en": "heat_term_230",
+    "term_te": "వేడి పదం 230",
+    "defs": [
+      "Definition 1 for term 230",
+      "Definition 2 for term 230"
+    ],
+    "examples": [
+      "Example 1 for term 230",
+      "Example 2 for term 230"
+    ]
+  },
+  {
+    "term_en": "heat_term_231",
+    "term_te": "వేడి పదం 231",
+    "defs": [
+      "Definition 1 for term 231",
+      "Definition 2 for term 231"
+    ],
+    "examples": [
+      "Example 1 for term 231",
+      "Example 2 for term 231"
+    ]
+  },
+  {
+    "term_en": "heat_term_232",
+    "term_te": "వేడి పదం 232",
+    "defs": [
+      "Definition 1 for term 232",
+      "Definition 2 for term 232"
+    ],
+    "examples": [
+      "Example 1 for term 232",
+      "Example 2 for term 232"
+    ]
+  },
+  {
+    "term_en": "heat_term_233",
+    "term_te": "వేడి పదం 233",
+    "defs": [
+      "Definition 1 for term 233",
+      "Definition 2 for term 233"
+    ],
+    "examples": [
+      "Example 1 for term 233",
+      "Example 2 for term 233"
+    ]
+  },
+  {
+    "term_en": "heat_term_234",
+    "term_te": "వేడి పదం 234",
+    "defs": [
+      "Definition 1 for term 234",
+      "Definition 2 for term 234"
+    ],
+    "examples": [
+      "Example 1 for term 234",
+      "Example 2 for term 234"
+    ]
+  },
+  {
+    "term_en": "heat_term_235",
+    "term_te": "వేడి పదం 235",
+    "defs": [
+      "Definition 1 for term 235",
+      "Definition 2 for term 235"
+    ],
+    "examples": [
+      "Example 1 for term 235",
+      "Example 2 for term 235"
+    ]
+  },
+  {
+    "term_en": "heat_term_236",
+    "term_te": "వేడి పదం 236",
+    "defs": [
+      "Definition 1 for term 236",
+      "Definition 2 for term 236"
+    ],
+    "examples": [
+      "Example 1 for term 236",
+      "Example 2 for term 236"
+    ]
+  },
+  {
+    "term_en": "heat_term_237",
+    "term_te": "వేడి పదం 237",
+    "defs": [
+      "Definition 1 for term 237",
+      "Definition 2 for term 237"
+    ],
+    "examples": [
+      "Example 1 for term 237",
+      "Example 2 for term 237"
+    ]
+  },
+  {
+    "term_en": "heat_term_238",
+    "term_te": "వేడి పదం 238",
+    "defs": [
+      "Definition 1 for term 238",
+      "Definition 2 for term 238"
+    ],
+    "examples": [
+      "Example 1 for term 238",
+      "Example 2 for term 238"
+    ]
+  },
+  {
+    "term_en": "heat_term_239",
+    "term_te": "వేడి పదం 239",
+    "defs": [
+      "Definition 1 for term 239",
+      "Definition 2 for term 239"
+    ],
+    "examples": [
+      "Example 1 for term 239",
+      "Example 2 for term 239"
+    ]
+  },
+  {
+    "term_en": "heat_term_240",
+    "term_te": "వేడి పదం 240",
+    "defs": [
+      "Definition 1 for term 240",
+      "Definition 2 for term 240"
+    ],
+    "examples": [
+      "Example 1 for term 240",
+      "Example 2 for term 240"
+    ]
+  },
+  {
+    "term_en": "heat_term_241",
+    "term_te": "వేడి పదం 241",
+    "defs": [
+      "Definition 1 for term 241",
+      "Definition 2 for term 241"
+    ],
+    "examples": [
+      "Example 1 for term 241",
+      "Example 2 for term 241"
+    ]
+  },
+  {
+    "term_en": "heat_term_242",
+    "term_te": "వేడి పదం 242",
+    "defs": [
+      "Definition 1 for term 242",
+      "Definition 2 for term 242"
+    ],
+    "examples": [
+      "Example 1 for term 242",
+      "Example 2 for term 242"
+    ]
+  },
+  {
+    "term_en": "heat_term_243",
+    "term_te": "వేడి పదం 243",
+    "defs": [
+      "Definition 1 for term 243",
+      "Definition 2 for term 243"
+    ],
+    "examples": [
+      "Example 1 for term 243",
+      "Example 2 for term 243"
+    ]
+  },
+  {
+    "term_en": "heat_term_244",
+    "term_te": "వేడి పదం 244",
+    "defs": [
+      "Definition 1 for term 244",
+      "Definition 2 for term 244"
+    ],
+    "examples": [
+      "Example 1 for term 244",
+      "Example 2 for term 244"
+    ]
+  },
+  {
+    "term_en": "heat_term_245",
+    "term_te": "వేడి పదం 245",
+    "defs": [
+      "Definition 1 for term 245",
+      "Definition 2 for term 245"
+    ],
+    "examples": [
+      "Example 1 for term 245",
+      "Example 2 for term 245"
+    ]
+  },
+  {
+    "term_en": "heat_term_246",
+    "term_te": "వేడి పదం 246",
+    "defs": [
+      "Definition 1 for term 246",
+      "Definition 2 for term 246"
+    ],
+    "examples": [
+      "Example 1 for term 246",
+      "Example 2 for term 246"
+    ]
+  },
+  {
+    "term_en": "heat_term_247",
+    "term_te": "వేడి పదం 247",
+    "defs": [
+      "Definition 1 for term 247",
+      "Definition 2 for term 247"
+    ],
+    "examples": [
+      "Example 1 for term 247",
+      "Example 2 for term 247"
+    ]
+  },
+  {
+    "term_en": "heat_term_248",
+    "term_te": "వేడి పదం 248",
+    "defs": [
+      "Definition 1 for term 248",
+      "Definition 2 for term 248"
+    ],
+    "examples": [
+      "Example 1 for term 248",
+      "Example 2 for term 248"
+    ]
+  },
+  {
+    "term_en": "heat_term_249",
+    "term_te": "వేడి పదం 249",
+    "defs": [
+      "Definition 1 for term 249",
+      "Definition 2 for term 249"
+    ],
+    "examples": [
+      "Example 1 for term 249",
+      "Example 2 for term 249"
+    ]
+  },
+  {
+    "term_en": "heat_term_250",
+    "term_te": "వేడి పదం 250",
+    "defs": [
+      "Definition 1 for term 250",
+      "Definition 2 for term 250"
+    ],
+    "examples": [
+      "Example 1 for term 250",
+      "Example 2 for term 250"
+    ]
+  },
+  {
+    "term_en": "heat_term_251",
+    "term_te": "వేడి పదం 251",
+    "defs": [
+      "Definition 1 for term 251",
+      "Definition 2 for term 251"
+    ],
+    "examples": [
+      "Example 1 for term 251",
+      "Example 2 for term 251"
+    ]
+  },
+  {
+    "term_en": "heat_term_252",
+    "term_te": "వేడి పదం 252",
+    "defs": [
+      "Definition 1 for term 252",
+      "Definition 2 for term 252"
+    ],
+    "examples": [
+      "Example 1 for term 252",
+      "Example 2 for term 252"
+    ]
+  },
+  {
+    "term_en": "heat_term_253",
+    "term_te": "వేడి పదం 253",
+    "defs": [
+      "Definition 1 for term 253",
+      "Definition 2 for term 253"
+    ],
+    "examples": [
+      "Example 1 for term 253",
+      "Example 2 for term 253"
+    ]
+  },
+  {
+    "term_en": "heat_term_254",
+    "term_te": "వేడి పదం 254",
+    "defs": [
+      "Definition 1 for term 254",
+      "Definition 2 for term 254"
+    ],
+    "examples": [
+      "Example 1 for term 254",
+      "Example 2 for term 254"
+    ]
+  },
+  {
+    "term_en": "heat_term_255",
+    "term_te": "వేడి పదం 255",
+    "defs": [
+      "Definition 1 for term 255",
+      "Definition 2 for term 255"
+    ],
+    "examples": [
+      "Example 1 for term 255",
+      "Example 2 for term 255"
+    ]
+  },
+  {
+    "term_en": "heat_term_256",
+    "term_te": "వేడి పదం 256",
+    "defs": [
+      "Definition 1 for term 256",
+      "Definition 2 for term 256"
+    ],
+    "examples": [
+      "Example 1 for term 256",
+      "Example 2 for term 256"
+    ]
+  },
+  {
+    "term_en": "heat_term_257",
+    "term_te": "వేడి పదం 257",
+    "defs": [
+      "Definition 1 for term 257",
+      "Definition 2 for term 257"
+    ],
+    "examples": [
+      "Example 1 for term 257",
+      "Example 2 for term 257"
+    ]
+  },
+  {
+    "term_en": "heat_term_258",
+    "term_te": "వేడి పదం 258",
+    "defs": [
+      "Definition 1 for term 258",
+      "Definition 2 for term 258"
+    ],
+    "examples": [
+      "Example 1 for term 258",
+      "Example 2 for term 258"
+    ]
+  },
+  {
+    "term_en": "heat_term_259",
+    "term_te": "వేడి పదం 259",
+    "defs": [
+      "Definition 1 for term 259",
+      "Definition 2 for term 259"
+    ],
+    "examples": [
+      "Example 1 for term 259",
+      "Example 2 for term 259"
+    ]
+  },
+  {
+    "term_en": "heat_term_260",
+    "term_te": "వేడి పదం 260",
+    "defs": [
+      "Definition 1 for term 260",
+      "Definition 2 for term 260"
+    ],
+    "examples": [
+      "Example 1 for term 260",
+      "Example 2 for term 260"
+    ]
+  },
+  {
+    "term_en": "heat_term_261",
+    "term_te": "వేడి పదం 261",
+    "defs": [
+      "Definition 1 for term 261",
+      "Definition 2 for term 261"
+    ],
+    "examples": [
+      "Example 1 for term 261",
+      "Example 2 for term 261"
+    ]
+  },
+  {
+    "term_en": "heat_term_262",
+    "term_te": "వేడి పదం 262",
+    "defs": [
+      "Definition 1 for term 262",
+      "Definition 2 for term 262"
+    ],
+    "examples": [
+      "Example 1 for term 262",
+      "Example 2 for term 262"
+    ]
+  },
+  {
+    "term_en": "heat_term_263",
+    "term_te": "వేడి పదం 263",
+    "defs": [
+      "Definition 1 for term 263",
+      "Definition 2 for term 263"
+    ],
+    "examples": [
+      "Example 1 for term 263",
+      "Example 2 for term 263"
+    ]
+  },
+  {
+    "term_en": "heat_term_264",
+    "term_te": "వేడి పదం 264",
+    "defs": [
+      "Definition 1 for term 264",
+      "Definition 2 for term 264"
+    ],
+    "examples": [
+      "Example 1 for term 264",
+      "Example 2 for term 264"
+    ]
+  },
+  {
+    "term_en": "heat_term_265",
+    "term_te": "వేడి పదం 265",
+    "defs": [
+      "Definition 1 for term 265",
+      "Definition 2 for term 265"
+    ],
+    "examples": [
+      "Example 1 for term 265",
+      "Example 2 for term 265"
+    ]
+  },
+  {
+    "term_en": "heat_term_266",
+    "term_te": "వేడి పదం 266",
+    "defs": [
+      "Definition 1 for term 266",
+      "Definition 2 for term 266"
+    ],
+    "examples": [
+      "Example 1 for term 266",
+      "Example 2 for term 266"
+    ]
+  },
+  {
+    "term_en": "heat_term_267",
+    "term_te": "వేడి పదం 267",
+    "defs": [
+      "Definition 1 for term 267",
+      "Definition 2 for term 267"
+    ],
+    "examples": [
+      "Example 1 for term 267",
+      "Example 2 for term 267"
+    ]
+  },
+  {
+    "term_en": "heat_term_268",
+    "term_te": "వేడి పదం 268",
+    "defs": [
+      "Definition 1 for term 268",
+      "Definition 2 for term 268"
+    ],
+    "examples": [
+      "Example 1 for term 268",
+      "Example 2 for term 268"
+    ]
+  },
+  {
+    "term_en": "heat_term_269",
+    "term_te": "వేడి పదం 269",
+    "defs": [
+      "Definition 1 for term 269",
+      "Definition 2 for term 269"
+    ],
+    "examples": [
+      "Example 1 for term 269",
+      "Example 2 for term 269"
+    ]
+  },
+  {
+    "term_en": "heat_term_270",
+    "term_te": "వేడి పదం 270",
+    "defs": [
+      "Definition 1 for term 270",
+      "Definition 2 for term 270"
+    ],
+    "examples": [
+      "Example 1 for term 270",
+      "Example 2 for term 270"
+    ]
+  },
+  {
+    "term_en": "heat_term_271",
+    "term_te": "వేడి పదం 271",
+    "defs": [
+      "Definition 1 for term 271",
+      "Definition 2 for term 271"
+    ],
+    "examples": [
+      "Example 1 for term 271",
+      "Example 2 for term 271"
+    ]
+  },
+  {
+    "term_en": "heat_term_272",
+    "term_te": "వేడి పదం 272",
+    "defs": [
+      "Definition 1 for term 272",
+      "Definition 2 for term 272"
+    ],
+    "examples": [
+      "Example 1 for term 272",
+      "Example 2 for term 272"
+    ]
+  },
+  {
+    "term_en": "heat_term_273",
+    "term_te": "వేడి పదం 273",
+    "defs": [
+      "Definition 1 for term 273",
+      "Definition 2 for term 273"
+    ],
+    "examples": [
+      "Example 1 for term 273",
+      "Example 2 for term 273"
+    ]
+  },
+  {
+    "term_en": "heat_term_274",
+    "term_te": "వేడి పదం 274",
+    "defs": [
+      "Definition 1 for term 274",
+      "Definition 2 for term 274"
+    ],
+    "examples": [
+      "Example 1 for term 274",
+      "Example 2 for term 274"
+    ]
+  },
+  {
+    "term_en": "heat_term_275",
+    "term_te": "వేడి పదం 275",
+    "defs": [
+      "Definition 1 for term 275",
+      "Definition 2 for term 275"
+    ],
+    "examples": [
+      "Example 1 for term 275",
+      "Example 2 for term 275"
+    ]
+  },
+  {
+    "term_en": "heat_term_276",
+    "term_te": "వేడి పదం 276",
+    "defs": [
+      "Definition 1 for term 276",
+      "Definition 2 for term 276"
+    ],
+    "examples": [
+      "Example 1 for term 276",
+      "Example 2 for term 276"
+    ]
+  },
+  {
+    "term_en": "heat_term_277",
+    "term_te": "వేడి పదం 277",
+    "defs": [
+      "Definition 1 for term 277",
+      "Definition 2 for term 277"
+    ],
+    "examples": [
+      "Example 1 for term 277",
+      "Example 2 for term 277"
+    ]
+  },
+  {
+    "term_en": "heat_term_278",
+    "term_te": "వేడి పదం 278",
+    "defs": [
+      "Definition 1 for term 278",
+      "Definition 2 for term 278"
+    ],
+    "examples": [
+      "Example 1 for term 278",
+      "Example 2 for term 278"
+    ]
+  },
+  {
+    "term_en": "heat_term_279",
+    "term_te": "వేడి పదం 279",
+    "defs": [
+      "Definition 1 for term 279",
+      "Definition 2 for term 279"
+    ],
+    "examples": [
+      "Example 1 for term 279",
+      "Example 2 for term 279"
+    ]
+  },
+  {
+    "term_en": "heat_term_280",
+    "term_te": "వేడి పదం 280",
+    "defs": [
+      "Definition 1 for term 280",
+      "Definition 2 for term 280"
+    ],
+    "examples": [
+      "Example 1 for term 280",
+      "Example 2 for term 280"
+    ]
+  },
+  {
+    "term_en": "heat_term_281",
+    "term_te": "వేడి పదం 281",
+    "defs": [
+      "Definition 1 for term 281",
+      "Definition 2 for term 281"
+    ],
+    "examples": [
+      "Example 1 for term 281",
+      "Example 2 for term 281"
+    ]
+  },
+  {
+    "term_en": "heat_term_282",
+    "term_te": "వేడి పదం 282",
+    "defs": [
+      "Definition 1 for term 282",
+      "Definition 2 for term 282"
+    ],
+    "examples": [
+      "Example 1 for term 282",
+      "Example 2 for term 282"
+    ]
+  },
+  {
+    "term_en": "heat_term_283",
+    "term_te": "వేడి పదం 283",
+    "defs": [
+      "Definition 1 for term 283",
+      "Definition 2 for term 283"
+    ],
+    "examples": [
+      "Example 1 for term 283",
+      "Example 2 for term 283"
+    ]
+  },
+  {
+    "term_en": "heat_term_284",
+    "term_te": "వేడి పదం 284",
+    "defs": [
+      "Definition 1 for term 284",
+      "Definition 2 for term 284"
+    ],
+    "examples": [
+      "Example 1 for term 284",
+      "Example 2 for term 284"
+    ]
+  },
+  {
+    "term_en": "heat_term_285",
+    "term_te": "వేడి పదం 285",
+    "defs": [
+      "Definition 1 for term 285",
+      "Definition 2 for term 285"
+    ],
+    "examples": [
+      "Example 1 for term 285",
+      "Example 2 for term 285"
+    ]
+  },
+  {
+    "term_en": "heat_term_286",
+    "term_te": "వేడి పదం 286",
+    "defs": [
+      "Definition 1 for term 286",
+      "Definition 2 for term 286"
+    ],
+    "examples": [
+      "Example 1 for term 286",
+      "Example 2 for term 286"
+    ]
+  },
+  {
+    "term_en": "heat_term_287",
+    "term_te": "వేడి పదం 287",
+    "defs": [
+      "Definition 1 for term 287",
+      "Definition 2 for term 287"
+    ],
+    "examples": [
+      "Example 1 for term 287",
+      "Example 2 for term 287"
+    ]
+  },
+  {
+    "term_en": "heat_term_288",
+    "term_te": "వేడి పదం 288",
+    "defs": [
+      "Definition 1 for term 288",
+      "Definition 2 for term 288"
+    ],
+    "examples": [
+      "Example 1 for term 288",
+      "Example 2 for term 288"
+    ]
+  },
+  {
+    "term_en": "heat_term_289",
+    "term_te": "వేడి పదం 289",
+    "defs": [
+      "Definition 1 for term 289",
+      "Definition 2 for term 289"
+    ],
+    "examples": [
+      "Example 1 for term 289",
+      "Example 2 for term 289"
+    ]
+  },
+  {
+    "term_en": "heat_term_290",
+    "term_te": "వేడి పదం 290",
+    "defs": [
+      "Definition 1 for term 290",
+      "Definition 2 for term 290"
+    ],
+    "examples": [
+      "Example 1 for term 290",
+      "Example 2 for term 290"
+    ]
+  },
+  {
+    "term_en": "heat_term_291",
+    "term_te": "వేడి పదం 291",
+    "defs": [
+      "Definition 1 for term 291",
+      "Definition 2 for term 291"
+    ],
+    "examples": [
+      "Example 1 for term 291",
+      "Example 2 for term 291"
+    ]
+  },
+  {
+    "term_en": "heat_term_292",
+    "term_te": "వేడి పదం 292",
+    "defs": [
+      "Definition 1 for term 292",
+      "Definition 2 for term 292"
+    ],
+    "examples": [
+      "Example 1 for term 292",
+      "Example 2 for term 292"
+    ]
+  },
+  {
+    "term_en": "heat_term_293",
+    "term_te": "వేడి పదం 293",
+    "defs": [
+      "Definition 1 for term 293",
+      "Definition 2 for term 293"
+    ],
+    "examples": [
+      "Example 1 for term 293",
+      "Example 2 for term 293"
+    ]
+  },
+  {
+    "term_en": "heat_term_294",
+    "term_te": "వేడి పదం 294",
+    "defs": [
+      "Definition 1 for term 294",
+      "Definition 2 for term 294"
+    ],
+    "examples": [
+      "Example 1 for term 294",
+      "Example 2 for term 294"
+    ]
+  },
+  {
+    "term_en": "heat_term_295",
+    "term_te": "వేడి పదం 295",
+    "defs": [
+      "Definition 1 for term 295",
+      "Definition 2 for term 295"
+    ],
+    "examples": [
+      "Example 1 for term 295",
+      "Example 2 for term 295"
+    ]
+  },
+  {
+    "term_en": "heat_term_296",
+    "term_te": "వేడి పదం 296",
+    "defs": [
+      "Definition 1 for term 296",
+      "Definition 2 for term 296"
+    ],
+    "examples": [
+      "Example 1 for term 296",
+      "Example 2 for term 296"
+    ]
+  },
+  {
+    "term_en": "heat_term_297",
+    "term_te": "వేడి పదం 297",
+    "defs": [
+      "Definition 1 for term 297",
+      "Definition 2 for term 297"
+    ],
+    "examples": [
+      "Example 1 for term 297",
+      "Example 2 for term 297"
+    ]
+  },
+  {
+    "term_en": "heat_term_298",
+    "term_te": "వేడి పదం 298",
+    "defs": [
+      "Definition 1 for term 298",
+      "Definition 2 for term 298"
+    ],
+    "examples": [
+      "Example 1 for term 298",
+      "Example 2 for term 298"
+    ]
+  },
+  {
+    "term_en": "heat_term_299",
+    "term_te": "వేడి పదం 299",
+    "defs": [
+      "Definition 1 for term 299",
+      "Definition 2 for term 299"
+    ],
+    "examples": [
+      "Example 1 for term 299",
+      "Example 2 for term 299"
+    ]
+  },
+  {
+    "term_en": "heat_term_300",
+    "term_te": "వేడి పదం 300",
+    "defs": [
+      "Definition 1 for term 300",
+      "Definition 2 for term 300"
+    ],
+    "examples": [
+      "Example 1 for term 300",
+      "Example 2 for term 300"
+    ]
+  },
+  {
+    "term_en": "heat_term_301",
+    "term_te": "వేడి పదం 301",
+    "defs": [
+      "Definition 1 for term 301",
+      "Definition 2 for term 301"
+    ],
+    "examples": [
+      "Example 1 for term 301",
+      "Example 2 for term 301"
+    ]
+  },
+  {
+    "term_en": "heat_term_302",
+    "term_te": "వేడి పదం 302",
+    "defs": [
+      "Definition 1 for term 302",
+      "Definition 2 for term 302"
+    ],
+    "examples": [
+      "Example 1 for term 302",
+      "Example 2 for term 302"
+    ]
+  },
+  {
+    "term_en": "heat_term_303",
+    "term_te": "వేడి పదం 303",
+    "defs": [
+      "Definition 1 for term 303",
+      "Definition 2 for term 303"
+    ],
+    "examples": [
+      "Example 1 for term 303",
+      "Example 2 for term 303"
+    ]
+  },
+  {
+    "term_en": "heat_term_304",
+    "term_te": "వేడి పదం 304",
+    "defs": [
+      "Definition 1 for term 304",
+      "Definition 2 for term 304"
+    ],
+    "examples": [
+      "Example 1 for term 304",
+      "Example 2 for term 304"
+    ]
+  },
+  {
+    "term_en": "heat_term_305",
+    "term_te": "వేడి పదం 305",
+    "defs": [
+      "Definition 1 for term 305",
+      "Definition 2 for term 305"
+    ],
+    "examples": [
+      "Example 1 for term 305",
+      "Example 2 for term 305"
+    ]
+  },
+  {
+    "term_en": "heat_term_306",
+    "term_te": "వేడి పదం 306",
+    "defs": [
+      "Definition 1 for term 306",
+      "Definition 2 for term 306"
+    ],
+    "examples": [
+      "Example 1 for term 306",
+      "Example 2 for term 306"
+    ]
+  },
+  {
+    "term_en": "heat_term_307",
+    "term_te": "వేడి పదం 307",
+    "defs": [
+      "Definition 1 for term 307",
+      "Definition 2 for term 307"
+    ],
+    "examples": [
+      "Example 1 for term 307",
+      "Example 2 for term 307"
+    ]
+  },
+  {
+    "term_en": "heat_term_308",
+    "term_te": "వేడి పదం 308",
+    "defs": [
+      "Definition 1 for term 308",
+      "Definition 2 for term 308"
+    ],
+    "examples": [
+      "Example 1 for term 308",
+      "Example 2 for term 308"
+    ]
+  },
+  {
+    "term_en": "heat_term_309",
+    "term_te": "వేడి పదం 309",
+    "defs": [
+      "Definition 1 for term 309",
+      "Definition 2 for term 309"
+    ],
+    "examples": [
+      "Example 1 for term 309",
+      "Example 2 for term 309"
+    ]
+  },
+  {
+    "term_en": "heat_term_310",
+    "term_te": "వేడి పదం 310",
+    "defs": [
+      "Definition 1 for term 310",
+      "Definition 2 for term 310"
+    ],
+    "examples": [
+      "Example 1 for term 310",
+      "Example 2 for term 310"
+    ]
+  },
+  {
+    "term_en": "heat_term_311",
+    "term_te": "వేడి పదం 311",
+    "defs": [
+      "Definition 1 for term 311",
+      "Definition 2 for term 311"
+    ],
+    "examples": [
+      "Example 1 for term 311",
+      "Example 2 for term 311"
+    ]
+  },
+  {
+    "term_en": "heat_term_312",
+    "term_te": "వేడి పదం 312",
+    "defs": [
+      "Definition 1 for term 312",
+      "Definition 2 for term 312"
+    ],
+    "examples": [
+      "Example 1 for term 312",
+      "Example 2 for term 312"
+    ]
+  },
+  {
+    "term_en": "heat_term_313",
+    "term_te": "వేడి పదం 313",
+    "defs": [
+      "Definition 1 for term 313",
+      "Definition 2 for term 313"
+    ],
+    "examples": [
+      "Example 1 for term 313",
+      "Example 2 for term 313"
+    ]
+  },
+  {
+    "term_en": "heat_term_314",
+    "term_te": "వేడి పదం 314",
+    "defs": [
+      "Definition 1 for term 314",
+      "Definition 2 for term 314"
+    ],
+    "examples": [
+      "Example 1 for term 314",
+      "Example 2 for term 314"
+    ]
+  },
+  {
+    "term_en": "heat_term_315",
+    "term_te": "వేడి పదం 315",
+    "defs": [
+      "Definition 1 for term 315",
+      "Definition 2 for term 315"
+    ],
+    "examples": [
+      "Example 1 for term 315",
+      "Example 2 for term 315"
+    ]
+  },
+  {
+    "term_en": "heat_term_316",
+    "term_te": "వేడి పదం 316",
+    "defs": [
+      "Definition 1 for term 316",
+      "Definition 2 for term 316"
+    ],
+    "examples": [
+      "Example 1 for term 316",
+      "Example 2 for term 316"
+    ]
+  },
+  {
+    "term_en": "heat_term_317",
+    "term_te": "వేడి పదం 317",
+    "defs": [
+      "Definition 1 for term 317",
+      "Definition 2 for term 317"
+    ],
+    "examples": [
+      "Example 1 for term 317",
+      "Example 2 for term 317"
+    ]
+  },
+  {
+    "term_en": "heat_term_318",
+    "term_te": "వేడి పదం 318",
+    "defs": [
+      "Definition 1 for term 318",
+      "Definition 2 for term 318"
+    ],
+    "examples": [
+      "Example 1 for term 318",
+      "Example 2 for term 318"
+    ]
+  },
+  {
+    "term_en": "heat_term_319",
+    "term_te": "వేడి పదం 319",
+    "defs": [
+      "Definition 1 for term 319",
+      "Definition 2 for term 319"
+    ],
+    "examples": [
+      "Example 1 for term 319",
+      "Example 2 for term 319"
+    ]
+  },
+  {
+    "term_en": "heat_term_320",
+    "term_te": "వేడి పదం 320",
+    "defs": [
+      "Definition 1 for term 320",
+      "Definition 2 for term 320"
+    ],
+    "examples": [
+      "Example 1 for term 320",
+      "Example 2 for term 320"
+    ]
+  },
+  {
+    "term_en": "heat_term_321",
+    "term_te": "వేడి పదం 321",
+    "defs": [
+      "Definition 1 for term 321",
+      "Definition 2 for term 321"
+    ],
+    "examples": [
+      "Example 1 for term 321",
+      "Example 2 for term 321"
+    ]
+  },
+  {
+    "term_en": "heat_term_322",
+    "term_te": "వేడి పదం 322",
+    "defs": [
+      "Definition 1 for term 322",
+      "Definition 2 for term 322"
+    ],
+    "examples": [
+      "Example 1 for term 322",
+      "Example 2 for term 322"
+    ]
+  },
+  {
+    "term_en": "heat_term_323",
+    "term_te": "వేడి పదం 323",
+    "defs": [
+      "Definition 1 for term 323",
+      "Definition 2 for term 323"
+    ],
+    "examples": [
+      "Example 1 for term 323",
+      "Example 2 for term 323"
+    ]
+  },
+  {
+    "term_en": "heat_term_324",
+    "term_te": "వేడి పదం 324",
+    "defs": [
+      "Definition 1 for term 324",
+      "Definition 2 for term 324"
+    ],
+    "examples": [
+      "Example 1 for term 324",
+      "Example 2 for term 324"
+    ]
+  },
+  {
+    "term_en": "heat_term_325",
+    "term_te": "వేడి పదం 325",
+    "defs": [
+      "Definition 1 for term 325",
+      "Definition 2 for term 325"
+    ],
+    "examples": [
+      "Example 1 for term 325",
+      "Example 2 for term 325"
+    ]
+  },
+  {
+    "term_en": "heat_term_326",
+    "term_te": "వేడి పదం 326",
+    "defs": [
+      "Definition 1 for term 326",
+      "Definition 2 for term 326"
+    ],
+    "examples": [
+      "Example 1 for term 326",
+      "Example 2 for term 326"
+    ]
+  },
+  {
+    "term_en": "heat_term_327",
+    "term_te": "వేడి పదం 327",
+    "defs": [
+      "Definition 1 for term 327",
+      "Definition 2 for term 327"
+    ],
+    "examples": [
+      "Example 1 for term 327",
+      "Example 2 for term 327"
+    ]
+  },
+  {
+    "term_en": "heat_term_328",
+    "term_te": "వేడి పదం 328",
+    "defs": [
+      "Definition 1 for term 328",
+      "Definition 2 for term 328"
+    ],
+    "examples": [
+      "Example 1 for term 328",
+      "Example 2 for term 328"
+    ]
+  },
+  {
+    "term_en": "heat_term_329",
+    "term_te": "వేడి పదం 329",
+    "defs": [
+      "Definition 1 for term 329",
+      "Definition 2 for term 329"
+    ],
+    "examples": [
+      "Example 1 for term 329",
+      "Example 2 for term 329"
+    ]
+  },
+  {
+    "term_en": "heat_term_330",
+    "term_te": "వేడి పదం 330",
+    "defs": [
+      "Definition 1 for term 330",
+      "Definition 2 for term 330"
+    ],
+    "examples": [
+      "Example 1 for term 330",
+      "Example 2 for term 330"
+    ]
+  },
+  {
+    "term_en": "heat_term_331",
+    "term_te": "వేడి పదం 331",
+    "defs": [
+      "Definition 1 for term 331",
+      "Definition 2 for term 331"
+    ],
+    "examples": [
+      "Example 1 for term 331",
+      "Example 2 for term 331"
+    ]
+  },
+  {
+    "term_en": "heat_term_332",
+    "term_te": "వేడి పదం 332",
+    "defs": [
+      "Definition 1 for term 332",
+      "Definition 2 for term 332"
+    ],
+    "examples": [
+      "Example 1 for term 332",
+      "Example 2 for term 332"
+    ]
+  },
+  {
+    "term_en": "heat_term_333",
+    "term_te": "వేడి పదం 333",
+    "defs": [
+      "Definition 1 for term 333",
+      "Definition 2 for term 333"
+    ],
+    "examples": [
+      "Example 1 for term 333",
+      "Example 2 for term 333"
+    ]
+  },
+  {
+    "term_en": "heat_term_334",
+    "term_te": "వేడి పదం 334",
+    "defs": [
+      "Definition 1 for term 334",
+      "Definition 2 for term 334"
+    ],
+    "examples": [
+      "Example 1 for term 334",
+      "Example 2 for term 334"
+    ]
+  },
+  {
+    "term_en": "heat_term_335",
+    "term_te": "వేడి పదం 335",
+    "defs": [
+      "Definition 1 for term 335",
+      "Definition 2 for term 335"
+    ],
+    "examples": [
+      "Example 1 for term 335",
+      "Example 2 for term 335"
+    ]
+  },
+  {
+    "term_en": "heat_term_336",
+    "term_te": "వేడి పదం 336",
+    "defs": [
+      "Definition 1 for term 336",
+      "Definition 2 for term 336"
+    ],
+    "examples": [
+      "Example 1 for term 336",
+      "Example 2 for term 336"
+    ]
+  },
+  {
+    "term_en": "heat_term_337",
+    "term_te": "వేడి పదం 337",
+    "defs": [
+      "Definition 1 for term 337",
+      "Definition 2 for term 337"
+    ],
+    "examples": [
+      "Example 1 for term 337",
+      "Example 2 for term 337"
+    ]
+  },
+  {
+    "term_en": "heat_term_338",
+    "term_te": "వేడి పదం 338",
+    "defs": [
+      "Definition 1 for term 338",
+      "Definition 2 for term 338"
+    ],
+    "examples": [
+      "Example 1 for term 338",
+      "Example 2 for term 338"
+    ]
+  },
+  {
+    "term_en": "heat_term_339",
+    "term_te": "వేడి పదం 339",
+    "defs": [
+      "Definition 1 for term 339",
+      "Definition 2 for term 339"
+    ],
+    "examples": [
+      "Example 1 for term 339",
+      "Example 2 for term 339"
+    ]
+  },
+  {
+    "term_en": "heat_term_340",
+    "term_te": "వేడి పదం 340",
+    "defs": [
+      "Definition 1 for term 340",
+      "Definition 2 for term 340"
+    ],
+    "examples": [
+      "Example 1 for term 340",
+      "Example 2 for term 340"
+    ]
+  },
+  {
+    "term_en": "heat_term_341",
+    "term_te": "వేడి పదం 341",
+    "defs": [
+      "Definition 1 for term 341",
+      "Definition 2 for term 341"
+    ],
+    "examples": [
+      "Example 1 for term 341",
+      "Example 2 for term 341"
+    ]
+  },
+  {
+    "term_en": "heat_term_342",
+    "term_te": "వేడి పదం 342",
+    "defs": [
+      "Definition 1 for term 342",
+      "Definition 2 for term 342"
+    ],
+    "examples": [
+      "Example 1 for term 342",
+      "Example 2 for term 342"
+    ]
+  },
+  {
+    "term_en": "heat_term_343",
+    "term_te": "వేడి పదం 343",
+    "defs": [
+      "Definition 1 for term 343",
+      "Definition 2 for term 343"
+    ],
+    "examples": [
+      "Example 1 for term 343",
+      "Example 2 for term 343"
+    ]
+  },
+  {
+    "term_en": "heat_term_344",
+    "term_te": "వేడి పదం 344",
+    "defs": [
+      "Definition 1 for term 344",
+      "Definition 2 for term 344"
+    ],
+    "examples": [
+      "Example 1 for term 344",
+      "Example 2 for term 344"
+    ]
+  },
+  {
+    "term_en": "heat_term_345",
+    "term_te": "వేడి పదం 345",
+    "defs": [
+      "Definition 1 for term 345",
+      "Definition 2 for term 345"
+    ],
+    "examples": [
+      "Example 1 for term 345",
+      "Example 2 for term 345"
+    ]
+  },
+  {
+    "term_en": "heat_term_346",
+    "term_te": "వేడి పదం 346",
+    "defs": [
+      "Definition 1 for term 346",
+      "Definition 2 for term 346"
+    ],
+    "examples": [
+      "Example 1 for term 346",
+      "Example 2 for term 346"
+    ]
+  },
+  {
+    "term_en": "heat_term_347",
+    "term_te": "వేడి పదం 347",
+    "defs": [
+      "Definition 1 for term 347",
+      "Definition 2 for term 347"
+    ],
+    "examples": [
+      "Example 1 for term 347",
+      "Example 2 for term 347"
+    ]
+  },
+  {
+    "term_en": "heat_term_348",
+    "term_te": "వేడి పదం 348",
+    "defs": [
+      "Definition 1 for term 348",
+      "Definition 2 for term 348"
+    ],
+    "examples": [
+      "Example 1 for term 348",
+      "Example 2 for term 348"
+    ]
+  },
+  {
+    "term_en": "heat_term_349",
+    "term_te": "వేడి పదం 349",
+    "defs": [
+      "Definition 1 for term 349",
+      "Definition 2 for term 349"
+    ],
+    "examples": [
+      "Example 1 for term 349",
+      "Example 2 for term 349"
+    ]
+  },
+  {
+    "term_en": "heat_term_350",
+    "term_te": "వేడి పదం 350",
+    "defs": [
+      "Definition 1 for term 350",
+      "Definition 2 for term 350"
+    ],
+    "examples": [
+      "Example 1 for term 350",
+      "Example 2 for term 350"
+    ]
+  },
+  {
+    "term_en": "heat_term_351",
+    "term_te": "వేడి పదం 351",
+    "defs": [
+      "Definition 1 for term 351",
+      "Definition 2 for term 351"
+    ],
+    "examples": [
+      "Example 1 for term 351",
+      "Example 2 for term 351"
+    ]
+  },
+  {
+    "term_en": "heat_term_352",
+    "term_te": "వేడి పదం 352",
+    "defs": [
+      "Definition 1 for term 352",
+      "Definition 2 for term 352"
+    ],
+    "examples": [
+      "Example 1 for term 352",
+      "Example 2 for term 352"
+    ]
+  },
+  {
+    "term_en": "heat_term_353",
+    "term_te": "వేడి పదం 353",
+    "defs": [
+      "Definition 1 for term 353",
+      "Definition 2 for term 353"
+    ],
+    "examples": [
+      "Example 1 for term 353",
+      "Example 2 for term 353"
+    ]
+  },
+  {
+    "term_en": "heat_term_354",
+    "term_te": "వేడి పదం 354",
+    "defs": [
+      "Definition 1 for term 354",
+      "Definition 2 for term 354"
+    ],
+    "examples": [
+      "Example 1 for term 354",
+      "Example 2 for term 354"
+    ]
+  },
+  {
+    "term_en": "heat_term_355",
+    "term_te": "వేడి పదం 355",
+    "defs": [
+      "Definition 1 for term 355",
+      "Definition 2 for term 355"
+    ],
+    "examples": [
+      "Example 1 for term 355",
+      "Example 2 for term 355"
+    ]
+  },
+  {
+    "term_en": "heat_term_356",
+    "term_te": "వేడి పదం 356",
+    "defs": [
+      "Definition 1 for term 356",
+      "Definition 2 for term 356"
+    ],
+    "examples": [
+      "Example 1 for term 356",
+      "Example 2 for term 356"
+    ]
+  },
+  {
+    "term_en": "heat_term_357",
+    "term_te": "వేడి పదం 357",
+    "defs": [
+      "Definition 1 for term 357",
+      "Definition 2 for term 357"
+    ],
+    "examples": [
+      "Example 1 for term 357",
+      "Example 2 for term 357"
+    ]
+  },
+  {
+    "term_en": "heat_term_358",
+    "term_te": "వేడి పదం 358",
+    "defs": [
+      "Definition 1 for term 358",
+      "Definition 2 for term 358"
+    ],
+    "examples": [
+      "Example 1 for term 358",
+      "Example 2 for term 358"
+    ]
+  },
+  {
+    "term_en": "heat_term_359",
+    "term_te": "వేడి పదం 359",
+    "defs": [
+      "Definition 1 for term 359",
+      "Definition 2 for term 359"
+    ],
+    "examples": [
+      "Example 1 for term 359",
+      "Example 2 for term 359"
+    ]
+  },
+  {
+    "term_en": "heat_term_360",
+    "term_te": "వేడి పదం 360",
+    "defs": [
+      "Definition 1 for term 360",
+      "Definition 2 for term 360"
+    ],
+    "examples": [
+      "Example 1 for term 360",
+      "Example 2 for term 360"
+    ]
+  },
+  {
+    "term_en": "heat_term_361",
+    "term_te": "వేడి పదం 361",
+    "defs": [
+      "Definition 1 for term 361",
+      "Definition 2 for term 361"
+    ],
+    "examples": [
+      "Example 1 for term 361",
+      "Example 2 for term 361"
+    ]
+  },
+  {
+    "term_en": "heat_term_362",
+    "term_te": "వేడి పదం 362",
+    "defs": [
+      "Definition 1 for term 362",
+      "Definition 2 for term 362"
+    ],
+    "examples": [
+      "Example 1 for term 362",
+      "Example 2 for term 362"
+    ]
+  },
+  {
+    "term_en": "heat_term_363",
+    "term_te": "వేడి పదం 363",
+    "defs": [
+      "Definition 1 for term 363",
+      "Definition 2 for term 363"
+    ],
+    "examples": [
+      "Example 1 for term 363",
+      "Example 2 for term 363"
+    ]
+  },
+  {
+    "term_en": "heat_term_364",
+    "term_te": "వేడి పదం 364",
+    "defs": [
+      "Definition 1 for term 364",
+      "Definition 2 for term 364"
+    ],
+    "examples": [
+      "Example 1 for term 364",
+      "Example 2 for term 364"
+    ]
+  },
+  {
+    "term_en": "heat_term_365",
+    "term_te": "వేడి పదం 365",
+    "defs": [
+      "Definition 1 for term 365",
+      "Definition 2 for term 365"
+    ],
+    "examples": [
+      "Example 1 for term 365",
+      "Example 2 for term 365"
+    ]
+  },
+  {
+    "term_en": "heat_term_366",
+    "term_te": "వేడి పదం 366",
+    "defs": [
+      "Definition 1 for term 366",
+      "Definition 2 for term 366"
+    ],
+    "examples": [
+      "Example 1 for term 366",
+      "Example 2 for term 366"
+    ]
+  },
+  {
+    "term_en": "heat_term_367",
+    "term_te": "వేడి పదం 367",
+    "defs": [
+      "Definition 1 for term 367",
+      "Definition 2 for term 367"
+    ],
+    "examples": [
+      "Example 1 for term 367",
+      "Example 2 for term 367"
+    ]
+  },
+  {
+    "term_en": "heat_term_368",
+    "term_te": "వేడి పదం 368",
+    "defs": [
+      "Definition 1 for term 368",
+      "Definition 2 for term 368"
+    ],
+    "examples": [
+      "Example 1 for term 368",
+      "Example 2 for term 368"
+    ]
+  },
+  {
+    "term_en": "heat_term_369",
+    "term_te": "వేడి పదం 369",
+    "defs": [
+      "Definition 1 for term 369",
+      "Definition 2 for term 369"
+    ],
+    "examples": [
+      "Example 1 for term 369",
+      "Example 2 for term 369"
+    ]
+  },
+  {
+    "term_en": "heat_term_370",
+    "term_te": "వేడి పదం 370",
+    "defs": [
+      "Definition 1 for term 370",
+      "Definition 2 for term 370"
+    ],
+    "examples": [
+      "Example 1 for term 370",
+      "Example 2 for term 370"
+    ]
+  },
+  {
+    "term_en": "heat_term_371",
+    "term_te": "వేడి పదం 371",
+    "defs": [
+      "Definition 1 for term 371",
+      "Definition 2 for term 371"
+    ],
+    "examples": [
+      "Example 1 for term 371",
+      "Example 2 for term 371"
+    ]
+  },
+  {
+    "term_en": "heat_term_372",
+    "term_te": "వేడి పదం 372",
+    "defs": [
+      "Definition 1 for term 372",
+      "Definition 2 for term 372"
+    ],
+    "examples": [
+      "Example 1 for term 372",
+      "Example 2 for term 372"
+    ]
+  },
+  {
+    "term_en": "heat_term_373",
+    "term_te": "వేడి పదం 373",
+    "defs": [
+      "Definition 1 for term 373",
+      "Definition 2 for term 373"
+    ],
+    "examples": [
+      "Example 1 for term 373",
+      "Example 2 for term 373"
+    ]
+  },
+  {
+    "term_en": "heat_term_374",
+    "term_te": "వేడి పదం 374",
+    "defs": [
+      "Definition 1 for term 374",
+      "Definition 2 for term 374"
+    ],
+    "examples": [
+      "Example 1 for term 374",
+      "Example 2 for term 374"
+    ]
+  },
+  {
+    "term_en": "heat_term_375",
+    "term_te": "వేడి పదం 375",
+    "defs": [
+      "Definition 1 for term 375",
+      "Definition 2 for term 375"
+    ],
+    "examples": [
+      "Example 1 for term 375",
+      "Example 2 for term 375"
+    ]
+  },
+  {
+    "term_en": "heat_term_376",
+    "term_te": "వేడి పదం 376",
+    "defs": [
+      "Definition 1 for term 376",
+      "Definition 2 for term 376"
+    ],
+    "examples": [
+      "Example 1 for term 376",
+      "Example 2 for term 376"
+    ]
+  },
+  {
+    "term_en": "heat_term_377",
+    "term_te": "వేడి పదం 377",
+    "defs": [
+      "Definition 1 for term 377",
+      "Definition 2 for term 377"
+    ],
+    "examples": [
+      "Example 1 for term 377",
+      "Example 2 for term 377"
+    ]
+  },
+  {
+    "term_en": "heat_term_378",
+    "term_te": "వేడి పదం 378",
+    "defs": [
+      "Definition 1 for term 378",
+      "Definition 2 for term 378"
+    ],
+    "examples": [
+      "Example 1 for term 378",
+      "Example 2 for term 378"
+    ]
+  },
+  {
+    "term_en": "heat_term_379",
+    "term_te": "వేడి పదం 379",
+    "defs": [
+      "Definition 1 for term 379",
+      "Definition 2 for term 379"
+    ],
+    "examples": [
+      "Example 1 for term 379",
+      "Example 2 for term 379"
+    ]
+  },
+  {
+    "term_en": "heat_term_380",
+    "term_te": "వేడి పదం 380",
+    "defs": [
+      "Definition 1 for term 380",
+      "Definition 2 for term 380"
+    ],
+    "examples": [
+      "Example 1 for term 380",
+      "Example 2 for term 380"
+    ]
+  },
+  {
+    "term_en": "heat_term_381",
+    "term_te": "వేడి పదం 381",
+    "defs": [
+      "Definition 1 for term 381",
+      "Definition 2 for term 381"
+    ],
+    "examples": [
+      "Example 1 for term 381",
+      "Example 2 for term 381"
+    ]
+  },
+  {
+    "term_en": "heat_term_382",
+    "term_te": "వేడి పదం 382",
+    "defs": [
+      "Definition 1 for term 382",
+      "Definition 2 for term 382"
+    ],
+    "examples": [
+      "Example 1 for term 382",
+      "Example 2 for term 382"
+    ]
+  },
+  {
+    "term_en": "heat_term_383",
+    "term_te": "వేడి పదం 383",
+    "defs": [
+      "Definition 1 for term 383",
+      "Definition 2 for term 383"
+    ],
+    "examples": [
+      "Example 1 for term 383",
+      "Example 2 for term 383"
+    ]
+  },
+  {
+    "term_en": "heat_term_384",
+    "term_te": "వేడి పదం 384",
+    "defs": [
+      "Definition 1 for term 384",
+      "Definition 2 for term 384"
+    ],
+    "examples": [
+      "Example 1 for term 384",
+      "Example 2 for term 384"
+    ]
+  },
+  {
+    "term_en": "heat_term_385",
+    "term_te": "వేడి పదం 385",
+    "defs": [
+      "Definition 1 for term 385",
+      "Definition 2 for term 385"
+    ],
+    "examples": [
+      "Example 1 for term 385",
+      "Example 2 for term 385"
+    ]
+  },
+  {
+    "term_en": "heat_term_386",
+    "term_te": "వేడి పదం 386",
+    "defs": [
+      "Definition 1 for term 386",
+      "Definition 2 for term 386"
+    ],
+    "examples": [
+      "Example 1 for term 386",
+      "Example 2 for term 386"
+    ]
+  },
+  {
+    "term_en": "heat_term_387",
+    "term_te": "వేడి పదం 387",
+    "defs": [
+      "Definition 1 for term 387",
+      "Definition 2 for term 387"
+    ],
+    "examples": [
+      "Example 1 for term 387",
+      "Example 2 for term 387"
+    ]
+  },
+  {
+    "term_en": "heat_term_388",
+    "term_te": "వేడి పదం 388",
+    "defs": [
+      "Definition 1 for term 388",
+      "Definition 2 for term 388"
+    ],
+    "examples": [
+      "Example 1 for term 388",
+      "Example 2 for term 388"
+    ]
+  },
+  {
+    "term_en": "heat_term_389",
+    "term_te": "వేడి పదం 389",
+    "defs": [
+      "Definition 1 for term 389",
+      "Definition 2 for term 389"
+    ],
+    "examples": [
+      "Example 1 for term 389",
+      "Example 2 for term 389"
+    ]
+  },
+  {
+    "term_en": "heat_term_390",
+    "term_te": "వేడి పదం 390",
+    "defs": [
+      "Definition 1 for term 390",
+      "Definition 2 for term 390"
+    ],
+    "examples": [
+      "Example 1 for term 390",
+      "Example 2 for term 390"
+    ]
+  },
+  {
+    "term_en": "heat_term_391",
+    "term_te": "వేడి పదం 391",
+    "defs": [
+      "Definition 1 for term 391",
+      "Definition 2 for term 391"
+    ],
+    "examples": [
+      "Example 1 for term 391",
+      "Example 2 for term 391"
+    ]
+  },
+  {
+    "term_en": "heat_term_392",
+    "term_te": "వేడి పదం 392",
+    "defs": [
+      "Definition 1 for term 392",
+      "Definition 2 for term 392"
+    ],
+    "examples": [
+      "Example 1 for term 392",
+      "Example 2 for term 392"
+    ]
+  }
+]

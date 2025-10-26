@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Telugu–English Science Reader</title>
+  <meta name="description" content="Bilingual science reader for 7th-grade heat transfer concepts">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/icon-192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="/assets/icon-512.png">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Heat Transfer Reader</h1>
+    <div class="controls">
+      <button id="langToggle" aria-label="Toggle primary language">
+        <span id="langLabel">Primary: English</span>
+      </button>
+      <button id="downloadFeedback" aria-label="Download teacher feedback">Download Feedback</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="reader" aria-label="Bilingual content">
+      <!-- Sentence pairs rendered here -->
+    </section>
+
+    <!-- Glossary slide-over panel -->
+    <aside id="glossaryPanel" role="dialog" aria-labelledby="glossaryTitle" aria-modal="true" hidden>
+      <button id="closeGlossary" aria-label="Close glossary">&times;</button>
+      <div id="glossaryContent">
+        <h2 id="glossaryTitle">Term</h2>
+        <p id="glossaryTerm" lang="te"></p>
+        <h3>Definitions</h3>
+        <ul id="glossaryDefs"></ul>
+        <h3>Examples</h3>
+        <ul id="glossaryExamples"></ul>
+      </div>
+    </aside>
+
+    <section id="feedback" aria-label="Teacher feedback">
+      <h2>Provide Feedback</h2>
+      <form id="feedbackForm">
+        <label for="feedbackType">Type</label>
+        <select id="feedbackType" required>
+          <option value="">Select type</option>
+          <option value="translation">Translation</option>
+          <option value="cultural">Cultural Context</option>
+          <option value="usability">Usability</option>
+        </select>
+
+        <label for="feedbackText">Details</label>
+        <textarea id="feedbackText" rows="4" required></textarea>
+
+        <label for="feedbackSentence">Related Sentence (optional)</label>
+        <select id="feedbackSentence">
+          <option value="">None</option>
+        </select>
+
+        <button type="submit">Submit Feedback</button>
+      </form>
+      <div id="feedbackStatus" role="status" aria-live="polite"></div>
+    </section>
+
+    <section id="analytics" aria-label="Top terms">
+      <h2>Top Terms</h2>
+      <ol id="topTermsList"></ol>
+    </section>
+  </main>
+
+  <footer>
+    <p>Offline-first demo • Data stored locally</p>
+  </footer>
+
+  <script type="module" src="/app.js"></script>
+  <script type="module" src="/ai-helpers.js"></script>
+</body>
+</html>

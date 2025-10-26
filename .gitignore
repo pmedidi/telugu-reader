@@ -1,0 +1,28 @@
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+server.log
+
+# Temporary files
+*.tmp
+.cache/
+
+# Optional: Vercel
+.vercel
+
+# Environment variables (API keys - NEVER COMMIT)
+.env
+.env.local
+.env.*.local

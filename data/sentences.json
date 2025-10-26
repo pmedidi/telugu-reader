@@ -1,0 +1,3757 @@
+[
+  {
+    "id": 1,
+    "en": "Heat is a form of energy that flows from a hotter object to a cooler one.",
+    "te": "వేడి అనేది శక్తి యొక్క ఒక రూపం, ఇది వేడి వస్తువు నుండి చల్లగా ఉన్న వస్తువుకు ప్రవహిస్తుంది."
+  },
+  {
+    "id": 2,
+    "en": "There are three main methods of heat transfer: conduction, convection, and radiation.",
+    "te": "వేడి బదిలీకి మూడు ప్రధాన పద్ధతులు ఉన్నాయి: ప్రసరణ, ఉష్ణప్రసరణ, మరియు వికిరణం."
+  },
+  {
+    "id": 3,
+    "en": "Conduction is the transfer of heat through direct contact between objects.",
+    "te": "ప్రసరణ అంటే వస్తువుల మధ్య నేరుగా స్పర్శ ద్వారా వేడి బదిలీ."
+  },
+  {
+    "id": 4,
+    "en": "Metals are good conductors of heat because their atoms are closely packed.",
+    "te": "లోహాలు వేడికి మంచి వాహకాలు ఎందుకంటే వాటి పరమాణువులు దట్టంగా నిండి ఉంటాయి."
+  },
+  {
+    "id": 5,
+    "en": "Wood and plastic are insulators that prevent heat from flowing easily.",
+    "te": "చెక్క మరియు ప్లాస్టిక్ అవాహకాలు, ఇవి వేడిని సులభంగా ప్రవహించకుండా నిరోధిస్తాయి."
+  },
+  {
+    "id": 6,
+    "en": "Convection occurs when heat is transferred by the movement of fluids or gases.",
+    "te": "ద్రవాలు లేదా వాయువుల కదలిక ద్వారా వేడి బదిలీ అయినప్పుడు ఉష్ణప్రసరణ జరుగుతుంది."
+  },
+  {
+    "id": 7,
+    "en": "Hot air rises because it is less dense than cold air, creating convection currents.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున పైకి ఎగురుతుంది, ఉష్ణప్రసరణ ప్రవాహాలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 8,
+    "en": "Radiation is the transfer of heat through electromagnetic waves without needing a medium.",
+    "te": "వికిరణం అంటే విద్యుదయస్కాంత తరంగాల ద్వారా మాధ్యమం అవసరం లేకుండా వేడి బదిలీ."
+  },
+  {
+    "id": 9,
+    "en": "The Sun heats the Earth through radiation across the vacuum of space.",
+    "te": "అంతరిక్ష శూన్యతలో వికిరణం ద్వారా సూర్యుడు భూమిని వేడి చేస్తాడు."
+  },
+  {
+    "id": 10,
+    "en": "Dark surfaces have higher emissivity and absorb more heat than light surfaces.",
+    "te": "ముదురు రంగు ఉపరితలాలు ఎక్కువ ఉద్గార సామర్థ్యం కలిగి ఉండి, తెలుపు ఉపరితలాల కంటే ఎక్కువ వేడిని గ్రహిస్తాయి."
+  },
+  {
+    "id": 11,
+    "en": "Thermal equilibrium is reached when two objects in contact have the same temperature.",
+    "te": "సంపర్కంలో ఉన్న రెండు వస్తువులు ఒకే ఉష్ణోగ్రత కలిగి ఉన్నప్పుడు ఉష్ణ సమతౌల్య స్థితి చేరుకుంటుంది."
+  },
+  {
+    "id": 12,
+    "en": "Specific heat is the amount of energy needed to raise the temperature of one kilogram of a substance by one degree Celsius.",
+    "te": "విశిష్ట వేడి అంటే ఒక కిలోగ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తి మొత్తం."
+  },
+  {
+    "id": 13,
+    "en": "Water has a high specific heat, which is why it takes longer to heat up and cool down.",
+    "te": "నీరు ఎక్కువ విశిష్ట వేడిని కలిగి ఉంటుంది, అందుకే వేడి చేయడానికి మరియు చల్లబరచడానికి ఎక్కువ సమయం పడుతుంది."
+  },
+  {
+    "id": 14,
+    "en": "Thermal conductivity measures how well a material can conduct heat.",
+    "te": "ఉష్ణ వాహకత అనేది ఒక పదార్థం వేడిని ఎంత బాగా ప్రసరింపజేయగలదో కొలుస్తుంది."
+  },
+  {
+    "id": 15,
+    "en": "Copper has high thermal conductivity, making it useful for cooking pots.",
+    "te": "రాగి అధిక ఉష్ణ వాహకతను కలిగి ఉంటుంది, ఇది వంట పాత్రలకు ఉపయోగకరంగా ఉంటుంది."
+  },
+  {
+    "id": 16,
+    "en": "A thermos flask uses a vacuum to prevent heat transfer by conduction and convection.",
+    "te": "థర్మస్ ఫ్లాస్క్ ప్రసరణ మరియు ఉష్ణప్రసరణ ద్వారా వేడి బదిలీని నిరోధించడానికి శూన్యతను ఉపయోగిస్తుంది."
+  },
+  {
+    "id": 17,
+    "en": "Absorption is the process by which a material takes in energy from radiation.",
+    "te": "శోషణ అనేది ఒక పదార్థం వికిరణం నుండి శక్తిని తీసుకునే ప్రక్రియ."
+  },
+  {
+    "id": 18,
+    "en": "Light-colored clothing reflects more radiation and keeps you cooler in summer.",
+    "te": "లేత రంగు దుస్తులు ఎక్కువ వికిరణాన్ని ప్రతిబింబిస్తాయి మరియు వేసవిలో మిమ్మల్ని చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 19,
+    "en": "When you place a metal spoon in hot tea, it becomes warm.",
+    "te": "వేడి టీలో లోహపు చెంచాను పెట్టినప్పుడు అది వేడెక్కుతుంది."
+  },
+  {
+    "id": 20,
+    "en": "Heat always travels from a hotter object to a colder one.",
+    "te": "వేడి ఎప్పుడూ వేడిగా ఉన్న వస్తువునుండి చల్లని వస్తువుకు వెళ్తుంది."
+  },
+  {
+    "id": 21,
+    "en": "Temperature is a measure of how hot or cold something is.",
+    "te": "ఉష్ణోగ్రత అంటే ఏదైనా ఎంత వేడిగా లేదా చల్లగా ఉందో కొలిచే కొలమానము."
+  },
+  {
+    "id": 22,
+    "en": "A thermometer is used to measure temperature accurately.",
+    "te": "ఉష్ణోగ్రతను ఖచ్చితంగా కొలవడానికి థర్మామీటర్ ఉపయోగిస్తారు."
+  },
+  {
+    "id": 23,
+    "en": "The Celsius scale is commonly used in science and everyday life.",
+    "te": "సెల్సియస్ స్కేల్ సైన్స్ మరియు రోజువారీ జీవితంలో సాధారణంగా ఉపయోగిస్తారు."
+  },
+  {
+    "id": 24,
+    "en": "Water freezes at zero degrees Celsius.",
+    "te": "నీరు సున్న డిగ్రీల సెల్సియస్ వద్ద గడ్డకడుతుంది."
+  },
+  {
+    "id": 25,
+    "en": "Water boils at one hundred degrees Celsius at sea level.",
+    "te": "సముద్ర మట్టంలో నీరు వంద డిగ్రీల సెల్సియస్ వద్ద మరుగుతుంది."
+  },
+  {
+    "id": 26,
+    "en": "When water boils, it changes from liquid to gas.",
+    "te": "నీరు మరిగినప్పుడు అది ద్రవం నుండి వాయువుగా మారుతుంది."
+  },
+  {
+    "id": 27,
+    "en": "Steam is the gaseous form of water.",
+    "te": "ఆవిరి అనేది నీటి యొక్క వాయు రూపం."
+  },
+  {
+    "id": 28,
+    "en": "Ice is the solid form of water.",
+    "te": "మంచు అనేది నీటి ఘన రూపం."
+  },
+  {
+    "id": 29,
+    "en": "When ice melts, it absorbs heat from the surroundings.",
+    "te": "మంచు కరిగినప్పుడు అది పరిసరాల నుండి వేడిని గ్రహిస్తుంది."
+  },
+  {
+    "id": 30,
+    "en": "Evaporation is the process of liquid changing into vapor.",
+    "te": "బాష్పీభవనం అంటే ద్రవం ఆవిరిగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 31,
+    "en": "Condensation is the process of vapor changing into liquid.",
+    "te": "సంగ్రహణ అంటే ఆవిరి ద్రవంగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 32,
+    "en": "Morning dew forms through condensation of water vapor.",
+    "te": "ఉదయం మంచు నీటి ఆవిరి సంగ్రహణ ద్వారా ఏర్పడుతుంది."
+  },
+  {
+    "id": 33,
+    "en": "Fog is tiny water droplets suspended in air.",
+    "te": "పొగమంచు అనేది గాలిలో నిలిచి ఉన్న చిన్న నీటి బిందువులు."
+  },
+  {
+    "id": 34,
+    "en": "Clouds form when water vapor condenses around dust particles.",
+    "te": "నీటి ఆవిరి ధూళి కణాల చుట్టూ సంగ్రహించినప్పుడు మేఘాలు ఏర్పడతాయి."
+  },
+  {
+    "id": 35,
+    "en": "Rain occurs when water droplets in clouds become heavy and fall.",
+    "te": "మేఘాల్లోని నీటి బిందువులు బరువుగా మారి పడినప్పుడు వర్షం కురుస్తుంది."
+  },
+  {
+    "id": 36,
+    "en": "The water cycle involves evaporation, condensation, and precipitation.",
+    "te": "నీటి చక్రంలో బాష్పీభవనం, సంగ్రహణ మరియు వర్షపాతం ఉంటాయి."
+  },
+  {
+    "id": 37,
+    "en": "Heat energy from the Sun drives the water cycle.",
+    "te": "సూర్యుడి నుండి వచ్చే ఉష్ణ శక్తి నీటి చక్రాన్ని నడిపిస్తుంది."
+  },
+  {
+    "id": 38,
+    "en": "A good conductor allows heat to pass through it easily.",
+    "te": "మంచి వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేస్తుంది."
+  },
+  {
+    "id": 39,
+    "en": "A poor conductor does not allow heat to pass through easily.",
+    "te": "చెడు వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేయదు."
+  },
+  {
+    "id": 40,
+    "en": "Silver is the best conductor of heat among all metals.",
+    "te": "వెండి అన్ని లోహాలలో వేడికి అత్యుత్తమ వాహకం."
+  },
+  {
+    "id": 41,
+    "en": "Aluminum is a good conductor and is used in cooking utensils.",
+    "te": "అల్యూమినియం మంచి వాహకం మరియు వంట పాత్రలలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 42,
+    "en": "Iron is used to make frying pans because it conducts heat well.",
+    "te": "ఇనుము వేడిని బాగా ప్రసరింపజేస్తుంది కాబట్టి దాన్ని తావాలు తయారు చేయడానికి ఉపయోగిస్తారు."
+  },
+  {
+    "id": 43,
+    "en": "Steel is an alloy that combines iron with carbon.",
+    "te": "ఉక్కు అనేది ఇనుమును కార్బన్‌తో కలుపు చేసిన మిశ్రమం."
+  },
+  {
+    "id": 44,
+    "en": "Stainless steel is used in kitchenware because it resists rust.",
+    "te": "స్టెయిన్‌లెస్ స్టీల్ తుప్పును నిరోధిస్తుంది కాబట్టి వంటగది సామగ్రిలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 45,
+    "en": "Glass is a poor conductor of heat.",
+    "te": "గాజు వేడికి చెడు వాహకం."
+  },
+  {
+    "id": 46,
+    "en": "Air is one of the poorest conductors of heat.",
+    "te": "గాలి వేడికి అత్యంత చెడు వాహకాలలో ఒకటి."
+  },
+  {
+    "id": 47,
+    "en": "Wool traps air between its fibers, making it a good insulator.",
+    "te": "గొంగళి తన తంతువుల మధ్య గాలిని పట్టుకుంటుంది, దీనివల్ల అది మంచి అవాహకం అవుతుంది."
+  },
+  {
+    "id": 48,
+    "en": "Cotton clothes are suitable for summer because they allow air circulation.",
+    "te": "కాటన్ బట్టలు వేసవికి అనువుగా ఉంటాయి ఎందుకంటే అవి గాలి ప్రసరణను అనుమతిస్తాయి."
+  },
+  {
+    "id": 49,
+    "en": "Synthetic fabrics may not breathe as well as natural fibers.",
+    "te": "సింథటిక్ బట్టలు సహజ తంతువుల వలె ఊపిరి పోయనివి కావచ్చు."
+  },
+  {
+    "id": 50,
+    "en": "Double-walled containers reduce heat transfer through the air gap.",
+    "te": "రెండు గోడల కంటైనర్లు గాలి అంతరం ద్వారా వేడి బదిలీని తగ్గిస్తాయి."
+  },
+  {
+    "id": 51,
+    "en": "A vacuum flask keeps liquids hot or cold for many hours.",
+    "te": "వాక్యూమ్ ఫ్లాస్క్ ద్రవాలను చాలా గంటలు వేడిగా లేదా చల్లగా ఉంచుతుంది."
+  },
+  {
+    "id": 52,
+    "en": "The shiny inner surface of a flask reflects radiation back.",
+    "te": "ఫ్లాస్క్ యొక్క మెరుస్తున్న లోపలి ఉపరితలం వికిరణాన్ని తిరిగి ప్రతిబింబిస్తుంది."
+  },
+  {
+    "id": 53,
+    "en": "Handles of cooking pots are made of plastic or wood to prevent burns.",
+    "te": "వంట పాత్రల హ్యాండిళ్ళు కాలిపోకుండా నిరోధించడానికి ప్లాస్టిక్ లేదా చెక్కతో తయారు చేస్తారు."
+  },
+  {
+    "id": 54,
+    "en": "When cooking, always use pot holders to avoid burns.",
+    "te": "వంట చేసేటప్పుడు కాలిపోకుండా ఎల్లప్పుడూ పాట్ హోల్డర్లను ఉపయోగించండి."
+  },
+  {
+    "id": 55,
+    "en": "Hot oil can cause severe burns, so handle it carefully.",
+    "te": "వేడి నూనె తీవ్రమైన కాలుపులు కలిగించగలదు, కాబట్టి దాన్ని జాగ్రత్తగా నిర్వహించండి."
+  },
+  {
+    "id": 56,
+    "en": "Fire requires fuel, oxygen, and heat to burn.",
+    "te": "అగ్ని మండాలంటే ఇంధనం, ఆక్సిజన్ మరియు వేడి అవసరం."
+  },
+  {
+    "id": 57,
+    "en": "Removing any one of these three stops the fire.",
+    "te": "ఈ మూడింటిలో ఏదైనా ఒకటి తీసివేస్తే అగ్ని ఆగిపోతుంది."
+  },
+  {
+    "id": 58,
+    "en": "Water cools the fire and removes heat.",
+    "te": "నీరు అగ్నిని చల్లబరుస్తుంది మరియు వేడిని తొలగిస్తుంది."
+  },
+  {
+    "id": 59,
+    "en": "A fire blanket cuts off oxygen supply to the flames.",
+    "te": "ఫైర్ బ్లాంకెట్ మంటలకు ఆక్సిజన్ సరఫరాను నిలిపివేస్తుంది."
+  },
+  {
+    "id": 60,
+    "en": "Carbon dioxide fire extinguishers work by displacing oxygen.",
+    "te": "కార్బన్ డయాక్సైడ్ ఫైర్ ఎక్స్‌టింగ్విషర్లు ఆక్సిజన్‌ను తొలగించడం ద్వారా పనిచేస్తాయి."
+  },
+  {
+    "id": 61,
+    "en": "Never use water on an electrical fire.",
+    "te": "విద్యుత్ అగ్నిపై ఎప్పుడూ నీటిని ఉపయోగించవద్దు."
+  },
+  {
+    "id": 62,
+    "en": "Oil fires should be smothered, not doused with water.",
+    "te": "నూనె మంటలు అణచివేయాలి, నీటితో ఆర్పకూడదు."
+  },
+  {
+    "id": 63,
+    "en": "A smoke detector warns you when there is smoke in the house.",
+    "te": "ఇంట్లో పొగ ఉన్నప్పుడు స్మోక్ డిటెక్టర్ మిమ్మల్ని హెచ్చరిస్తుంది."
+  },
+  {
+    "id": 64,
+    "en": "Every home should have a fire escape plan.",
+    "te": "ప్రతి ఇంట్లో ఫైర్ ఎస్కేప్ ప్లాన్ ఉండాలి."
+  },
+  {
+    "id": 65,
+    "en": "In case of fire, crawl low under smoke to breathe cleaner air.",
+    "te": "అగ్ని విషయంలో శుద్ధమైన గాలిని పీల్చడానికి పొగ కింద తక్కువగా క్రాల్ చేయండి."
+  },
+  {
+    "id": 66,
+    "en": "Heat makes substances expand.",
+    "te": "వేడి పదార్థాలను విస్తరింపజేస్తుంది."
+  },
+  {
+    "id": 67,
+    "en": "When a metal rod is heated, it becomes longer.",
+    "te": "లోహపు కడ్డీని వేడి చేసినప్పుడు అది పొడవుగా మారుతుంది."
+  },
+  {
+    "id": 68,
+    "en": "Railway tracks have gaps to allow for expansion in summer.",
+    "te": "రైల్వే ట్రాక్‌లలో వేసవిలో విస్తరణకు అనుమతి ఇవ్వడానికి గ్యాప్‌లు ఉంటాయి."
+  },
+  {
+    "id": 69,
+    "en": "Bridges have expansion joints to accommodate temperature changes.",
+    "te": "వంతెనలు ఉష్ణోగ్రత మార్పులను సరిచేయడానికి విస్తరణ జాయింట్లను కలిగి ఉంటాయి."
+  },
+  {
+    "id": 70,
+    "en": "A bimetallic strip bends when heated because the two metals expand differently.",
+    "te": "రెండు లోహాలు భిన్నంగా విస్తరిస్తాయి కాబట్టి బైమెటాలిక్ స్ట్రిప్ వేడి చేసినప్పుడు వంగుతుంది."
+  },
+  {
+    "id": 71,
+    "en": "Thermostats use bimetallic strips to control temperature.",
+    "te": "థర్మోస్టాట్‌లు ఉష్ణోగ్రతను నియంత్రించడానికి బైమెటాలిక్ స్ట్రిప్‌లను ఉపయోగిస్తాయి."
+  },
+  {
+    "id": 72,
+    "en": "Liquids expand more than solids when heated.",
+    "te": "వేడి చేసినప్పుడు ద్రవాలు ఘన పదార్థాల కంటే ఎక్కువ విస్తరిస్తాయి."
+  },
+  {
+    "id": 73,
+    "en": "Gases expand even more than liquids when heated.",
+    "te": "వేడి చేసినప్పుడు వాయువులు ద్రవాల కంటే మరింత విస్తరిస్తాయి."
+  },
+  {
+    "id": 74,
+    "en": "A hot air balloon rises because hot air is less dense than cool air.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున వేడి గాలి బుడగ పైకి లేస్తుంది."
+  },
+  {
+    "id": 75,
+    "en": "Density is the mass per unit volume of a substance.",
+    "te": "సాంద్రత అనేది పదార్థం యొక్క యూనిట్ వాల్యూమ్‌కు ద్రవ్యరాశి."
+  },
+  {
+    "id": 76,
+    "en": "When a substance expands, its density decreases.",
+    "te": "పదార్థం విస్తరించినప్పుడు దాని సాంద్రత తగ్గుతుంది."
+  },
+  {
+    "id": 77,
+    "en": "Water is unusual because it expands when it freezes.",
+    "te": "నీరు గడ్డకట్టినప్పుడు విస్తరిస్తుంది కాబట్టి అది అసాధారణమైనది."
+  },
+  {
+    "id": 78,
+    "en": "Ice floats on water because it is less dense.",
+    "te": "మంచు తక్కువ సాంద్రత కలిగి ఉన్నందున నీటిపై తేలుతుంది."
+  },
+  {
+    "id": 79,
+    "en": "This property of water helps aquatic life survive in winter.",
+    "te": "నీటి యొక్క ఈ లక్షణం చలికాలంలో జల జీవులు జీవించడానికి సహాయపడుతుంది."
+  },
+  {
+    "id": 80,
+    "en": "Pipes can burst in winter if water inside them freezes.",
+    "te": "వాటి లోపల నీరు గడ్డకట్టినట్లయితే చలికాలంలో పైపులు పగలవచ్చు."
+  },
+  {
+    "id": 81,
+    "en": "Sea breezes occur because land heats up faster than water.",
+    "te": "భూమి నీటి కంటే వేగంగా వేడెక్కుతుంది కాబట్టి సముద్ర గాలులు సంభవిస్తాయి."
+  },
+  {
+    "id": 82,
+    "en": "During the day, cool air from the sea moves towards the hot land.",
+    "te": "పగటిపూట సముద్రం నుండి చల్లని గాలి వేడి భూమి వైపుకు కదులుతుంది."
+  },
+  {
+    "id": 83,
+    "en": "At night, land cools faster, and air moves from land to sea.",
+    "te": "రాత్రి సమయంలో భూమి వేగంగా చల్లబడుతుంది మరియు గాలి భూమి నుండి సముద్రానికి కదులుతుంది."
+  },
+  {
+    "id": 84,
+    "en": "Land breezes are cooler than sea breezes.",
+    "te": "భూ గాలులు సముద్ర గాలుల కంటే చల్లగా ఉంటాయి."
+  },
+  {
+    "id": 85,
+    "en": "Wind is caused by differences in air pressure.",
+    "te": "గాలి పీడన వ్యత్యాసాల వల్ల గాలి ఏర్పడుతుంది."
+  },
+  {
+    "id": 86,
+    "en": "Air moves from high pressure areas to low pressure areas.",
+    "te": "గాలి అధిక పీడన ప్రాంతాల నుండి తక్కువ పీడన ప్రాంతాలకు కదులుతుంది."
+  },
+  {
+    "id": 87,
+    "en": "The Sun heats different parts of Earth unevenly.",
+    "te": "సూర్యుడు భూమి యొక్క వివిధ భాగాలను అసమానంగా వేడి చేస్తాడు."
+  },
+  {
+    "id": 88,
+    "en": "The equator receives more direct sunlight than the poles.",
+    "te": "భూమధ్య రేఖ ధ్రువాల కంటే ఎక్కువ ప్రత్యక్ష సూర్య కాంతిని పొందుతుంది."
+  },
+  {
+    "id": 89,
+    "en": "This creates global wind patterns and weather systems.",
+    "te": "ఇది ప్రపంచ గాలి నమూనాలు మరియు వాతావరణ వ్యవస్థలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 90,
+    "en": "Greenhouse gases trap heat in Earth's atmosphere.",
+    "te": "గ్రీన్‌హౌస్ వాయువులు భూమి యొక్క వాతావరణంలో వేడిని బంధిస్తాయి."
+  },
+  {
+    "id": 91,
+    "en": "The greenhouse effect keeps Earth warm enough for life.",
+    "te": "గ్రీన్‌హౌస్ ప్రభావం భూమిని జీవితానికి తగినంత వేడిగా ఉంచుతుంది."
+  },
+  {
+    "id": 92,
+    "en": "Too many greenhouse gases cause global warming.",
+    "te": "చాలా ఎక్కువ గ్రీన్‌హౌస్ వాయువులు గ్లోబల్ వార్మింగ్‌కు కారణమవుతాయి."
+  },
+  {
+    "id": 93,
+    "en": "Carbon dioxide is a major greenhouse gas.",
+    "te": "కార్బన్ డయాక్సైడ్ ఒక ప్రధాన గ్రీన్‌హౌస్ వాయువు."
+  },
+  {
+    "id": 94,
+    "en": "Methane is another powerful greenhouse gas.",
+    "te": "మీథేన్ మరొక శక్తివంతమైన గ్రీన్‌హౌస్ వాయువు."
+  },
+  {
+    "id": 95,
+    "en": "Burning fossil fuels releases carbon dioxide into the atmosphere.",
+    "te": "శిలాజ ఇంధనాలను కాల్చడం వల్ల వాతావరణంలోకి కార్బన్ డయాక్సైడ్ విడుదల అవుతుంది."
+  },
+  {
+    "id": 96,
+    "en": "Deforestation reduces the number of trees that absorb carbon dioxide.",
+    "te": "అటవీ నిర్మూలన కార్బన్ డయాక్సైడ్‌ను గ్రహించే చెట్ల సంఖ్యను తగ్గిస్తుంది."
+  },
+  {
+    "id": 97,
+    "en": "Planting trees helps reduce atmospheric carbon dioxide.",
+    "te": "చెట్లు నాటడం వాతావరణ కార్బన్ డయాక్సైడ్‌ను తగ్గించడంలో సహాయపడుతుంది."
+  },
+  {
+    "id": 98,
+    "en": "Solar panels convert sunlight into electrical energy.",
+    "te": "సోలార్ ప్యానెల్స్ సూర్య కాంతిని విద్యుత్ శక్తిగా మారుస్తాయి."
+  },
+  {
+    "id": 99,
+    "en": "Solar energy is renewable and does not pollute.",
+    "te": "సౌర శక్తి పునరుత్పాదకమైనది మరియు కాలుష్యం కలిగించదు."
+  },
+  {
+    "id": 100,
+    "en": "Wind turbines use wind energy to generate electricity.",
+    "te": "విండ్ టర్బైన్లు విద్యుత్తును ఉత్పత్తి చేయడానికి గాలి శక్తిని ఉపయోగిస్తాయి."
+  },
+  {
+    "id": 101,
+    "en": "Heat is a form of energy that flows from a hotter object to a cooler one.",
+    "te": "వేడి అనేది శక్తి యొక్క ఒక రూపం, ఇది వేడి వస్తువు నుండి చల్లగా ఉన్న వస్తువుకు ప్రవహిస్తుంది."
+  },
+  {
+    "id": 102,
+    "en": "There are three main methods of heat transfer: conduction, convection, and radiation.",
+    "te": "వేడి బదిలీకి మూడు ప్రధాన పద్ధతులు ఉన్నాయి: ప్రసరణ, ఉష్ణప్రసరణ, మరియు వికిరణం."
+  },
+  {
+    "id": 103,
+    "en": "Conduction is the transfer of heat through direct contact between objects.",
+    "te": "ప్రసరణ అంటే వస్తువుల మధ్య నేరుగా స్పర్శ ద్వారా వేడి బదిలీ."
+  },
+  {
+    "id": 104,
+    "en": "Metals are good conductors of heat because their atoms are closely packed.",
+    "te": "లోహాలు వేడికి మంచి వాహకాలు ఎందుకంటే వాటి పరమాణువులు దట్టంగా నిండి ఉంటాయి."
+  },
+  {
+    "id": 105,
+    "en": "Wood and plastic are insulators that prevent heat from flowing easily.",
+    "te": "చెక్క మరియు ప్లాస్టిక్ అవాహకాలు, ఇవి వేడిని సులభంగా ప్రవహించకుండా నిరోధిస్తాయి."
+  },
+  {
+    "id": 106,
+    "en": "Convection occurs when heat is transferred by the movement of fluids or gases.",
+    "te": "ద్రవాలు లేదా వాయువుల కదలిక ద్వారా వేడి బదిలీ అయినప్పుడు ఉష్ణప్రసరణ జరుగుతుంది."
+  },
+  {
+    "id": 107,
+    "en": "Hot air rises because it is less dense than cold air, creating convection currents.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున పైకి ఎగురుతుంది, ఉష్ణప్రసరణ ప్రవాహాలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 108,
+    "en": "Radiation is the transfer of heat through electromagnetic waves without needing a medium.",
+    "te": "వికిరణం అంటే విద్యుదయస్కాంత తరంగాల ద్వారా మాధ్యమం అవసరం లేకుండా వేడి బదిలీ."
+  },
+  {
+    "id": 109,
+    "en": "The Sun heats the Earth through radiation across the vacuum of space.",
+    "te": "అంతరిక్ష శూన్యతలో వికిరణం ద్వారా సూర్యుడు భూమిని వేడి చేస్తాడు."
+  },
+  {
+    "id": 110,
+    "en": "Dark surfaces have higher emissivity and absorb more heat than light surfaces.",
+    "te": "ముదురు రంగు ఉపరితలాలు ఎక్కువ ఉద్గార సామర్థ్యం కలిగి ఉండి, తెలుపు ఉపరితలాల కంటే ఎక్కువ వేడిని గ్రహిస్తాయి."
+  },
+  {
+    "id": 111,
+    "en": "Thermal equilibrium is reached when two objects in contact have the same temperature.",
+    "te": "సంపర్కంలో ఉన్న రెండు వస్తువులు ఒకే ఉష్ణోగ్రత కలిగి ఉన్నప్పుడు ఉష్ణ సమతౌల్య స్థితి చేరుకుంటుంది."
+  },
+  {
+    "id": 112,
+    "en": "Specific heat is the amount of energy needed to raise the temperature of one kilogram of a substance by one degree Celsius.",
+    "te": "విశిష్ట వేడి అంటే ఒక కిలోగ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తి మొత్తం."
+  },
+  {
+    "id": 113,
+    "en": "Water has a high specific heat, which is why it takes longer to heat up and cool down.",
+    "te": "నీరు ఎక్కువ విశిష్ట వేడిని కలిగి ఉంటుంది, అందుకే వేడి చేయడానికి మరియు చల్లబరచడానికి ఎక్కువ సమయం పడుతుంది."
+  },
+  {
+    "id": 114,
+    "en": "Thermal conductivity measures how well a material can conduct heat.",
+    "te": "ఉష్ణ వాహకత అనేది ఒక పదార్థం వేడిని ఎంత బాగా ప్రసరింపజేయగలదో కొలుస్తుంది."
+  },
+  {
+    "id": 115,
+    "en": "Copper has high thermal conductivity, making it useful for cooking pots.",
+    "te": "రాగి అధిక ఉష్ణ వాహకతను కలిగి ఉంటుంది, ఇది వంట పాత్రలకు ఉపయోగకరంగా ఉంటుంది."
+  },
+  {
+    "id": 116,
+    "en": "A thermos flask uses a vacuum to prevent heat transfer by conduction and convection.",
+    "te": "థర్మస్ ఫ్లాస్క్ ప్రసరణ మరియు ఉష్ణప్రసరణ ద్వారా వేడి బదిలీని నిరోధించడానికి శూన్యతను ఉపయోగిస్తుంది."
+  },
+  {
+    "id": 117,
+    "en": "Absorption is the process by which a material takes in energy from radiation.",
+    "te": "శోషణ అనేది ఒక పదార్థం వికిరణం నుండి శక్తిని తీసుకునే ప్రక్రియ."
+  },
+  {
+    "id": 118,
+    "en": "Light-colored clothing reflects more radiation and keeps you cooler in summer.",
+    "te": "లేత రంగు దుస్తులు ఎక్కువ వికిరణాన్ని ప్రతిబింబిస్తాయి మరియు వేసవిలో మిమ్మల్ని చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 119,
+    "en": "When you place a metal spoon in hot tea, it becomes warm.",
+    "te": "వేడి టీలో లోహపు చెంచాను పెట్టినప్పుడు అది వేడెక్కుతుంది."
+  },
+  {
+    "id": 120,
+    "en": "Heat always travels from a hotter object to a colder one.",
+    "te": "వేడి ఎప్పుడూ వేడిగా ఉన్న వస్తువునుండి చల్లని వస్తువుకు వెళ్తుంది."
+  },
+  {
+    "id": 121,
+    "en": "Temperature is a measure of how hot or cold something is.",
+    "te": "ఉష్ణోగ్రత అంటే ఏదైనా ఎంత వేడిగా లేదా చల్లగా ఉందో కొలిచే కొలమానము."
+  },
+  {
+    "id": 122,
+    "en": "A thermometer is used to measure temperature accurately.",
+    "te": "ఉష్ణోగ్రతను ఖచ్చితంగా కొలవడానికి థర్మామీటర్ ఉపయోగిస్తారు."
+  },
+  {
+    "id": 123,
+    "en": "The Celsius scale is commonly used in science and everyday life.",
+    "te": "సెల్సియస్ స్కేల్ సైన్స్ మరియు రోజువారీ జీవితంలో సాధారణంగా ఉపయోగిస్తారు."
+  },
+  {
+    "id": 124,
+    "en": "Water freezes at zero degrees Celsius.",
+    "te": "నీరు సున్న డిగ్రీల సెల్సియస్ వద్ద గడ్డకడుతుంది."
+  },
+  {
+    "id": 125,
+    "en": "Water boils at one hundred degrees Celsius at sea level.",
+    "te": "సముద్ర మట్టంలో నీరు వంద డిగ్రీల సెల్సియస్ వద్ద మరుగుతుంది."
+  },
+  {
+    "id": 126,
+    "en": "When water boils, it changes from liquid to gas.",
+    "te": "నీరు మరిగినప్పుడు అది ద్రవం నుండి వాయువుగా మారుతుంది."
+  },
+  {
+    "id": 127,
+    "en": "Steam is the gaseous form of water.",
+    "te": "ఆవిరి అనేది నీటి యొక్క వాయు రూపం."
+  },
+  {
+    "id": 128,
+    "en": "Ice is the solid form of water.",
+    "te": "మంచు అనేది నీటి ఘన రూపం."
+  },
+  {
+    "id": 129,
+    "en": "When ice melts, it absorbs heat from the surroundings.",
+    "te": "మంచు కరిగినప్పుడు అది పరిసరాల నుండి వేడిని గ్రహిస్తుంది."
+  },
+  {
+    "id": 130,
+    "en": "Evaporation is the process of liquid changing into vapor.",
+    "te": "బాష్పీభవనం అంటే ద్రవం ఆవిరిగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 131,
+    "en": "Condensation is the process of vapor changing into liquid.",
+    "te": "సంగ్రహణ అంటే ఆవిరి ద్రవంగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 132,
+    "en": "Morning dew forms through condensation of water vapor.",
+    "te": "ఉదయం మంచు నీటి ఆవిరి సంగ్రహణ ద్వారా ఏర్పడుతుంది."
+  },
+  {
+    "id": 133,
+    "en": "Fog is tiny water droplets suspended in air.",
+    "te": "పొగమంచు అనేది గాలిలో నిలిచి ఉన్న చిన్న నీటి బిందువులు."
+  },
+  {
+    "id": 134,
+    "en": "Clouds form when water vapor condenses around dust particles.",
+    "te": "నీటి ఆవిరి ధూళి కణాల చుట్టూ సంగ్రహించినప్పుడు మేఘాలు ఏర్పడతాయి."
+  },
+  {
+    "id": 135,
+    "en": "Rain occurs when water droplets in clouds become heavy and fall.",
+    "te": "మేఘాల్లోని నీటి బిందువులు బరువుగా మారి పడినప్పుడు వర్షం కురుస్తుంది."
+  },
+  {
+    "id": 136,
+    "en": "The water cycle involves evaporation, condensation, and precipitation.",
+    "te": "నీటి చక్రంలో బాష్పీభవనం, సంగ్రహణ మరియు వర్షపాతం ఉంటాయి."
+  },
+  {
+    "id": 137,
+    "en": "Heat energy from the Sun drives the water cycle.",
+    "te": "సూర్యుడి నుండి వచ్చే ఉష్ణ శక్తి నీటి చక్రాన్ని నడిపిస్తుంది."
+  },
+  {
+    "id": 138,
+    "en": "A good conductor allows heat to pass through it easily.",
+    "te": "మంచి వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేస్తుంది."
+  },
+  {
+    "id": 139,
+    "en": "A poor conductor does not allow heat to pass through easily.",
+    "te": "చెడు వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేయదు."
+  },
+  {
+    "id": 140,
+    "en": "Silver is the best conductor of heat among all metals.",
+    "te": "వెండి అన్ని లోహాలలో వేడికి అత్యుత్తమ వాహకం."
+  },
+  {
+    "id": 141,
+    "en": "Aluminum is a good conductor and is used in cooking utensils.",
+    "te": "అల్యూమినియం మంచి వాహకం మరియు వంట పాత్రలలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 142,
+    "en": "Iron is used to make frying pans because it conducts heat well.",
+    "te": "ఇనుము వేడిని బాగా ప్రసరింపజేస్తుంది కాబట్టి దాన్ని తావాలు తయారు చేయడానికి ఉపయోగిస్తారు."
+  },
+  {
+    "id": 143,
+    "en": "Steel is an alloy that combines iron with carbon.",
+    "te": "ఉక్కు అనేది ఇనుమును కార్బన్‌తో కలుపు చేసిన మిశ్రమం."
+  },
+  {
+    "id": 144,
+    "en": "Stainless steel is used in kitchenware because it resists rust.",
+    "te": "స్టెయిన్‌లెస్ స్టీల్ తుప్పును నిరోధిస్తుంది కాబట్టి వంటగది సామగ్రిలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 145,
+    "en": "Glass is a poor conductor of heat.",
+    "te": "గాజు వేడికి చెడు వాహకం."
+  },
+  {
+    "id": 146,
+    "en": "Air is one of the poorest conductors of heat.",
+    "te": "గాలి వేడికి అత్యంత చెడు వాహకాలలో ఒకటి."
+  },
+  {
+    "id": 147,
+    "en": "Wool traps air between its fibers, making it a good insulator.",
+    "te": "గొంగళి తన తంతువుల మధ్య గాలిని పట్టుకుంటుంది, దీనివల్ల అది మంచి అవాహకం అవుతుంది."
+  },
+  {
+    "id": 148,
+    "en": "Cotton clothes are suitable for summer because they allow air circulation.",
+    "te": "కాటన్ బట్టలు వేసవికి అనువుగా ఉంటాయి ఎందుకంటే అవి గాలి ప్రసరణను అనుమతిస్తాయి."
+  },
+  {
+    "id": 149,
+    "en": "Synthetic fabrics may not breathe as well as natural fibers.",
+    "te": "సింథటిక్ బట్టలు సహజ తంతువుల వలె ఊపిరి పోయనివి కావచ్చు."
+  },
+  {
+    "id": 150,
+    "en": "Double-walled containers reduce heat transfer through the air gap.",
+    "te": "రెండు గోడల కంటైనర్లు గాలి అంతరం ద్వారా వేడి బదిలీని తగ్గిస్తాయి."
+  },
+  {
+    "id": 151,
+    "en": "A vacuum flask keeps liquids hot or cold for many hours.",
+    "te": "వాక్యూమ్ ఫ్లాస్క్ ద్రవాలను చాలా గంటలు వేడిగా లేదా చల్లగా ఉంచుతుంది."
+  },
+  {
+    "id": 152,
+    "en": "The shiny inner surface of a flask reflects radiation back.",
+    "te": "ఫ్లాస్క్ యొక్క మెరుస్తున్న లోపలి ఉపరితలం వికిరణాన్ని తిరిగి ప్రతిబింబిస్తుంది."
+  },
+  {
+    "id": 153,
+    "en": "Handles of cooking pots are made of plastic or wood to prevent burns.",
+    "te": "వంట పాత్రల హ్యాండిళ్ళు కాలిపోకుండా నిరోధించడానికి ప్లాస్టిక్ లేదా చెక్కతో తయారు చేస్తారు."
+  },
+  {
+    "id": 154,
+    "en": "When cooking, always use pot holders to avoid burns.",
+    "te": "వంట చేసేటప్పుడు కాలిపోకుండా ఎల్లప్పుడూ పాట్ హోల్డర్లను ఉపయోగించండి."
+  },
+  {
+    "id": 155,
+    "en": "Hot oil can cause severe burns, so handle it carefully.",
+    "te": "వేడి నూనె తీవ్రమైన కాలుపులు కలిగించగలదు, కాబట్టి దాన్ని జాగ్రత్తగా నిర్వహించండి."
+  },
+  {
+    "id": 156,
+    "en": "Fire requires fuel, oxygen, and heat to burn.",
+    "te": "అగ్ని మండాలంటే ఇంధనం, ఆక్సిజన్ మరియు వేడి అవసరం."
+  },
+  {
+    "id": 157,
+    "en": "Removing any one of these three stops the fire.",
+    "te": "ఈ మూడింటిలో ఏదైనా ఒకటి తీసివేస్తే అగ్ని ఆగిపోతుంది."
+  },
+  {
+    "id": 158,
+    "en": "Water cools the fire and removes heat.",
+    "te": "నీరు అగ్నిని చల్లబరుస్తుంది మరియు వేడిని తొలగిస్తుంది."
+  },
+  {
+    "id": 159,
+    "en": "A fire blanket cuts off oxygen supply to the flames.",
+    "te": "ఫైర్ బ్లాంకెట్ మంటలకు ఆక్సిజన్ సరఫరాను నిలిపివేస్తుంది."
+  },
+  {
+    "id": 160,
+    "en": "Carbon dioxide fire extinguishers work by displacing oxygen.",
+    "te": "కార్బన్ డయాక్సైడ్ ఫైర్ ఎక్స్‌టింగ్విషర్లు ఆక్సిజన్‌ను తొలగించడం ద్వారా పనిచేస్తాయి."
+  },
+  {
+    "id": 161,
+    "en": "Never use water on an electrical fire.",
+    "te": "విద్యుత్ అగ్నిపై ఎప్పుడూ నీటిని ఉపయోగించవద్దు."
+  },
+  {
+    "id": 162,
+    "en": "Oil fires should be smothered, not doused with water.",
+    "te": "నూనె మంటలు అణచివేయాలి, నీటితో ఆర్పకూడదు."
+  },
+  {
+    "id": 163,
+    "en": "A smoke detector warns you when there is smoke in the house.",
+    "te": "ఇంట్లో పొగ ఉన్నప్పుడు స్మోక్ డిటెక్టర్ మిమ్మల్ని హెచ్చరిస్తుంది."
+  },
+  {
+    "id": 164,
+    "en": "Every home should have a fire escape plan.",
+    "te": "ప్రతి ఇంట్లో ఫైర్ ఎస్కేప్ ప్లాన్ ఉండాలి."
+  },
+  {
+    "id": 165,
+    "en": "In case of fire, crawl low under smoke to breathe cleaner air.",
+    "te": "అగ్ని విషయంలో శుద్ధమైన గాలిని పీల్చడానికి పొగ కింద తక్కువగా క్రాల్ చేయండి."
+  },
+  {
+    "id": 166,
+    "en": "Heat makes substances expand.",
+    "te": "వేడి పదార్థాలను విస్తరింపజేస్తుంది."
+  },
+  {
+    "id": 167,
+    "en": "When a metal rod is heated, it becomes longer.",
+    "te": "లోహపు కడ్డీని వేడి చేసినప్పుడు అది పొడవుగా మారుతుంది."
+  },
+  {
+    "id": 168,
+    "en": "Railway tracks have gaps to allow for expansion in summer.",
+    "te": "రైల్వే ట్రాక్‌లలో వేసవిలో విస్తరణకు అనుమతి ఇవ్వడానికి గ్యాప్‌లు ఉంటాయి."
+  },
+  {
+    "id": 169,
+    "en": "Bridges have expansion joints to accommodate temperature changes.",
+    "te": "వంతెనలు ఉష్ణోగ్రత మార్పులను సరిచేయడానికి విస్తరణ జాయింట్లను కలిగి ఉంటాయి."
+  },
+  {
+    "id": 170,
+    "en": "A bimetallic strip bends when heated because the two metals expand differently.",
+    "te": "రెండు లోహాలు భిన్నంగా విస్తరిస్తాయి కాబట్టి బైమెటాలిక్ స్ట్రిప్ వేడి చేసినప్పుడు వంగుతుంది."
+  },
+  {
+    "id": 171,
+    "en": "Thermostats use bimetallic strips to control temperature.",
+    "te": "థర్మోస్టాట్‌లు ఉష్ణోగ్రతను నియంత్రించడానికి బైమెటాలిక్ స్ట్రిప్‌లను ఉపయోగిస్తాయి."
+  },
+  {
+    "id": 172,
+    "en": "Liquids expand more than solids when heated.",
+    "te": "వేడి చేసినప్పుడు ద్రవాలు ఘన పదార్థాల కంటే ఎక్కువ విస్తరిస్తాయి."
+  },
+  {
+    "id": 173,
+    "en": "Gases expand even more than liquids when heated.",
+    "te": "వేడి చేసినప్పుడు వాయువులు ద్రవాల కంటే మరింత విస్తరిస్తాయి."
+  },
+  {
+    "id": 174,
+    "en": "A hot air balloon rises because hot air is less dense than cool air.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున వేడి గాలి బుడగ పైకి లేస్తుంది."
+  },
+  {
+    "id": 175,
+    "en": "Density is the mass per unit volume of a substance.",
+    "te": "సాంద్రత అనేది పదార్థం యొక్క యూనిట్ వాల్యూమ్‌కు ద్రవ్యరాశి."
+  },
+  {
+    "id": 176,
+    "en": "When a substance expands, its density decreases.",
+    "te": "పదార్థం విస్తరించినప్పుడు దాని సాంద్రత తగ్గుతుంది."
+  },
+  {
+    "id": 177,
+    "en": "Water is unusual because it expands when it freezes.",
+    "te": "నీరు గడ్డకట్టినప్పుడు విస్తరిస్తుంది కాబట్టి అది అసాధారణమైనది."
+  },
+  {
+    "id": 178,
+    "en": "Ice floats on water because it is less dense.",
+    "te": "మంచు తక్కువ సాంద్రత కలిగి ఉన్నందున నీటిపై తేలుతుంది."
+  },
+  {
+    "id": 179,
+    "en": "This property of water helps aquatic life survive in winter.",
+    "te": "నీటి యొక్క ఈ లక్షణం చలికాలంలో జల జీవులు జీవించడానికి సహాయపడుతుంది."
+  },
+  {
+    "id": 180,
+    "en": "Pipes can burst in winter if water inside them freezes.",
+    "te": "వాటి లోపల నీరు గడ్డకట్టినట్లయితే చలికాలంలో పైపులు పగలవచ్చు."
+  },
+  {
+    "id": 181,
+    "en": "Sea breezes occur because land heats up faster than water.",
+    "te": "భూమి నీటి కంటే వేగంగా వేడెక్కుతుంది కాబట్టి సముద్ర గాలులు సంభవిస్తాయి."
+  },
+  {
+    "id": 182,
+    "en": "During the day, cool air from the sea moves towards the hot land.",
+    "te": "పగటిపూట సముద్రం నుండి చల్లని గాలి వేడి భూమి వైపుకు కదులుతుంది."
+  },
+  {
+    "id": 183,
+    "en": "At night, land cools faster, and air moves from land to sea.",
+    "te": "రాత్రి సమయంలో భూమి వేగంగా చల్లబడుతుంది మరియు గాలి భూమి నుండి సముద్రానికి కదులుతుంది."
+  },
+  {
+    "id": 184,
+    "en": "Land breezes are cooler than sea breezes.",
+    "te": "భూ గాలులు సముద్ర గాలుల కంటే చల్లగా ఉంటాయి."
+  },
+  {
+    "id": 185,
+    "en": "Wind is caused by differences in air pressure.",
+    "te": "గాలి పీడన వ్యత్యాసాల వల్ల గాలి ఏర్పడుతుంది."
+  },
+  {
+    "id": 186,
+    "en": "Air moves from high pressure areas to low pressure areas.",
+    "te": "గాలి అధిక పీడన ప్రాంతాల నుండి తక్కువ పీడన ప్రాంతాలకు కదులుతుంది."
+  },
+  {
+    "id": 187,
+    "en": "The Sun heats different parts of Earth unevenly.",
+    "te": "సూర్యుడు భూమి యొక్క వివిధ భాగాలను అసమానంగా వేడి చేస్తాడు."
+  },
+  {
+    "id": 188,
+    "en": "The equator receives more direct sunlight than the poles.",
+    "te": "భూమధ్య రేఖ ధ్రువాల కంటే ఎక్కువ ప్రత్యక్ష సూర్య కాంతిని పొందుతుంది."
+  },
+  {
+    "id": 189,
+    "en": "This creates global wind patterns and weather systems.",
+    "te": "ఇది ప్రపంచ గాలి నమూనాలు మరియు వాతావరణ వ్యవస్థలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 190,
+    "en": "Greenhouse gases trap heat in Earth's atmosphere.",
+    "te": "గ్రీన్‌హౌస్ వాయువులు భూమి యొక్క వాతావరణంలో వేడిని బంధిస్తాయి."
+  },
+  {
+    "id": 191,
+    "en": "The greenhouse effect keeps Earth warm enough for life.",
+    "te": "గ్రీన్‌హౌస్ ప్రభావం భూమిని జీవితానికి తగినంత వేడిగా ఉంచుతుంది."
+  },
+  {
+    "id": 192,
+    "en": "Too many greenhouse gases cause global warming.",
+    "te": "చాలా ఎక్కువ గ్రీన్‌హౌస్ వాయువులు గ్లోబల్ వార్మింగ్‌కు కారణమవుతాయి."
+  },
+  {
+    "id": 193,
+    "en": "Carbon dioxide is a major greenhouse gas.",
+    "te": "కార్బన్ డయాక్సైడ్ ఒక ప్రధాన గ్రీన్‌హౌస్ వాయువు."
+  },
+  {
+    "id": 194,
+    "en": "Heat is a form of energy that flows from a hotter object to a cooler one.",
+    "te": "వేడి అనేది శక్తి యొక్క ఒక రూపం, ఇది వేడి వస్తువు నుండి చల్లగా ఉన్న వస్తువుకు ప్రవహిస్తుంది."
+  },
+  {
+    "id": 195,
+    "en": "There are three main methods of heat transfer: conduction, convection, and radiation.",
+    "te": "వేడి బదిలీకి మూడు ప్రధాన పద్ధతులు ఉన్నాయి: ప్రసరణ, ఉష్ణప్రసరణ, మరియు వికిరణం."
+  },
+  {
+    "id": 196,
+    "en": "Conduction is the transfer of heat through direct contact between objects.",
+    "te": "ప్రసరణ అంటే వస్తువుల మధ్య నేరుగా స్పర్శ ద్వారా వేడి బదిలీ."
+  },
+  {
+    "id": 197,
+    "en": "Metals are good conductors of heat because their atoms are closely packed.",
+    "te": "లోహాలు వేడికి మంచి వాహకాలు ఎందుకంటే వాటి పరమాణువులు దట్టంగా నిండి ఉంటాయి."
+  },
+  {
+    "id": 198,
+    "en": "Wood and plastic are insulators that prevent heat from flowing easily.",
+    "te": "చెక్క మరియు ప్లాస్టిక్ అవాహకాలు, ఇవి వేడిని సులభంగా ప్రవహించకుండా నిరోధిస్తాయి."
+  },
+  {
+    "id": 199,
+    "en": "Convection occurs when heat is transferred by the movement of fluids or gases.",
+    "te": "ద్రవాలు లేదా వాయువుల కదలిక ద్వారా వేడి బదిలీ అయినప్పుడు ఉష్ణప్రసరణ జరుగుతుంది."
+  },
+  {
+    "id": 200,
+    "en": "Hot air rises because it is less dense than cold air, creating convection currents.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున పైకి ఎగురుతుంది, ఉష్ణప్రసరణ ప్రవాహాలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 201,
+    "en": "Radiation is the transfer of heat through electromagnetic waves without needing a medium.",
+    "te": "వికిరణం అంటే విద్యుదయస్కాంత తరంగాల ద్వారా మాధ్యమం అవసరం లేకుండా వేడి బదిలీ."
+  },
+  {
+    "id": 202,
+    "en": "The Sun heats the Earth through radiation across the vacuum of space.",
+    "te": "అంతరిక్ష శూన్యతలో వికిరణం ద్వారా సూర్యుడు భూమిని వేడి చేస్తాడు."
+  },
+  {
+    "id": 203,
+    "en": "Dark surfaces have higher emissivity and absorb more heat than light surfaces.",
+    "te": "ముదురు రంగు ఉపరితలాలు ఎక్కువ ఉద్గార సామర్థ్యం కలిగి ఉండి, తెలుపు ఉపరితలాల కంటే ఎక్కువ వేడిని గ్రహిస్తాయి."
+  },
+  {
+    "id": 204,
+    "en": "Thermal equilibrium is reached when two objects in contact have the same temperature.",
+    "te": "సంపర్కంలో ఉన్న రెండు వస్తువులు ఒకే ఉష్ణోగ్రత కలిగి ఉన్నప్పుడు ఉష్ణ సమతౌల్య స్థితి చేరుకుంటుంది."
+  },
+  {
+    "id": 205,
+    "en": "Specific heat is the amount of energy needed to raise the temperature of one kilogram of a substance by one degree Celsius.",
+    "te": "విశిష్ట వేడి అంటే ఒక కిలోగ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తి మొత్తం."
+  },
+  {
+    "id": 206,
+    "en": "Water has a high specific heat, which is why it takes longer to heat up and cool down.",
+    "te": "నీరు ఎక్కువ విశిష్ట వేడిని కలిగి ఉంటుంది, అందుకే వేడి చేయడానికి మరియు చల్లబరచడానికి ఎక్కువ సమయం పడుతుంది."
+  },
+  {
+    "id": 207,
+    "en": "Thermal conductivity measures how well a material can conduct heat.",
+    "te": "ఉష్ణ వాహకత అనేది ఒక పదార్థం వేడిని ఎంత బాగా ప్రసరింపజేయగలదో కొలుస్తుంది."
+  },
+  {
+    "id": 208,
+    "en": "Copper has high thermal conductivity, making it useful for cooking pots.",
+    "te": "రాగి అధిక ఉష్ణ వాహకతను కలిగి ఉంటుంది, ఇది వంట పాత్రలకు ఉపయోగకరంగా ఉంటుంది."
+  },
+  {
+    "id": 209,
+    "en": "A thermos flask uses a vacuum to prevent heat transfer by conduction and convection.",
+    "te": "థర్మస్ ఫ్లాస్క్ ప్రసరణ మరియు ఉష్ణప్రసరణ ద్వారా వేడి బదిలీని నిరోధించడానికి శూన్యతను ఉపయోగిస్తుంది."
+  },
+  {
+    "id": 210,
+    "en": "Absorption is the process by which a material takes in energy from radiation.",
+    "te": "శోషణ అనేది ఒక పదార్థం వికిరణం నుండి శక్తిని తీసుకునే ప్రక్రియ."
+  },
+  {
+    "id": 211,
+    "en": "Light-colored clothing reflects more radiation and keeps you cooler in summer.",
+    "te": "లేత రంగు దుస్తులు ఎక్కువ వికిరణాన్ని ప్రతిబింబిస్తాయి మరియు వేసవిలో మిమ్మల్ని చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 212,
+    "en": "When you place a metal spoon in hot tea, it becomes warm.",
+    "te": "వేడి టీలో లోహపు చెంచాను పెట్టినప్పుడు అది వేడెక్కుతుంది."
+  },
+  {
+    "id": 213,
+    "en": "Heat always travels from a hotter object to a colder one.",
+    "te": "వేడి ఎప్పుడూ వేడిగా ఉన్న వస్తువునుండి చల్లని వస్తువుకు వెళ్తుంది."
+  },
+  {
+    "id": 214,
+    "en": "Temperature is a measure of how hot or cold something is.",
+    "te": "ఉష్ణోగ్రత అంటే ఏదైనా ఎంత వేడిగా లేదా చల్లగా ఉందో కొలిచే కొలమానము."
+  },
+  {
+    "id": 215,
+    "en": "A thermometer is used to measure temperature accurately.",
+    "te": "ఉష్ణోగ్రతను ఖచ్చితంగా కొలవడానికి థర్మామీటర్ ఉపయోగిస్తారు."
+  },
+  {
+    "id": 216,
+    "en": "The Celsius scale is commonly used in science and everyday life.",
+    "te": "సెల్సియస్ స్కేల్ సైన్స్ మరియు రోజువారీ జీవితంలో సాధారణంగా ఉపయోగిస్తారు."
+  },
+  {
+    "id": 217,
+    "en": "Water freezes at zero degrees Celsius.",
+    "te": "నీరు సున్న డిగ్రీల సెల్సియస్ వద్ద గడ్డకడుతుంది."
+  },
+  {
+    "id": 218,
+    "en": "Water boils at one hundred degrees Celsius at sea level.",
+    "te": "సముద్ర మట్టంలో నీరు వంద డిగ్రీల సెల్సియస్ వద్ద మరుగుతుంది."
+  },
+  {
+    "id": 219,
+    "en": "When water boils, it changes from liquid to gas.",
+    "te": "నీరు మరిగినప్పుడు అది ద్రవం నుండి వాయువుగా మారుతుంది."
+  },
+  {
+    "id": 220,
+    "en": "Steam is the gaseous form of water.",
+    "te": "ఆవిరి అనేది నీటి యొక్క వాయు రూపం."
+  },
+  {
+    "id": 221,
+    "en": "Ice is the solid form of water.",
+    "te": "మంచు అనేది నీటి ఘన రూపం."
+  },
+  {
+    "id": 222,
+    "en": "When ice melts, it absorbs heat from the surroundings.",
+    "te": "మంచు కరిగినప్పుడు అది పరిసరాల నుండి వేడిని గ్రహిస్తుంది."
+  },
+  {
+    "id": 223,
+    "en": "Evaporation is the process of liquid changing into vapor.",
+    "te": "బాష్పీభవనం అంటే ద్రవం ఆవిరిగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 224,
+    "en": "Condensation is the process of vapor changing into liquid.",
+    "te": "సంగ్రహణ అంటే ఆవిరి ద్రవంగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 225,
+    "en": "Morning dew forms through condensation of water vapor.",
+    "te": "ఉదయం మంచు నీటి ఆవిరి సంగ్రహణ ద్వారా ఏర్పడుతుంది."
+  },
+  {
+    "id": 226,
+    "en": "Fog is tiny water droplets suspended in air.",
+    "te": "పొగమంచు అనేది గాలిలో నిలిచి ఉన్న చిన్న నీటి బిందువులు."
+  },
+  {
+    "id": 227,
+    "en": "Clouds form when water vapor condenses around dust particles.",
+    "te": "నీటి ఆవిరి ధూళి కణాల చుట్టూ సంగ్రహించినప్పుడు మేఘాలు ఏర్పడతాయి."
+  },
+  {
+    "id": 228,
+    "en": "Rain occurs when water droplets in clouds become heavy and fall.",
+    "te": "మేఘాల్లోని నీటి బిందువులు బరువుగా మారి పడినప్పుడు వర్షం కురుస్తుంది."
+  },
+  {
+    "id": 229,
+    "en": "The water cycle involves evaporation, condensation, and precipitation.",
+    "te": "నీటి చక్రంలో బాష్పీభవనం, సంగ్రహణ మరియు వర్షపాతం ఉంటాయి."
+  },
+  {
+    "id": 230,
+    "en": "Heat energy from the Sun drives the water cycle.",
+    "te": "సూర్యుడి నుండి వచ్చే ఉష్ణ శక్తి నీటి చక్రాన్ని నడిపిస్తుంది."
+  },
+  {
+    "id": 231,
+    "en": "A good conductor allows heat to pass through it easily.",
+    "te": "మంచి వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేస్తుంది."
+  },
+  {
+    "id": 232,
+    "en": "A poor conductor does not allow heat to pass through easily.",
+    "te": "చెడు వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేయదు."
+  },
+  {
+    "id": 233,
+    "en": "Silver is the best conductor of heat among all metals.",
+    "te": "వెండి అన్ని లోహాలలో వేడికి అత్యుత్తమ వాహకం."
+  },
+  {
+    "id": 234,
+    "en": "Aluminum is a good conductor and is used in cooking utensils.",
+    "te": "అల్యూమినియం మంచి వాహకం మరియు వంట పాత్రలలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 235,
+    "en": "Iron is used to make frying pans because it conducts heat well.",
+    "te": "ఇనుము వేడిని బాగా ప్రసరింపజేస్తుంది కాబట్టి దాన్ని తావాలు తయారు చేయడానికి ఉపయోగిస్తారు."
+  },
+  {
+    "id": 236,
+    "en": "Steel is an alloy that combines iron with carbon.",
+    "te": "ఉక్కు అనేది ఇనుమును కార్బన్‌తో కలుపు చేసిన మిశ్రమం."
+  },
+  {
+    "id": 237,
+    "en": "Stainless steel is used in kitchenware because it resists rust.",
+    "te": "స్టెయిన్‌లెస్ స్టీల్ తుప్పును నిరోధిస్తుంది కాబట్టి వంటగది సామగ్రిలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 238,
+    "en": "Glass is a poor conductor of heat.",
+    "te": "గాజు వేడికి చెడు వాహకం."
+  },
+  {
+    "id": 239,
+    "en": "Air is one of the poorest conductors of heat.",
+    "te": "గాలి వేడికి అత్యంత చెడు వాహకాలలో ఒకటి."
+  },
+  {
+    "id": 240,
+    "en": "Wool traps air between its fibers, making it a good insulator.",
+    "te": "గొంగళి తన తంతువుల మధ్య గాలిని పట్టుకుంటుంది, దీనివల్ల అది మంచి అవాహకం అవుతుంది."
+  },
+  {
+    "id": 241,
+    "en": "Cotton clothes are suitable for summer because they allow air circulation.",
+    "te": "కాటన్ బట్టలు వేసవికి అనువుగా ఉంటాయి ఎందుకంటే అవి గాలి ప్రసరణను అనుమతిస్తాయి."
+  },
+  {
+    "id": 242,
+    "en": "Synthetic fabrics may not breathe as well as natural fibers.",
+    "te": "సింథటిక్ బట్టలు సహజ తంతువుల వలె ఊపిరి పోయనివి కావచ్చు."
+  },
+  {
+    "id": 243,
+    "en": "Double-walled containers reduce heat transfer through the air gap.",
+    "te": "రెండు గోడల కంటైనర్లు గాలి అంతరం ద్వారా వేడి బదిలీని తగ్గిస్తాయి."
+  },
+  {
+    "id": 244,
+    "en": "A vacuum flask keeps liquids hot or cold for many hours.",
+    "te": "వాక్యూమ్ ఫ్లాస్క్ ద్రవాలను చాలా గంటలు వేడిగా లేదా చల్లగా ఉంచుతుంది."
+  },
+  {
+    "id": 245,
+    "en": "The shiny inner surface of a flask reflects radiation back.",
+    "te": "ఫ్లాస్క్ యొక్క మెరుస్తున్న లోపలి ఉపరితలం వికిరణాన్ని తిరిగి ప్రతిబింబిస్తుంది."
+  },
+  {
+    "id": 246,
+    "en": "Handles of cooking pots are made of plastic or wood to prevent burns.",
+    "te": "వంట పాత్రల హ్యాండిళ్ళు కాలిపోకుండా నిరోధించడానికి ప్లాస్టిక్ లేదా చెక్కతో తయారు చేస్తారు."
+  },
+  {
+    "id": 247,
+    "en": "When cooking, always use pot holders to avoid burns.",
+    "te": "వంట చేసేటప్పుడు కాలిపోకుండా ఎల్లప్పుడూ పాట్ హోల్డర్లను ఉపయోగించండి."
+  },
+  {
+    "id": 248,
+    "en": "Hot oil can cause severe burns, so handle it carefully.",
+    "te": "వేడి నూనె తీవ్రమైన కాలుపులు కలిగించగలదు, కాబట్టి దాన్ని జాగ్రత్తగా నిర్వహించండి."
+  },
+  {
+    "id": 249,
+    "en": "Fire requires fuel, oxygen, and heat to burn.",
+    "te": "అగ్ని మండాలంటే ఇంధనం, ఆక్సిజన్ మరియు వేడి అవసరం."
+  },
+  {
+    "id": 250,
+    "en": "Removing any one of these three stops the fire.",
+    "te": "ఈ మూడింటిలో ఏదైనా ఒకటి తీసివేస్తే అగ్ని ఆగిపోతుంది."
+  },
+  {
+    "id": 251,
+    "en": "Water cools the fire and removes heat.",
+    "te": "నీరు అగ్నిని చల్లబరుస్తుంది మరియు వేడిని తొలగిస్తుంది."
+  },
+  {
+    "id": 252,
+    "en": "A fire blanket cuts off oxygen supply to the flames.",
+    "te": "ఫైర్ బ్లాంకెట్ మంటలకు ఆక్సిజన్ సరఫరాను నిలిపివేస్తుంది."
+  },
+  {
+    "id": 253,
+    "en": "Carbon dioxide fire extinguishers work by displacing oxygen.",
+    "te": "కార్బన్ డయాక్సైడ్ ఫైర్ ఎక్స్‌టింగ్విషర్లు ఆక్సిజన్‌ను తొలగించడం ద్వారా పనిచేస్తాయి."
+  },
+  {
+    "id": 254,
+    "en": "Never use water on an electrical fire.",
+    "te": "విద్యుత్ అగ్నిపై ఎప్పుడూ నీటిని ఉపయోగించవద్దు."
+  },
+  {
+    "id": 255,
+    "en": "Oil fires should be smothered, not doused with water.",
+    "te": "నూనె మంటలు అణచివేయాలి, నీటితో ఆర్పకూడదు."
+  },
+  {
+    "id": 256,
+    "en": "A smoke detector warns you when there is smoke in the house.",
+    "te": "ఇంట్లో పొగ ఉన్నప్పుడు స్మోక్ డిటెక్టర్ మిమ్మల్ని హెచ్చరిస్తుంది."
+  },
+  {
+    "id": 257,
+    "en": "Every home should have a fire escape plan.",
+    "te": "ప్రతి ఇంట్లో ఫైర్ ఎస్కేప్ ప్లాన్ ఉండాలి."
+  },
+  {
+    "id": 258,
+    "en": "In case of fire, crawl low under smoke to breathe cleaner air.",
+    "te": "అగ్ని విషయంలో శుద్ధమైన గాలిని పీల్చడానికి పొగ కింద తక్కువగా క్రాల్ చేయండి."
+  },
+  {
+    "id": 259,
+    "en": "Heat makes substances expand.",
+    "te": "వేడి పదార్థాలను విస్తరింపజేస్తుంది."
+  },
+  {
+    "id": 260,
+    "en": "When a metal rod is heated, it becomes longer.",
+    "te": "లోహపు కడ్డీని వేడి చేసినప్పుడు అది పొడవుగా మారుతుంది."
+  },
+  {
+    "id": 261,
+    "en": "Railway tracks have gaps to allow for expansion in summer.",
+    "te": "రైల్వే ట్రాక్‌లలో వేసవిలో విస్తరణకు అనుమతి ఇవ్వడానికి గ్యాప్‌లు ఉంటాయి."
+  },
+  {
+    "id": 262,
+    "en": "Bridges have expansion joints to accommodate temperature changes.",
+    "te": "వంతెనలు ఉష్ణోగ్రత మార్పులను సరిచేయడానికి విస్తరణ జాయింట్లను కలిగి ఉంటాయి."
+  },
+  {
+    "id": 263,
+    "en": "A bimetallic strip bends when heated because the two metals expand differently.",
+    "te": "రెండు లోహాలు భిన్నంగా విస్తరిస్తాయి కాబట్టి బైమెటాలిక్ స్ట్రిప్ వేడి చేసినప్పుడు వంగుతుంది."
+  },
+  {
+    "id": 264,
+    "en": "Thermostats use bimetallic strips to control temperature.",
+    "te": "థర్మోస్టాట్‌లు ఉష్ణోగ్రతను నియంత్రించడానికి బైమెటాలిక్ స్ట్రిప్‌లను ఉపయోగిస్తాయి."
+  },
+  {
+    "id": 265,
+    "en": "Liquids expand more than solids when heated.",
+    "te": "వేడి చేసినప్పుడు ద్రవాలు ఘన పదార్థాల కంటే ఎక్కువ విస్తరిస్తాయి."
+  },
+  {
+    "id": 266,
+    "en": "Gases expand even more than liquids when heated.",
+    "te": "వేడి చేసినప్పుడు వాయువులు ద్రవాల కంటే మరింత విస్తరిస్తాయి."
+  },
+  {
+    "id": 267,
+    "en": "A hot air balloon rises because hot air is less dense than cool air.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున వేడి గాలి బుడగ పైకి లేస్తుంది."
+  },
+  {
+    "id": 268,
+    "en": "Density is the mass per unit volume of a substance.",
+    "te": "సాంద్రత అనేది పదార్థం యొక్క యూనిట్ వాల్యూమ్‌కు ద్రవ్యరాశి."
+  },
+  {
+    "id": 269,
+    "en": "When a substance expands, its density decreases.",
+    "te": "పదార్థం విస్తరించినప్పుడు దాని సాంద్రత తగ్గుతుంది."
+  },
+  {
+    "id": 270,
+    "en": "Water is unusual because it expands when it freezes.",
+    "te": "నీరు గడ్డకట్టినప్పుడు విస్తరిస్తుంది కాబట్టి అది అసాధారణమైనది."
+  },
+  {
+    "id": 271,
+    "en": "Ice floats on water because it is less dense.",
+    "te": "మంచు తక్కువ సాంద్రత కలిగి ఉన్నందున నీటిపై తేలుతుంది."
+  },
+  {
+    "id": 272,
+    "en": "This property of water helps aquatic life survive in winter.",
+    "te": "నీటి యొక్క ఈ లక్షణం చలికాలంలో జల జీవులు జీవించడానికి సహాయపడుతుంది."
+  },
+  {
+    "id": 273,
+    "en": "Pipes can burst in winter if water inside them freezes.",
+    "te": "వాటి లోపల నీరు గడ్డకట్టినట్లయితే చలికాలంలో పైపులు పగలవచ్చు."
+  },
+  {
+    "id": 274,
+    "en": "Sea breezes occur because land heats up faster than water.",
+    "te": "భూమి నీటి కంటే వేగంగా వేడెక్కుతుంది కాబట్టి సముద్ర గాలులు సంభవిస్తాయి."
+  },
+  {
+    "id": 275,
+    "en": "During the day, cool air from the sea moves towards the hot land.",
+    "te": "పగటిపూట సముద్రం నుండి చల్లని గాలి వేడి భూమి వైపుకు కదులుతుంది."
+  },
+  {
+    "id": 276,
+    "en": "At night, land cools faster, and air moves from land to sea.",
+    "te": "రాత్రి సమయంలో భూమి వేగంగా చల్లబడుతుంది మరియు గాలి భూమి నుండి సముద్రానికి కదులుతుంది."
+  },
+  {
+    "id": 277,
+    "en": "Land breezes are cooler than sea breezes.",
+    "te": "భూ గాలులు సముద్ర గాలుల కంటే చల్లగా ఉంటాయి."
+  },
+  {
+    "id": 278,
+    "en": "Wind is caused by differences in air pressure.",
+    "te": "గాలి పీడన వ్యత్యాసాల వల్ల గాలి ఏర్పడుతుంది."
+  },
+  {
+    "id": 279,
+    "en": "Air moves from high pressure areas to low pressure areas.",
+    "te": "గాలి అధిక పీడన ప్రాంతాల నుండి తక్కువ పీడన ప్రాంతాలకు కదులుతుంది."
+  },
+  {
+    "id": 280,
+    "en": "The Sun heats different parts of Earth unevenly.",
+    "te": "సూర్యుడు భూమి యొక్క వివిధ భాగాలను అసమానంగా వేడి చేస్తాడు."
+  },
+  {
+    "id": 281,
+    "en": "The equator receives more direct sunlight than the poles.",
+    "te": "భూమధ్య రేఖ ధ్రువాల కంటే ఎక్కువ ప్రత్యక్ష సూర్య కాంతిని పొందుతుంది."
+  },
+  {
+    "id": 282,
+    "en": "This creates global wind patterns and weather systems.",
+    "te": "ఇది ప్రపంచ గాలి నమూనాలు మరియు వాతావరణ వ్యవస్థలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 283,
+    "en": "Greenhouse gases trap heat in Earth's atmosphere.",
+    "te": "గ్రీన్‌హౌస్ వాయువులు భూమి యొక్క వాతావరణంలో వేడిని బంధిస్తాయి."
+  },
+  {
+    "id": 284,
+    "en": "The greenhouse effect keeps Earth warm enough for life.",
+    "te": "గ్రీన్‌హౌస్ ప్రభావం భూమిని జీవితానికి తగినంత వేడిగా ఉంచుతుంది."
+  },
+  {
+    "id": 285,
+    "en": "Too many greenhouse gases cause global warming.",
+    "te": "చాలా ఎక్కువ గ్రీన్‌హౌస్ వాయువులు గ్లోబల్ వార్మింగ్‌కు కారణమవుతాయి."
+  },
+  {
+    "id": 286,
+    "en": "Carbon dioxide is a major greenhouse gas.",
+    "te": "కార్బన్ డయాక్సైడ్ ఒక ప్రధాన గ్రీన్‌హౌస్ వాయువు."
+  },
+  {
+    "id": 287,
+    "en": "Heat is a form of energy that flows from a hotter object to a cooler one.",
+    "te": "వేడి అనేది శక్తి యొక్క ఒక రూపం, ఇది వేడి వస్తువు నుండి చల్లగా ఉన్న వస్తువుకు ప్రవహిస్తుంది."
+  },
+  {
+    "id": 288,
+    "en": "There are three main methods of heat transfer: conduction, convection, and radiation.",
+    "te": "వేడి బదిలీకి మూడు ప్రధాన పద్ధతులు ఉన్నాయి: ప్రసరణ, ఉష్ణప్రసరణ, మరియు వికిరణం."
+  },
+  {
+    "id": 289,
+    "en": "Conduction is the transfer of heat through direct contact between objects.",
+    "te": "ప్రసరణ అంటే వస్తువుల మధ్య నేరుగా స్పర్శ ద్వారా వేడి బదిలీ."
+  },
+  {
+    "id": 290,
+    "en": "Metals are good conductors of heat because their atoms are closely packed.",
+    "te": "లోహాలు వేడికి మంచి వాహకాలు ఎందుకంటే వాటి పరమాణువులు దట్టంగా నిండి ఉంటాయి."
+  },
+  {
+    "id": 291,
+    "en": "Wood and plastic are insulators that prevent heat from flowing easily.",
+    "te": "చెక్క మరియు ప్లాస్టిక్ అవాహకాలు, ఇవి వేడిని సులభంగా ప్రవహించకుండా నిరోధిస్తాయి."
+  },
+  {
+    "id": 292,
+    "en": "Convection occurs when heat is transferred by the movement of fluids or gases.",
+    "te": "ద్రవాలు లేదా వాయువుల కదలిక ద్వారా వేడి బదిలీ అయినప్పుడు ఉష్ణప్రసరణ జరుగుతుంది."
+  },
+  {
+    "id": 293,
+    "en": "Hot air rises because it is less dense than cold air, creating convection currents.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున పైకి ఎగురుతుంది, ఉష్ణప్రసరణ ప్రవాహాలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 294,
+    "en": "Radiation is the transfer of heat through electromagnetic waves without needing a medium.",
+    "te": "వికిరణం అంటే విద్యుదయస్కాంత తరంగాల ద్వారా మాధ్యమం అవసరం లేకుండా వేడి బదిలీ."
+  },
+  {
+    "id": 295,
+    "en": "The Sun heats the Earth through radiation across the vacuum of space.",
+    "te": "అంతరిక్ష శూన్యతలో వికిరణం ద్వారా సూర్యుడు భూమిని వేడి చేస్తాడు."
+  },
+  {
+    "id": 296,
+    "en": "Dark surfaces have higher emissivity and absorb more heat than light surfaces.",
+    "te": "ముదురు రంగు ఉపరితలాలు ఎక్కువ ఉద్గార సామర్థ్యం కలిగి ఉండి, తెలుపు ఉపరితలాల కంటే ఎక్కువ వేడిని గ్రహిస్తాయి."
+  },
+  {
+    "id": 297,
+    "en": "Thermal equilibrium is reached when two objects in contact have the same temperature.",
+    "te": "సంపర్కంలో ఉన్న రెండు వస్తువులు ఒకే ఉష్ణోగ్రత కలిగి ఉన్నప్పుడు ఉష్ణ సమతౌల్య స్థితి చేరుకుంటుంది."
+  },
+  {
+    "id": 298,
+    "en": "Specific heat is the amount of energy needed to raise the temperature of one kilogram of a substance by one degree Celsius.",
+    "te": "విశిష్ట వేడి అంటే ఒక కిలోగ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తి మొత్తం."
+  },
+  {
+    "id": 299,
+    "en": "Water has a high specific heat, which is why it takes longer to heat up and cool down.",
+    "te": "నీరు ఎక్కువ విశిష్ట వేడిని కలిగి ఉంటుంది, అందుకే వేడి చేయడానికి మరియు చల్లబరచడానికి ఎక్కువ సమయం పడుతుంది."
+  },
+  {
+    "id": 300,
+    "en": "Thermal conductivity measures how well a material can conduct heat.",
+    "te": "ఉష్ణ వాహకత అనేది ఒక పదార్థం వేడిని ఎంత బాగా ప్రసరింపజేయగలదో కొలుస్తుంది."
+  },
+  {
+    "id": 301,
+    "en": "Copper has high thermal conductivity, making it useful for cooking pots.",
+    "te": "రాగి అధిక ఉష్ణ వాహకతను కలిగి ఉంటుంది, ఇది వంట పాత్రలకు ఉపయోగకరంగా ఉంటుంది."
+  },
+  {
+    "id": 302,
+    "en": "A thermos flask uses a vacuum to prevent heat transfer by conduction and convection.",
+    "te": "థర్మస్ ఫ్లాస్క్ ప్రసరణ మరియు ఉష్ణప్రసరణ ద్వారా వేడి బదిలీని నిరోధించడానికి శూన్యతను ఉపయోగిస్తుంది."
+  },
+  {
+    "id": 303,
+    "en": "Absorption is the process by which a material takes in energy from radiation.",
+    "te": "శోషణ అనేది ఒక పదార్థం వికిరణం నుండి శక్తిని తీసుకునే ప్రక్రియ."
+  },
+  {
+    "id": 304,
+    "en": "Light-colored clothing reflects more radiation and keeps you cooler in summer.",
+    "te": "లేత రంగు దుస్తులు ఎక్కువ వికిరణాన్ని ప్రతిబింబిస్తాయి మరియు వేసవిలో మిమ్మల్ని చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 305,
+    "en": "When you place a metal spoon in hot tea, it becomes warm.",
+    "te": "వేడి టీలో లోహపు చెంచాను పెట్టినప్పుడు అది వేడెక్కుతుంది."
+  },
+  {
+    "id": 306,
+    "en": "Heat always travels from a hotter object to a colder one.",
+    "te": "వేడి ఎప్పుడూ వేడిగా ఉన్న వస్తువునుండి చల్లని వస్తువుకు వెళ్తుంది."
+  },
+  {
+    "id": 307,
+    "en": "Temperature is a measure of how hot or cold something is.",
+    "te": "ఉష్ణోగ్రత అంటే ఏదైనా ఎంత వేడిగా లేదా చల్లగా ఉందో కొలిచే కొలమానము."
+  },
+  {
+    "id": 308,
+    "en": "A thermometer is used to measure temperature accurately.",
+    "te": "ఉష్ణోగ్రతను ఖచ్చితంగా కొలవడానికి థర్మామీటర్ ఉపయోగిస్తారు."
+  },
+  {
+    "id": 309,
+    "en": "The Celsius scale is commonly used in science and everyday life.",
+    "te": "సెల్సియస్ స్కేల్ సైన్స్ మరియు రోజువారీ జీవితంలో సాధారణంగా ఉపయోగిస్తారు."
+  },
+  {
+    "id": 310,
+    "en": "Water freezes at zero degrees Celsius.",
+    "te": "నీరు సున్న డిగ్రీల సెల్సియస్ వద్ద గడ్డకడుతుంది."
+  },
+  {
+    "id": 311,
+    "en": "Water boils at one hundred degrees Celsius at sea level.",
+    "te": "సముద్ర మట్టంలో నీరు వంద డిగ్రీల సెల్సియస్ వద్ద మరుగుతుంది."
+  },
+  {
+    "id": 312,
+    "en": "When water boils, it changes from liquid to gas.",
+    "te": "నీరు మరిగినప్పుడు అది ద్రవం నుండి వాయువుగా మారుతుంది."
+  },
+  {
+    "id": 313,
+    "en": "Steam is the gaseous form of water.",
+    "te": "ఆవిరి అనేది నీటి యొక్క వాయు రూపం."
+  },
+  {
+    "id": 314,
+    "en": "Ice is the solid form of water.",
+    "te": "మంచు అనేది నీటి ఘన రూపం."
+  },
+  {
+    "id": 315,
+    "en": "When ice melts, it absorbs heat from the surroundings.",
+    "te": "మంచు కరిగినప్పుడు అది పరిసరాల నుండి వేడిని గ్రహిస్తుంది."
+  },
+  {
+    "id": 316,
+    "en": "Evaporation is the process of liquid changing into vapor.",
+    "te": "బాష్పీభవనం అంటే ద్రవం ఆవిరిగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 317,
+    "en": "Condensation is the process of vapor changing into liquid.",
+    "te": "సంగ్రహణ అంటే ఆవిరి ద్రవంగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 318,
+    "en": "Morning dew forms through condensation of water vapor.",
+    "te": "ఉదయం మంచు నీటి ఆవిరి సంగ్రహణ ద్వారా ఏర్పడుతుంది."
+  },
+  {
+    "id": 319,
+    "en": "Fog is tiny water droplets suspended in air.",
+    "te": "పొగమంచు అనేది గాలిలో నిలిచి ఉన్న చిన్న నీటి బిందువులు."
+  },
+  {
+    "id": 320,
+    "en": "Clouds form when water vapor condenses around dust particles.",
+    "te": "నీటి ఆవిరి ధూళి కణాల చుట్టూ సంగ్రహించినప్పుడు మేఘాలు ఏర్పడతాయి."
+  },
+  {
+    "id": 321,
+    "en": "Rain occurs when water droplets in clouds become heavy and fall.",
+    "te": "మేఘాల్లోని నీటి బిందువులు బరువుగా మారి పడినప్పుడు వర్షం కురుస్తుంది."
+  },
+  {
+    "id": 322,
+    "en": "The water cycle involves evaporation, condensation, and precipitation.",
+    "te": "నీటి చక్రంలో బాష్పీభవనం, సంగ్రహణ మరియు వర్షపాతం ఉంటాయి."
+  },
+  {
+    "id": 323,
+    "en": "Heat energy from the Sun drives the water cycle.",
+    "te": "సూర్యుడి నుండి వచ్చే ఉష్ణ శక్తి నీటి చక్రాన్ని నడిపిస్తుంది."
+  },
+  {
+    "id": 324,
+    "en": "A good conductor allows heat to pass through it easily.",
+    "te": "మంచి వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేస్తుంది."
+  },
+  {
+    "id": 325,
+    "en": "A poor conductor does not allow heat to pass through easily.",
+    "te": "చెడు వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేయదు."
+  },
+  {
+    "id": 326,
+    "en": "Silver is the best conductor of heat among all metals.",
+    "te": "వెండి అన్ని లోహాలలో వేడికి అత్యుత్తమ వాహకం."
+  },
+  {
+    "id": 327,
+    "en": "Aluminum is a good conductor and is used in cooking utensils.",
+    "te": "అల్యూమినియం మంచి వాహకం మరియు వంట పాత్రలలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 328,
+    "en": "Iron is used to make frying pans because it conducts heat well.",
+    "te": "ఇనుము వేడిని బాగా ప్రసరింపజేస్తుంది కాబట్టి దాన్ని తావాలు తయారు చేయడానికి ఉపయోగిస్తారు."
+  },
+  {
+    "id": 329,
+    "en": "Steel is an alloy that combines iron with carbon.",
+    "te": "ఉక్కు అనేది ఇనుమును కార్బన్‌తో కలుపు చేసిన మిశ్రమం."
+  },
+  {
+    "id": 330,
+    "en": "Stainless steel is used in kitchenware because it resists rust.",
+    "te": "స్టెయిన్‌లెస్ స్టీల్ తుప్పును నిరోధిస్తుంది కాబట్టి వంటగది సామగ్రిలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 331,
+    "en": "Glass is a poor conductor of heat.",
+    "te": "గాజు వేడికి చెడు వాహకం."
+  },
+  {
+    "id": 332,
+    "en": "Air is one of the poorest conductors of heat.",
+    "te": "గాలి వేడికి అత్యంత చెడు వాహకాలలో ఒకటి."
+  },
+  {
+    "id": 333,
+    "en": "Wool traps air between its fibers, making it a good insulator.",
+    "te": "గొంగళి తన తంతువుల మధ్య గాలిని పట్టుకుంటుంది, దీనివల్ల అది మంచి అవాహకం అవుతుంది."
+  },
+  {
+    "id": 334,
+    "en": "Cotton clothes are suitable for summer because they allow air circulation.",
+    "te": "కాటన్ బట్టలు వేసవికి అనువుగా ఉంటాయి ఎందుకంటే అవి గాలి ప్రసరణను అనుమతిస్తాయి."
+  },
+  {
+    "id": 335,
+    "en": "Synthetic fabrics may not breathe as well as natural fibers.",
+    "te": "సింథటిక్ బట్టలు సహజ తంతువుల వలె ఊపిరి పోయనివి కావచ్చు."
+  },
+  {
+    "id": 336,
+    "en": "Double-walled containers reduce heat transfer through the air gap.",
+    "te": "రెండు గోడల కంటైనర్లు గాలి అంతరం ద్వారా వేడి బదిలీని తగ్గిస్తాయి."
+  },
+  {
+    "id": 337,
+    "en": "A vacuum flask keeps liquids hot or cold for many hours.",
+    "te": "వాక్యూమ్ ఫ్లాస్క్ ద్రవాలను చాలా గంటలు వేడిగా లేదా చల్లగా ఉంచుతుంది."
+  },
+  {
+    "id": 338,
+    "en": "The shiny inner surface of a flask reflects radiation back.",
+    "te": "ఫ్లాస్క్ యొక్క మెరుస్తున్న లోపలి ఉపరితలం వికిరణాన్ని తిరిగి ప్రతిబింబిస్తుంది."
+  },
+  {
+    "id": 339,
+    "en": "Handles of cooking pots are made of plastic or wood to prevent burns.",
+    "te": "వంట పాత్రల హ్యాండిళ్ళు కాలిపోకుండా నిరోధించడానికి ప్లాస్టిక్ లేదా చెక్కతో తయారు చేస్తారు."
+  },
+  {
+    "id": 340,
+    "en": "When cooking, always use pot holders to avoid burns.",
+    "te": "వంట చేసేటప్పుడు కాలిపోకుండా ఎల్లప్పుడూ పాట్ హోల్డర్లను ఉపయోగించండి."
+  },
+  {
+    "id": 341,
+    "en": "Hot oil can cause severe burns, so handle it carefully.",
+    "te": "వేడి నూనె తీవ్రమైన కాలుపులు కలిగించగలదు, కాబట్టి దాన్ని జాగ్రత్తగా నిర్వహించండి."
+  },
+  {
+    "id": 342,
+    "en": "Fire requires fuel, oxygen, and heat to burn.",
+    "te": "అగ్ని మండాలంటే ఇంధనం, ఆక్సిజన్ మరియు వేడి అవసరం."
+  },
+  {
+    "id": 343,
+    "en": "Removing any one of these three stops the fire.",
+    "te": "ఈ మూడింటిలో ఏదైనా ఒకటి తీసివేస్తే అగ్ని ఆగిపోతుంది."
+  },
+  {
+    "id": 344,
+    "en": "Water cools the fire and removes heat.",
+    "te": "నీరు అగ్నిని చల్లబరుస్తుంది మరియు వేడిని తొలగిస్తుంది."
+  },
+  {
+    "id": 345,
+    "en": "A fire blanket cuts off oxygen supply to the flames.",
+    "te": "ఫైర్ బ్లాంకెట్ మంటలకు ఆక్సిజన్ సరఫరాను నిలిపివేస్తుంది."
+  },
+  {
+    "id": 346,
+    "en": "Carbon dioxide fire extinguishers work by displacing oxygen.",
+    "te": "కార్బన్ డయాక్సైడ్ ఫైర్ ఎక్స్‌టింగ్విషర్లు ఆక్సిజన్‌ను తొలగించడం ద్వారా పనిచేస్తాయి."
+  },
+  {
+    "id": 347,
+    "en": "Never use water on an electrical fire.",
+    "te": "విద్యుత్ అగ్నిపై ఎప్పుడూ నీటిని ఉపయోగించవద్దు."
+  },
+  {
+    "id": 348,
+    "en": "Oil fires should be smothered, not doused with water.",
+    "te": "నూనె మంటలు అణచివేయాలి, నీటితో ఆర్పకూడదు."
+  },
+  {
+    "id": 349,
+    "en": "A smoke detector warns you when there is smoke in the house.",
+    "te": "ఇంట్లో పొగ ఉన్నప్పుడు స్మోక్ డిటెక్టర్ మిమ్మల్ని హెచ్చరిస్తుంది."
+  },
+  {
+    "id": 350,
+    "en": "Every home should have a fire escape plan.",
+    "te": "ప్రతి ఇంట్లో ఫైర్ ఎస్కేప్ ప్లాన్ ఉండాలి."
+  },
+  {
+    "id": 351,
+    "en": "In case of fire, crawl low under smoke to breathe cleaner air.",
+    "te": "అగ్ని విషయంలో శుద్ధమైన గాలిని పీల్చడానికి పొగ కింద తక్కువగా క్రాల్ చేయండి."
+  },
+  {
+    "id": 352,
+    "en": "Heat makes substances expand.",
+    "te": "వేడి పదార్థాలను విస్తరింపజేస్తుంది."
+  },
+  {
+    "id": 353,
+    "en": "When a metal rod is heated, it becomes longer.",
+    "te": "లోహపు కడ్డీని వేడి చేసినప్పుడు అది పొడవుగా మారుతుంది."
+  },
+  {
+    "id": 354,
+    "en": "Railway tracks have gaps to allow for expansion in summer.",
+    "te": "రైల్వే ట్రాక్‌లలో వేసవిలో విస్తరణకు అనుమతి ఇవ్వడానికి గ్యాప్‌లు ఉంటాయి."
+  },
+  {
+    "id": 355,
+    "en": "Bridges have expansion joints to accommodate temperature changes.",
+    "te": "వంతెనలు ఉష్ణోగ్రత మార్పులను సరిచేయడానికి విస్తరణ జాయింట్లను కలిగి ఉంటాయి."
+  },
+  {
+    "id": 356,
+    "en": "A bimetallic strip bends when heated because the two metals expand differently.",
+    "te": "రెండు లోహాలు భిన్నంగా విస్తరిస్తాయి కాబట్టి బైమెటాలిక్ స్ట్రిప్ వేడి చేసినప్పుడు వంగుతుంది."
+  },
+  {
+    "id": 357,
+    "en": "Thermostats use bimetallic strips to control temperature.",
+    "te": "థర్మోస్టాట్‌లు ఉష్ణోగ్రతను నియంత్రించడానికి బైమెటాలిక్ స్ట్రిప్‌లను ఉపయోగిస్తాయి."
+  },
+  {
+    "id": 358,
+    "en": "Liquids expand more than solids when heated.",
+    "te": "వేడి చేసినప్పుడు ద్రవాలు ఘన పదార్థాల కంటే ఎక్కువ విస్తరిస్తాయి."
+  },
+  {
+    "id": 359,
+    "en": "Gases expand even more than liquids when heated.",
+    "te": "వేడి చేసినప్పుడు వాయువులు ద్రవాల కంటే మరింత విస్తరిస్తాయి."
+  },
+  {
+    "id": 360,
+    "en": "A hot air balloon rises because hot air is less dense than cool air.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున వేడి గాలి బుడగ పైకి లేస్తుంది."
+  },
+  {
+    "id": 361,
+    "en": "Density is the mass per unit volume of a substance.",
+    "te": "సాంద్రత అనేది పదార్థం యొక్క యూనిట్ వాల్యూమ్‌కు ద్రవ్యరాశి."
+  },
+  {
+    "id": 362,
+    "en": "When a substance expands, its density decreases.",
+    "te": "పదార్థం విస్తరించినప్పుడు దాని సాంద్రత తగ్గుతుంది."
+  },
+  {
+    "id": 363,
+    "en": "Water is unusual because it expands when it freezes.",
+    "te": "నీరు గడ్డకట్టినప్పుడు విస్తరిస్తుంది కాబట్టి అది అసాధారణమైనది."
+  },
+  {
+    "id": 364,
+    "en": "Ice floats on water because it is less dense.",
+    "te": "మంచు తక్కువ సాంద్రత కలిగి ఉన్నందున నీటిపై తేలుతుంది."
+  },
+  {
+    "id": 365,
+    "en": "This property of water helps aquatic life survive in winter.",
+    "te": "నీటి యొక్క ఈ లక్షణం చలికాలంలో జల జీవులు జీవించడానికి సహాయపడుతుంది."
+  },
+  {
+    "id": 366,
+    "en": "Pipes can burst in winter if water inside them freezes.",
+    "te": "వాటి లోపల నీరు గడ్డకట్టినట్లయితే చలికాలంలో పైపులు పగలవచ్చు."
+  },
+  {
+    "id": 367,
+    "en": "Sea breezes occur because land heats up faster than water.",
+    "te": "భూమి నీటి కంటే వేగంగా వేడెక్కుతుంది కాబట్టి సముద్ర గాలులు సంభవిస్తాయి."
+  },
+  {
+    "id": 368,
+    "en": "During the day, cool air from the sea moves towards the hot land.",
+    "te": "పగటిపూట సముద్రం నుండి చల్లని గాలి వేడి భూమి వైపుకు కదులుతుంది."
+  },
+  {
+    "id": 369,
+    "en": "At night, land cools faster, and air moves from land to sea.",
+    "te": "రాత్రి సమయంలో భూమి వేగంగా చల్లబడుతుంది మరియు గాలి భూమి నుండి సముద్రానికి కదులుతుంది."
+  },
+  {
+    "id": 370,
+    "en": "Land breezes are cooler than sea breezes.",
+    "te": "భూ గాలులు సముద్ర గాలుల కంటే చల్లగా ఉంటాయి."
+  },
+  {
+    "id": 371,
+    "en": "Wind is caused by differences in air pressure.",
+    "te": "గాలి పీడన వ్యత్యాసాల వల్ల గాలి ఏర్పడుతుంది."
+  },
+  {
+    "id": 372,
+    "en": "Air moves from high pressure areas to low pressure areas.",
+    "te": "గాలి అధిక పీడన ప్రాంతాల నుండి తక్కువ పీడన ప్రాంతాలకు కదులుతుంది."
+  },
+  {
+    "id": 373,
+    "en": "The Sun heats different parts of Earth unevenly.",
+    "te": "సూర్యుడు భూమి యొక్క వివిధ భాగాలను అసమానంగా వేడి చేస్తాడు."
+  },
+  {
+    "id": 374,
+    "en": "The equator receives more direct sunlight than the poles.",
+    "te": "భూమధ్య రేఖ ధ్రువాల కంటే ఎక్కువ ప్రత్యక్ష సూర్య కాంతిని పొందుతుంది."
+  },
+  {
+    "id": 375,
+    "en": "This creates global wind patterns and weather systems.",
+    "te": "ఇది ప్రపంచ గాలి నమూనాలు మరియు వాతావరణ వ్యవస్థలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 376,
+    "en": "Greenhouse gases trap heat in Earth's atmosphere.",
+    "te": "గ్రీన్‌హౌస్ వాయువులు భూమి యొక్క వాతావరణంలో వేడిని బంధిస్తాయి."
+  },
+  {
+    "id": 377,
+    "en": "The greenhouse effect keeps Earth warm enough for life.",
+    "te": "గ్రీన్‌హౌస్ ప్రభావం భూమిని జీవితానికి తగినంత వేడిగా ఉంచుతుంది."
+  },
+  {
+    "id": 378,
+    "en": "Too many greenhouse gases cause global warming.",
+    "te": "చాలా ఎక్కువ గ్రీన్‌హౌస్ వాయువులు గ్లోబల్ వార్మింగ్‌కు కారణమవుతాయి."
+  },
+  {
+    "id": 379,
+    "en": "Carbon dioxide is a major greenhouse gas.",
+    "te": "కార్బన్ డయాక్సైడ్ ఒక ప్రధాన గ్రీన్‌హౌస్ వాయువు."
+  },
+  {
+    "id": 380,
+    "en": "Heat is a form of energy that flows from a hotter object to a cooler one.",
+    "te": "వేడి అనేది శక్తి యొక్క ఒక రూపం, ఇది వేడి వస్తువు నుండి చల్లగా ఉన్న వస్తువుకు ప్రవహిస్తుంది."
+  },
+  {
+    "id": 381,
+    "en": "There are three main methods of heat transfer: conduction, convection, and radiation.",
+    "te": "వేడి బదిలీకి మూడు ప్రధాన పద్ధతులు ఉన్నాయి: ప్రసరణ, ఉష్ణప్రసరణ, మరియు వికిరణం."
+  },
+  {
+    "id": 382,
+    "en": "Conduction is the transfer of heat through direct contact between objects.",
+    "te": "ప్రసరణ అంటే వస్తువుల మధ్య నేరుగా స్పర్శ ద్వారా వేడి బదిలీ."
+  },
+  {
+    "id": 383,
+    "en": "Metals are good conductors of heat because their atoms are closely packed.",
+    "te": "లోహాలు వేడికి మంచి వాహకాలు ఎందుకంటే వాటి పరమాణువులు దట్టంగా నిండి ఉంటాయి."
+  },
+  {
+    "id": 384,
+    "en": "Wood and plastic are insulators that prevent heat from flowing easily.",
+    "te": "చెక్క మరియు ప్లాస్టిక్ అవాహకాలు, ఇవి వేడిని సులభంగా ప్రవహించకుండా నిరోధిస్తాయి."
+  },
+  {
+    "id": 385,
+    "en": "Convection occurs when heat is transferred by the movement of fluids or gases.",
+    "te": "ద్రవాలు లేదా వాయువుల కదలిక ద్వారా వేడి బదిలీ అయినప్పుడు ఉష్ణప్రసరణ జరుగుతుంది."
+  },
+  {
+    "id": 386,
+    "en": "Hot air rises because it is less dense than cold air, creating convection currents.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున పైకి ఎగురుతుంది, ఉష్ణప్రసరణ ప్రవాహాలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 387,
+    "en": "Radiation is the transfer of heat through electromagnetic waves without needing a medium.",
+    "te": "వికిరణం అంటే విద్యుదయస్కాంత తరంగాల ద్వారా మాధ్యమం అవసరం లేకుండా వేడి బదిలీ."
+  },
+  {
+    "id": 388,
+    "en": "The Sun heats the Earth through radiation across the vacuum of space.",
+    "te": "అంతరిక్ష శూన్యతలో వికిరణం ద్వారా సూర్యుడు భూమిని వేడి చేస్తాడు."
+  },
+  {
+    "id": 389,
+    "en": "Dark surfaces have higher emissivity and absorb more heat than light surfaces.",
+    "te": "ముదురు రంగు ఉపరితలాలు ఎక్కువ ఉద్గార సామర్థ్యం కలిగి ఉండి, తెలుపు ఉపరితలాల కంటే ఎక్కువ వేడిని గ్రహిస్తాయి."
+  },
+  {
+    "id": 390,
+    "en": "Thermal equilibrium is reached when two objects in contact have the same temperature.",
+    "te": "సంపర్కంలో ఉన్న రెండు వస్తువులు ఒకే ఉష్ణోగ్రత కలిగి ఉన్నప్పుడు ఉష్ణ సమతౌల్య స్థితి చేరుకుంటుంది."
+  },
+  {
+    "id": 391,
+    "en": "Specific heat is the amount of energy needed to raise the temperature of one kilogram of a substance by one degree Celsius.",
+    "te": "విశిష్ట వేడి అంటే ఒక కిలోగ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తి మొత్తం."
+  },
+  {
+    "id": 392,
+    "en": "Water has a high specific heat, which is why it takes longer to heat up and cool down.",
+    "te": "నీరు ఎక్కువ విశిష్ట వేడిని కలిగి ఉంటుంది, అందుకే వేడి చేయడానికి మరియు చల్లబరచడానికి ఎక్కువ సమయం పడుతుంది."
+  },
+  {
+    "id": 393,
+    "en": "Thermal conductivity measures how well a material can conduct heat.",
+    "te": "ఉష్ణ వాహకత అనేది ఒక పదార్థం వేడిని ఎంత బాగా ప్రసరింపజేయగలదో కొలుస్తుంది."
+  },
+  {
+    "id": 394,
+    "en": "Copper has high thermal conductivity, making it useful for cooking pots.",
+    "te": "రాగి అధిక ఉష్ణ వాహకతను కలిగి ఉంటుంది, ఇది వంట పాత్రలకు ఉపయోగకరంగా ఉంటుంది."
+  },
+  {
+    "id": 395,
+    "en": "A thermos flask uses a vacuum to prevent heat transfer by conduction and convection.",
+    "te": "థర్మస్ ఫ్లాస్క్ ప్రసరణ మరియు ఉష్ణప్రసరణ ద్వారా వేడి బదిలీని నిరోధించడానికి శూన్యతను ఉపయోగిస్తుంది."
+  },
+  {
+    "id": 396,
+    "en": "Absorption is the process by which a material takes in energy from radiation.",
+    "te": "శోషణ అనేది ఒక పదార్థం వికిరణం నుండి శక్తిని తీసుకునే ప్రక్రియ."
+  },
+  {
+    "id": 397,
+    "en": "Light-colored clothing reflects more radiation and keeps you cooler in summer.",
+    "te": "లేత రంగు దుస్తులు ఎక్కువ వికిరణాన్ని ప్రతిబింబిస్తాయి మరియు వేసవిలో మిమ్మల్ని చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 398,
+    "en": "When you place a metal spoon in hot tea, it becomes warm.",
+    "te": "వేడి టీలో లోహపు చెంచాను పెట్టినప్పుడు అది వేడెక్కుతుంది."
+  },
+  {
+    "id": 399,
+    "en": "Heat always travels from a hotter object to a colder one.",
+    "te": "వేడి ఎప్పుడూ వేడిగా ఉన్న వస్తువునుండి చల్లని వస్తువుకు వెళ్తుంది."
+  },
+  {
+    "id": 400,
+    "en": "Temperature is a measure of how hot or cold something is.",
+    "te": "ఉష్ణోగ్రత అంటే ఏదైనా ఎంత వేడిగా లేదా చల్లగా ఉందో కొలిచే కొలమానము."
+  },
+  {
+    "id": 401,
+    "en": "A thermometer is used to measure temperature accurately.",
+    "te": "ఉష్ణోగ్రతను ఖచ్చితంగా కొలవడానికి థర్మామీటర్ ఉపయోగిస్తారు."
+  },
+  {
+    "id": 402,
+    "en": "The Celsius scale is commonly used in science and everyday life.",
+    "te": "సెల్సియస్ స్కేల్ సైన్స్ మరియు రోజువారీ జీవితంలో సాధారణంగా ఉపయోగిస్తారు."
+  },
+  {
+    "id": 403,
+    "en": "Water freezes at zero degrees Celsius.",
+    "te": "నీరు సున్న డిగ్రీల సెల్సియస్ వద్ద గడ్డకడుతుంది."
+  },
+  {
+    "id": 404,
+    "en": "Water boils at one hundred degrees Celsius at sea level.",
+    "te": "సముద్ర మట్టంలో నీరు వంద డిగ్రీల సెల్సియస్ వద్ద మరుగుతుంది."
+  },
+  {
+    "id": 405,
+    "en": "When water boils, it changes from liquid to gas.",
+    "te": "నీరు మరిగినప్పుడు అది ద్రవం నుండి వాయువుగా మారుతుంది."
+  },
+  {
+    "id": 406,
+    "en": "Steam is the gaseous form of water.",
+    "te": "ఆవిరి అనేది నీటి యొక్క వాయు రూపం."
+  },
+  {
+    "id": 407,
+    "en": "Ice is the solid form of water.",
+    "te": "మంచు అనేది నీటి ఘన రూపం."
+  },
+  {
+    "id": 408,
+    "en": "When ice melts, it absorbs heat from the surroundings.",
+    "te": "మంచు కరిగినప్పుడు అది పరిసరాల నుండి వేడిని గ్రహిస్తుంది."
+  },
+  {
+    "id": 409,
+    "en": "Evaporation is the process of liquid changing into vapor.",
+    "te": "బాష్పీభవనం అంటే ద్రవం ఆవిరిగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 410,
+    "en": "Condensation is the process of vapor changing into liquid.",
+    "te": "సంగ్రహణ అంటే ఆవిరి ద్రవంగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 411,
+    "en": "Morning dew forms through condensation of water vapor.",
+    "te": "ఉదయం మంచు నీటి ఆవిరి సంగ్రహణ ద్వారా ఏర్పడుతుంది."
+  },
+  {
+    "id": 412,
+    "en": "Fog is tiny water droplets suspended in air.",
+    "te": "పొగమంచు అనేది గాలిలో నిలిచి ఉన్న చిన్న నీటి బిందువులు."
+  },
+  {
+    "id": 413,
+    "en": "Clouds form when water vapor condenses around dust particles.",
+    "te": "నీటి ఆవిరి ధూళి కణాల చుట్టూ సంగ్రహించినప్పుడు మేఘాలు ఏర్పడతాయి."
+  },
+  {
+    "id": 414,
+    "en": "Rain occurs when water droplets in clouds become heavy and fall.",
+    "te": "మేఘాల్లోని నీటి బిందువులు బరువుగా మారి పడినప్పుడు వర్షం కురుస్తుంది."
+  },
+  {
+    "id": 415,
+    "en": "The water cycle involves evaporation, condensation, and precipitation.",
+    "te": "నీటి చక్రంలో బాష్పీభవనం, సంగ్రహణ మరియు వర్షపాతం ఉంటాయి."
+  },
+  {
+    "id": 416,
+    "en": "Heat energy from the Sun drives the water cycle.",
+    "te": "సూర్యుడి నుండి వచ్చే ఉష్ణ శక్తి నీటి చక్రాన్ని నడిపిస్తుంది."
+  },
+  {
+    "id": 417,
+    "en": "A good conductor allows heat to pass through it easily.",
+    "te": "మంచి వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేస్తుంది."
+  },
+  {
+    "id": 418,
+    "en": "A poor conductor does not allow heat to pass through easily.",
+    "te": "చెడు వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేయదు."
+  },
+  {
+    "id": 419,
+    "en": "Silver is the best conductor of heat among all metals.",
+    "te": "వెండి అన్ని లోహాలలో వేడికి అత్యుత్తమ వాహకం."
+  },
+  {
+    "id": 420,
+    "en": "Aluminum is a good conductor and is used in cooking utensils.",
+    "te": "అల్యూమినియం మంచి వాహకం మరియు వంట పాత్రలలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 421,
+    "en": "Iron is used to make frying pans because it conducts heat well.",
+    "te": "ఇనుము వేడిని బాగా ప్రసరింపజేస్తుంది కాబట్టి దాన్ని తావాలు తయారు చేయడానికి ఉపయోగిస్తారు."
+  },
+  {
+    "id": 422,
+    "en": "Steel is an alloy that combines iron with carbon.",
+    "te": "ఉక్కు అనేది ఇనుమును కార్బన్‌తో కలుపు చేసిన మిశ్రమం."
+  },
+  {
+    "id": 423,
+    "en": "Stainless steel is used in kitchenware because it resists rust.",
+    "te": "స్టెయిన్‌లెస్ స్టీల్ తుప్పును నిరోధిస్తుంది కాబట్టి వంటగది సామగ్రిలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 424,
+    "en": "Glass is a poor conductor of heat.",
+    "te": "గాజు వేడికి చెడు వాహకం."
+  },
+  {
+    "id": 425,
+    "en": "Air is one of the poorest conductors of heat.",
+    "te": "గాలి వేడికి అత్యంత చెడు వాహకాలలో ఒకటి."
+  },
+  {
+    "id": 426,
+    "en": "Wool traps air between its fibers, making it a good insulator.",
+    "te": "గొంగళి తన తంతువుల మధ్య గాలిని పట్టుకుంటుంది, దీనివల్ల అది మంచి అవాహకం అవుతుంది."
+  },
+  {
+    "id": 427,
+    "en": "Cotton clothes are suitable for summer because they allow air circulation.",
+    "te": "కాటన్ బట్టలు వేసవికి అనువుగా ఉంటాయి ఎందుకంటే అవి గాలి ప్రసరణను అనుమతిస్తాయి."
+  },
+  {
+    "id": 428,
+    "en": "Synthetic fabrics may not breathe as well as natural fibers.",
+    "te": "సింథటిక్ బట్టలు సహజ తంతువుల వలె ఊపిరి పోయనివి కావచ్చు."
+  },
+  {
+    "id": 429,
+    "en": "Double-walled containers reduce heat transfer through the air gap.",
+    "te": "రెండు గోడల కంటైనర్లు గాలి అంతరం ద్వారా వేడి బదిలీని తగ్గిస్తాయి."
+  },
+  {
+    "id": 430,
+    "en": "A vacuum flask keeps liquids hot or cold for many hours.",
+    "te": "వాక్యూమ్ ఫ్లాస్క్ ద్రవాలను చాలా గంటలు వేడిగా లేదా చల్లగా ఉంచుతుంది."
+  },
+  {
+    "id": 431,
+    "en": "The shiny inner surface of a flask reflects radiation back.",
+    "te": "ఫ్లాస్క్ యొక్క మెరుస్తున్న లోపలి ఉపరితలం వికిరణాన్ని తిరిగి ప్రతిబింబిస్తుంది."
+  },
+  {
+    "id": 432,
+    "en": "Handles of cooking pots are made of plastic or wood to prevent burns.",
+    "te": "వంట పాత్రల హ్యాండిళ్ళు కాలిపోకుండా నిరోధించడానికి ప్లాస్టిక్ లేదా చెక్కతో తయారు చేస్తారు."
+  },
+  {
+    "id": 433,
+    "en": "When cooking, always use pot holders to avoid burns.",
+    "te": "వంట చేసేటప్పుడు కాలిపోకుండా ఎల్లప్పుడూ పాట్ హోల్డర్లను ఉపయోగించండి."
+  },
+  {
+    "id": 434,
+    "en": "Hot oil can cause severe burns, so handle it carefully.",
+    "te": "వేడి నూనె తీవ్రమైన కాలుపులు కలిగించగలదు, కాబట్టి దాన్ని జాగ్రత్తగా నిర్వహించండి."
+  },
+  {
+    "id": 435,
+    "en": "Fire requires fuel, oxygen, and heat to burn.",
+    "te": "అగ్ని మండాలంటే ఇంధనం, ఆక్సిజన్ మరియు వేడి అవసరం."
+  },
+  {
+    "id": 436,
+    "en": "Removing any one of these three stops the fire.",
+    "te": "ఈ మూడింటిలో ఏదైనా ఒకటి తీసివేస్తే అగ్ని ఆగిపోతుంది."
+  },
+  {
+    "id": 437,
+    "en": "Water cools the fire and removes heat.",
+    "te": "నీరు అగ్నిని చల్లబరుస్తుంది మరియు వేడిని తొలగిస్తుంది."
+  },
+  {
+    "id": 438,
+    "en": "A fire blanket cuts off oxygen supply to the flames.",
+    "te": "ఫైర్ బ్లాంకెట్ మంటలకు ఆక్సిజన్ సరఫరాను నిలిపివేస్తుంది."
+  },
+  {
+    "id": 439,
+    "en": "Carbon dioxide fire extinguishers work by displacing oxygen.",
+    "te": "కార్బన్ డయాక్సైడ్ ఫైర్ ఎక్స్‌టింగ్విషర్లు ఆక్సిజన్‌ను తొలగించడం ద్వారా పనిచేస్తాయి."
+  },
+  {
+    "id": 440,
+    "en": "Never use water on an electrical fire.",
+    "te": "విద్యుత్ అగ్నిపై ఎప్పుడూ నీటిని ఉపయోగించవద్దు."
+  },
+  {
+    "id": 441,
+    "en": "Oil fires should be smothered, not doused with water.",
+    "te": "నూనె మంటలు అణచివేయాలి, నీటితో ఆర్పకూడదు."
+  },
+  {
+    "id": 442,
+    "en": "A smoke detector warns you when there is smoke in the house.",
+    "te": "ఇంట్లో పొగ ఉన్నప్పుడు స్మోక్ డిటెక్టర్ మిమ్మల్ని హెచ్చరిస్తుంది."
+  },
+  {
+    "id": 443,
+    "en": "Every home should have a fire escape plan.",
+    "te": "ప్రతి ఇంట్లో ఫైర్ ఎస్కేప్ ప్లాన్ ఉండాలి."
+  },
+  {
+    "id": 444,
+    "en": "In case of fire, crawl low under smoke to breathe cleaner air.",
+    "te": "అగ్ని విషయంలో శుద్ధమైన గాలిని పీల్చడానికి పొగ కింద తక్కువగా క్రాల్ చేయండి."
+  },
+  {
+    "id": 445,
+    "en": "Heat makes substances expand.",
+    "te": "వేడి పదార్థాలను విస్తరింపజేస్తుంది."
+  },
+  {
+    "id": 446,
+    "en": "When a metal rod is heated, it becomes longer.",
+    "te": "లోహపు కడ్డీని వేడి చేసినప్పుడు అది పొడవుగా మారుతుంది."
+  },
+  {
+    "id": 447,
+    "en": "Railway tracks have gaps to allow for expansion in summer.",
+    "te": "రైల్వే ట్రాక్‌లలో వేసవిలో విస్తరణకు అనుమతి ఇవ్వడానికి గ్యాప్‌లు ఉంటాయి."
+  },
+  {
+    "id": 448,
+    "en": "Bridges have expansion joints to accommodate temperature changes.",
+    "te": "వంతెనలు ఉష్ణోగ్రత మార్పులను సరిచేయడానికి విస్తరణ జాయింట్లను కలిగి ఉంటాయి."
+  },
+  {
+    "id": 449,
+    "en": "A bimetallic strip bends when heated because the two metals expand differently.",
+    "te": "రెండు లోహాలు భిన్నంగా విస్తరిస్తాయి కాబట్టి బైమెటాలిక్ స్ట్రిప్ వేడి చేసినప్పుడు వంగుతుంది."
+  },
+  {
+    "id": 450,
+    "en": "Thermostats use bimetallic strips to control temperature.",
+    "te": "థర్మోస్టాట్‌లు ఉష్ణోగ్రతను నియంత్రించడానికి బైమెటాలిక్ స్ట్రిప్‌లను ఉపయోగిస్తాయి."
+  },
+  {
+    "id": 451,
+    "en": "Liquids expand more than solids when heated.",
+    "te": "వేడి చేసినప్పుడు ద్రవాలు ఘన పదార్థాల కంటే ఎక్కువ విస్తరిస్తాయి."
+  },
+  {
+    "id": 452,
+    "en": "Gases expand even more than liquids when heated.",
+    "te": "వేడి చేసినప్పుడు వాయువులు ద్రవాల కంటే మరింత విస్తరిస్తాయి."
+  },
+  {
+    "id": 453,
+    "en": "A hot air balloon rises because hot air is less dense than cool air.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున వేడి గాలి బుడగ పైకి లేస్తుంది."
+  },
+  {
+    "id": 454,
+    "en": "Density is the mass per unit volume of a substance.",
+    "te": "సాంద్రత అనేది పదార్థం యొక్క యూనిట్ వాల్యూమ్‌కు ద్రవ్యరాశి."
+  },
+  {
+    "id": 455,
+    "en": "When a substance expands, its density decreases.",
+    "te": "పదార్థం విస్తరించినప్పుడు దాని సాంద్రత తగ్గుతుంది."
+  },
+  {
+    "id": 456,
+    "en": "Water is unusual because it expands when it freezes.",
+    "te": "నీరు గడ్డకట్టినప్పుడు విస్తరిస్తుంది కాబట్టి అది అసాధారణమైనది."
+  },
+  {
+    "id": 457,
+    "en": "Ice floats on water because it is less dense.",
+    "te": "మంచు తక్కువ సాంద్రత కలిగి ఉన్నందున నీటిపై తేలుతుంది."
+  },
+  {
+    "id": 458,
+    "en": "This property of water helps aquatic life survive in winter.",
+    "te": "నీటి యొక్క ఈ లక్షణం చలికాలంలో జల జీవులు జీవించడానికి సహాయపడుతుంది."
+  },
+  {
+    "id": 459,
+    "en": "Pipes can burst in winter if water inside them freezes.",
+    "te": "వాటి లోపల నీరు గడ్డకట్టినట్లయితే చలికాలంలో పైపులు పగలవచ్చు."
+  },
+  {
+    "id": 460,
+    "en": "Sea breezes occur because land heats up faster than water.",
+    "te": "భూమి నీటి కంటే వేగంగా వేడెక్కుతుంది కాబట్టి సముద్ర గాలులు సంభవిస్తాయి."
+  },
+  {
+    "id": 461,
+    "en": "During the day, cool air from the sea moves towards the hot land.",
+    "te": "పగటిపూట సముద్రం నుండి చల్లని గాలి వేడి భూమి వైపుకు కదులుతుంది."
+  },
+  {
+    "id": 462,
+    "en": "At night, land cools faster, and air moves from land to sea.",
+    "te": "రాత్రి సమయంలో భూమి వేగంగా చల్లబడుతుంది మరియు గాలి భూమి నుండి సముద్రానికి కదులుతుంది."
+  },
+  {
+    "id": 463,
+    "en": "Land breezes are cooler than sea breezes.",
+    "te": "భూ గాలులు సముద్ర గాలుల కంటే చల్లగా ఉంటాయి."
+  },
+  {
+    "id": 464,
+    "en": "Wind is caused by differences in air pressure.",
+    "te": "గాలి పీడన వ్యత్యాసాల వల్ల గాలి ఏర్పడుతుంది."
+  },
+  {
+    "id": 465,
+    "en": "Air moves from high pressure areas to low pressure areas.",
+    "te": "గాలి అధిక పీడన ప్రాంతాల నుండి తక్కువ పీడన ప్రాంతాలకు కదులుతుంది."
+  },
+  {
+    "id": 466,
+    "en": "The Sun heats different parts of Earth unevenly.",
+    "te": "సూర్యుడు భూమి యొక్క వివిధ భాగాలను అసమానంగా వేడి చేస్తాడు."
+  },
+  {
+    "id": 467,
+    "en": "The equator receives more direct sunlight than the poles.",
+    "te": "భూమధ్య రేఖ ధ్రువాల కంటే ఎక్కువ ప్రత్యక్ష సూర్య కాంతిని పొందుతుంది."
+  },
+  {
+    "id": 468,
+    "en": "This creates global wind patterns and weather systems.",
+    "te": "ఇది ప్రపంచ గాలి నమూనాలు మరియు వాతావరణ వ్యవస్థలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 469,
+    "en": "Greenhouse gases trap heat in Earth's atmosphere.",
+    "te": "గ్రీన్‌హౌస్ వాయువులు భూమి యొక్క వాతావరణంలో వేడిని బంధిస్తాయి."
+  },
+  {
+    "id": 470,
+    "en": "The greenhouse effect keeps Earth warm enough for life.",
+    "te": "గ్రీన్‌హౌస్ ప్రభావం భూమిని జీవితానికి తగినంత వేడిగా ఉంచుతుంది."
+  },
+  {
+    "id": 471,
+    "en": "Too many greenhouse gases cause global warming.",
+    "te": "చాలా ఎక్కువ గ్రీన్‌హౌస్ వాయువులు గ్లోబల్ వార్మింగ్‌కు కారణమవుతాయి."
+  },
+  {
+    "id": 472,
+    "en": "Carbon dioxide is a major greenhouse gas.",
+    "te": "కార్బన్ డయాక్సైడ్ ఒక ప్రధాన గ్రీన్‌హౌస్ వాయువు."
+  },
+  {
+    "id": 473,
+    "en": "Heat is a form of energy that flows from a hotter object to a cooler one.",
+    "te": "వేడి అనేది శక్తి యొక్క ఒక రూపం, ఇది వేడి వస్తువు నుండి చల్లగా ఉన్న వస్తువుకు ప్రవహిస్తుంది."
+  },
+  {
+    "id": 474,
+    "en": "There are three main methods of heat transfer: conduction, convection, and radiation.",
+    "te": "వేడి బదిలీకి మూడు ప్రధాన పద్ధతులు ఉన్నాయి: ప్రసరణ, ఉష్ణప్రసరణ, మరియు వికిరణం."
+  },
+  {
+    "id": 475,
+    "en": "Conduction is the transfer of heat through direct contact between objects.",
+    "te": "ప్రసరణ అంటే వస్తువుల మధ్య నేరుగా స్పర్శ ద్వారా వేడి బదిలీ."
+  },
+  {
+    "id": 476,
+    "en": "Metals are good conductors of heat because their atoms are closely packed.",
+    "te": "లోహాలు వేడికి మంచి వాహకాలు ఎందుకంటే వాటి పరమాణువులు దట్టంగా నిండి ఉంటాయి."
+  },
+  {
+    "id": 477,
+    "en": "Wood and plastic are insulators that prevent heat from flowing easily.",
+    "te": "చెక్క మరియు ప్లాస్టిక్ అవాహకాలు, ఇవి వేడిని సులభంగా ప్రవహించకుండా నిరోధిస్తాయి."
+  },
+  {
+    "id": 478,
+    "en": "Convection occurs when heat is transferred by the movement of fluids or gases.",
+    "te": "ద్రవాలు లేదా వాయువుల కదలిక ద్వారా వేడి బదిలీ అయినప్పుడు ఉష్ణప్రసరణ జరుగుతుంది."
+  },
+  {
+    "id": 479,
+    "en": "Hot air rises because it is less dense than cold air, creating convection currents.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున పైకి ఎగురుతుంది, ఉష్ణప్రసరణ ప్రవాహాలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 480,
+    "en": "Radiation is the transfer of heat through electromagnetic waves without needing a medium.",
+    "te": "వికిరణం అంటే విద్యుదయస్కాంత తరంగాల ద్వారా మాధ్యమం అవసరం లేకుండా వేడి బదిలీ."
+  },
+  {
+    "id": 481,
+    "en": "The Sun heats the Earth through radiation across the vacuum of space.",
+    "te": "అంతరిక్ష శూన్యతలో వికిరణం ద్వారా సూర్యుడు భూమిని వేడి చేస్తాడు."
+  },
+  {
+    "id": 482,
+    "en": "Dark surfaces have higher emissivity and absorb more heat than light surfaces.",
+    "te": "ముదురు రంగు ఉపరితలాలు ఎక్కువ ఉద్గార సామర్థ్యం కలిగి ఉండి, తెలుపు ఉపరితలాల కంటే ఎక్కువ వేడిని గ్రహిస్తాయి."
+  },
+  {
+    "id": 483,
+    "en": "Thermal equilibrium is reached when two objects in contact have the same temperature.",
+    "te": "సంపర్కంలో ఉన్న రెండు వస్తువులు ఒకే ఉష్ణోగ్రత కలిగి ఉన్నప్పుడు ఉష్ణ సమతౌల్య స్థితి చేరుకుంటుంది."
+  },
+  {
+    "id": 484,
+    "en": "Specific heat is the amount of energy needed to raise the temperature of one kilogram of a substance by one degree Celsius.",
+    "te": "విశిష్ట వేడి అంటే ఒక కిలోగ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తి మొత్తం."
+  },
+  {
+    "id": 485,
+    "en": "Water has a high specific heat, which is why it takes longer to heat up and cool down.",
+    "te": "నీరు ఎక్కువ విశిష్ట వేడిని కలిగి ఉంటుంది, అందుకే వేడి చేయడానికి మరియు చల్లబరచడానికి ఎక్కువ సమయం పడుతుంది."
+  },
+  {
+    "id": 486,
+    "en": "Thermal conductivity measures how well a material can conduct heat.",
+    "te": "ఉష్ణ వాహకత అనేది ఒక పదార్థం వేడిని ఎంత బాగా ప్రసరింపజేయగలదో కొలుస్తుంది."
+  },
+  {
+    "id": 487,
+    "en": "Copper has high thermal conductivity, making it useful for cooking pots.",
+    "te": "రాగి అధిక ఉష్ణ వాహకతను కలిగి ఉంటుంది, ఇది వంట పాత్రలకు ఉపయోగకరంగా ఉంటుంది."
+  },
+  {
+    "id": 488,
+    "en": "A thermos flask uses a vacuum to prevent heat transfer by conduction and convection.",
+    "te": "థర్మస్ ఫ్లాస్క్ ప్రసరణ మరియు ఉష్ణప్రసరణ ద్వారా వేడి బదిలీని నిరోధించడానికి శూన్యతను ఉపయోగిస్తుంది."
+  },
+  {
+    "id": 489,
+    "en": "Absorption is the process by which a material takes in energy from radiation.",
+    "te": "శోషణ అనేది ఒక పదార్థం వికిరణం నుండి శక్తిని తీసుకునే ప్రక్రియ."
+  },
+  {
+    "id": 490,
+    "en": "Light-colored clothing reflects more radiation and keeps you cooler in summer.",
+    "te": "లేత రంగు దుస్తులు ఎక్కువ వికిరణాన్ని ప్రతిబింబిస్తాయి మరియు వేసవిలో మిమ్మల్ని చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 491,
+    "en": "When you place a metal spoon in hot tea, it becomes warm.",
+    "te": "వేడి టీలో లోహపు చెంచాను పెట్టినప్పుడు అది వేడెక్కుతుంది."
+  },
+  {
+    "id": 492,
+    "en": "Heat always travels from a hotter object to a colder one.",
+    "te": "వేడి ఎప్పుడూ వేడిగా ఉన్న వస్తువునుండి చల్లని వస్తువుకు వెళ్తుంది."
+  },
+  {
+    "id": 493,
+    "en": "Temperature is a measure of how hot or cold something is.",
+    "te": "ఉష్ణోగ్రత అంటే ఏదైనా ఎంత వేడిగా లేదా చల్లగా ఉందో కొలిచే కొలమానము."
+  },
+  {
+    "id": 494,
+    "en": "A thermometer is used to measure temperature accurately.",
+    "te": "ఉష్ణోగ్రతను ఖచ్చితంగా కొలవడానికి థర్మామీటర్ ఉపయోగిస్తారు."
+  },
+  {
+    "id": 495,
+    "en": "The Celsius scale is commonly used in science and everyday life.",
+    "te": "సెల్సియస్ స్కేల్ సైన్స్ మరియు రోజువారీ జీవితంలో సాధారణంగా ఉపయోగిస్తారు."
+  },
+  {
+    "id": 496,
+    "en": "Water freezes at zero degrees Celsius.",
+    "te": "నీరు సున్న డిగ్రీల సెల్సియస్ వద్ద గడ్డకడుతుంది."
+  },
+  {
+    "id": 497,
+    "en": "Water boils at one hundred degrees Celsius at sea level.",
+    "te": "సముద్ర మట్టంలో నీరు వంద డిగ్రీల సెల్సియస్ వద్ద మరుగుతుంది."
+  },
+  {
+    "id": 498,
+    "en": "When water boils, it changes from liquid to gas.",
+    "te": "నీరు మరిగినప్పుడు అది ద్రవం నుండి వాయువుగా మారుతుంది."
+  },
+  {
+    "id": 499,
+    "en": "Steam is the gaseous form of water.",
+    "te": "ఆవిరి అనేది నీటి యొక్క వాయు రూపం."
+  },
+  {
+    "id": 500,
+    "en": "Ice is the solid form of water.",
+    "te": "మంచు అనేది నీటి ఘన రూపం."
+  },
+  {
+    "id": 501,
+    "en": "When ice melts, it absorbs heat from the surroundings.",
+    "te": "మంచు కరిగినప్పుడు అది పరిసరాల నుండి వేడిని గ్రహిస్తుంది."
+  },
+  {
+    "id": 502,
+    "en": "Evaporation is the process of liquid changing into vapor.",
+    "te": "బాష్పీభవనం అంటే ద్రవం ఆవిరిగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 503,
+    "en": "Condensation is the process of vapor changing into liquid.",
+    "te": "సంగ్రహణ అంటే ఆవిరి ద్రవంగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 504,
+    "en": "Morning dew forms through condensation of water vapor.",
+    "te": "ఉదయం మంచు నీటి ఆవిరి సంగ్రహణ ద్వారా ఏర్పడుతుంది."
+  },
+  {
+    "id": 505,
+    "en": "Fog is tiny water droplets suspended in air.",
+    "te": "పొగమంచు అనేది గాలిలో నిలిచి ఉన్న చిన్న నీటి బిందువులు."
+  },
+  {
+    "id": 506,
+    "en": "Clouds form when water vapor condenses around dust particles.",
+    "te": "నీటి ఆవిరి ధూళి కణాల చుట్టూ సంగ్రహించినప్పుడు మేఘాలు ఏర్పడతాయి."
+  },
+  {
+    "id": 507,
+    "en": "Rain occurs when water droplets in clouds become heavy and fall.",
+    "te": "మేఘాల్లోని నీటి బిందువులు బరువుగా మారి పడినప్పుడు వర్షం కురుస్తుంది."
+  },
+  {
+    "id": 508,
+    "en": "The water cycle involves evaporation, condensation, and precipitation.",
+    "te": "నీటి చక్రంలో బాష్పీభవనం, సంగ్రహణ మరియు వర్షపాతం ఉంటాయి."
+  },
+  {
+    "id": 509,
+    "en": "Heat energy from the Sun drives the water cycle.",
+    "te": "సూర్యుడి నుండి వచ్చే ఉష్ణ శక్తి నీటి చక్రాన్ని నడిపిస్తుంది."
+  },
+  {
+    "id": 510,
+    "en": "A good conductor allows heat to pass through it easily.",
+    "te": "మంచి వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేస్తుంది."
+  },
+  {
+    "id": 511,
+    "en": "A poor conductor does not allow heat to pass through easily.",
+    "te": "చెడు వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేయదు."
+  },
+  {
+    "id": 512,
+    "en": "Silver is the best conductor of heat among all metals.",
+    "te": "వెండి అన్ని లోహాలలో వేడికి అత్యుత్తమ వాహకం."
+  },
+  {
+    "id": 513,
+    "en": "Aluminum is a good conductor and is used in cooking utensils.",
+    "te": "అల్యూమినియం మంచి వాహకం మరియు వంట పాత్రలలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 514,
+    "en": "Iron is used to make frying pans because it conducts heat well.",
+    "te": "ఇనుము వేడిని బాగా ప్రసరింపజేస్తుంది కాబట్టి దాన్ని తావాలు తయారు చేయడానికి ఉపయోగిస్తారు."
+  },
+  {
+    "id": 515,
+    "en": "Steel is an alloy that combines iron with carbon.",
+    "te": "ఉక్కు అనేది ఇనుమును కార్బన్‌తో కలుపు చేసిన మిశ్రమం."
+  },
+  {
+    "id": 516,
+    "en": "Stainless steel is used in kitchenware because it resists rust.",
+    "te": "స్టెయిన్‌లెస్ స్టీల్ తుప్పును నిరోధిస్తుంది కాబట్టి వంటగది సామగ్రిలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 517,
+    "en": "Glass is a poor conductor of heat.",
+    "te": "గాజు వేడికి చెడు వాహకం."
+  },
+  {
+    "id": 518,
+    "en": "Air is one of the poorest conductors of heat.",
+    "te": "గాలి వేడికి అత్యంత చెడు వాహకాలలో ఒకటి."
+  },
+  {
+    "id": 519,
+    "en": "Wool traps air between its fibers, making it a good insulator.",
+    "te": "గొంగళి తన తంతువుల మధ్య గాలిని పట్టుకుంటుంది, దీనివల్ల అది మంచి అవాహకం అవుతుంది."
+  },
+  {
+    "id": 520,
+    "en": "Cotton clothes are suitable for summer because they allow air circulation.",
+    "te": "కాటన్ బట్టలు వేసవికి అనువుగా ఉంటాయి ఎందుకంటే అవి గాలి ప్రసరణను అనుమతిస్తాయి."
+  },
+  {
+    "id": 521,
+    "en": "Synthetic fabrics may not breathe as well as natural fibers.",
+    "te": "సింథటిక్ బట్టలు సహజ తంతువుల వలె ఊపిరి పోయనివి కావచ్చు."
+  },
+  {
+    "id": 522,
+    "en": "Double-walled containers reduce heat transfer through the air gap.",
+    "te": "రెండు గోడల కంటైనర్లు గాలి అంతరం ద్వారా వేడి బదిలీని తగ్గిస్తాయి."
+  },
+  {
+    "id": 523,
+    "en": "A vacuum flask keeps liquids hot or cold for many hours.",
+    "te": "వాక్యూమ్ ఫ్లాస్క్ ద్రవాలను చాలా గంటలు వేడిగా లేదా చల్లగా ఉంచుతుంది."
+  },
+  {
+    "id": 524,
+    "en": "The shiny inner surface of a flask reflects radiation back.",
+    "te": "ఫ్లాస్క్ యొక్క మెరుస్తున్న లోపలి ఉపరితలం వికిరణాన్ని తిరిగి ప్రతిబింబిస్తుంది."
+  },
+  {
+    "id": 525,
+    "en": "Handles of cooking pots are made of plastic or wood to prevent burns.",
+    "te": "వంట పాత్రల హ్యాండిళ్ళు కాలిపోకుండా నిరోధించడానికి ప్లాస్టిక్ లేదా చెక్కతో తయారు చేస్తారు."
+  },
+  {
+    "id": 526,
+    "en": "When cooking, always use pot holders to avoid burns.",
+    "te": "వంట చేసేటప్పుడు కాలిపోకుండా ఎల్లప్పుడూ పాట్ హోల్డర్లను ఉపయోగించండి."
+  },
+  {
+    "id": 527,
+    "en": "Hot oil can cause severe burns, so handle it carefully.",
+    "te": "వేడి నూనె తీవ్రమైన కాలుపులు కలిగించగలదు, కాబట్టి దాన్ని జాగ్రత్తగా నిర్వహించండి."
+  },
+  {
+    "id": 528,
+    "en": "Fire requires fuel, oxygen, and heat to burn.",
+    "te": "అగ్ని మండాలంటే ఇంధనం, ఆక్సిజన్ మరియు వేడి అవసరం."
+  },
+  {
+    "id": 529,
+    "en": "Removing any one of these three stops the fire.",
+    "te": "ఈ మూడింటిలో ఏదైనా ఒకటి తీసివేస్తే అగ్ని ఆగిపోతుంది."
+  },
+  {
+    "id": 530,
+    "en": "Water cools the fire and removes heat.",
+    "te": "నీరు అగ్నిని చల్లబరుస్తుంది మరియు వేడిని తొలగిస్తుంది."
+  },
+  {
+    "id": 531,
+    "en": "A fire blanket cuts off oxygen supply to the flames.",
+    "te": "ఫైర్ బ్లాంకెట్ మంటలకు ఆక్సిజన్ సరఫరాను నిలిపివేస్తుంది."
+  },
+  {
+    "id": 532,
+    "en": "Carbon dioxide fire extinguishers work by displacing oxygen.",
+    "te": "కార్బన్ డయాక్సైడ్ ఫైర్ ఎక్స్‌టింగ్విషర్లు ఆక్సిజన్‌ను తొలగించడం ద్వారా పనిచేస్తాయి."
+  },
+  {
+    "id": 533,
+    "en": "Never use water on an electrical fire.",
+    "te": "విద్యుత్ అగ్నిపై ఎప్పుడూ నీటిని ఉపయోగించవద్దు."
+  },
+  {
+    "id": 534,
+    "en": "Oil fires should be smothered, not doused with water.",
+    "te": "నూనె మంటలు అణచివేయాలి, నీటితో ఆర్పకూడదు."
+  },
+  {
+    "id": 535,
+    "en": "A smoke detector warns you when there is smoke in the house.",
+    "te": "ఇంట్లో పొగ ఉన్నప్పుడు స్మోక్ డిటెక్టర్ మిమ్మల్ని హెచ్చరిస్తుంది."
+  },
+  {
+    "id": 536,
+    "en": "Every home should have a fire escape plan.",
+    "te": "ప్రతి ఇంట్లో ఫైర్ ఎస్కేప్ ప్లాన్ ఉండాలి."
+  },
+  {
+    "id": 537,
+    "en": "In case of fire, crawl low under smoke to breathe cleaner air.",
+    "te": "అగ్ని విషయంలో శుద్ధమైన గాలిని పీల్చడానికి పొగ కింద తక్కువగా క్రాల్ చేయండి."
+  },
+  {
+    "id": 538,
+    "en": "Heat makes substances expand.",
+    "te": "వేడి పదార్థాలను విస్తరింపజేస్తుంది."
+  },
+  {
+    "id": 539,
+    "en": "When a metal rod is heated, it becomes longer.",
+    "te": "లోహపు కడ్డీని వేడి చేసినప్పుడు అది పొడవుగా మారుతుంది."
+  },
+  {
+    "id": 540,
+    "en": "Railway tracks have gaps to allow for expansion in summer.",
+    "te": "రైల్వే ట్రాక్‌లలో వేసవిలో విస్తరణకు అనుమతి ఇవ్వడానికి గ్యాప్‌లు ఉంటాయి."
+  },
+  {
+    "id": 541,
+    "en": "Bridges have expansion joints to accommodate temperature changes.",
+    "te": "వంతెనలు ఉష్ణోగ్రత మార్పులను సరిచేయడానికి విస్తరణ జాయింట్లను కలిగి ఉంటాయి."
+  },
+  {
+    "id": 542,
+    "en": "A bimetallic strip bends when heated because the two metals expand differently.",
+    "te": "రెండు లోహాలు భిన్నంగా విస్తరిస్తాయి కాబట్టి బైమెటాలిక్ స్ట్రిప్ వేడి చేసినప్పుడు వంగుతుంది."
+  },
+  {
+    "id": 543,
+    "en": "Thermostats use bimetallic strips to control temperature.",
+    "te": "థర్మోస్టాట్‌లు ఉష్ణోగ్రతను నియంత్రించడానికి బైమెటాలిక్ స్ట్రిప్‌లను ఉపయోగిస్తాయి."
+  },
+  {
+    "id": 544,
+    "en": "Liquids expand more than solids when heated.",
+    "te": "వేడి చేసినప్పుడు ద్రవాలు ఘన పదార్థాల కంటే ఎక్కువ విస్తరిస్తాయి."
+  },
+  {
+    "id": 545,
+    "en": "Gases expand even more than liquids when heated.",
+    "te": "వేడి చేసినప్పుడు వాయువులు ద్రవాల కంటే మరింత విస్తరిస్తాయి."
+  },
+  {
+    "id": 546,
+    "en": "A hot air balloon rises because hot air is less dense than cool air.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున వేడి గాలి బుడగ పైకి లేస్తుంది."
+  },
+  {
+    "id": 547,
+    "en": "Density is the mass per unit volume of a substance.",
+    "te": "సాంద్రత అనేది పదార్థం యొక్క యూనిట్ వాల్యూమ్‌కు ద్రవ్యరాశి."
+  },
+  {
+    "id": 548,
+    "en": "When a substance expands, its density decreases.",
+    "te": "పదార్థం విస్తరించినప్పుడు దాని సాంద్రత తగ్గుతుంది."
+  },
+  {
+    "id": 549,
+    "en": "Water is unusual because it expands when it freezes.",
+    "te": "నీరు గడ్డకట్టినప్పుడు విస్తరిస్తుంది కాబట్టి అది అసాధారణమైనది."
+  },
+  {
+    "id": 550,
+    "en": "Ice floats on water because it is less dense.",
+    "te": "మంచు తక్కువ సాంద్రత కలిగి ఉన్నందున నీటిపై తేలుతుంది."
+  },
+  {
+    "id": 551,
+    "en": "This property of water helps aquatic life survive in winter.",
+    "te": "నీటి యొక్క ఈ లక్షణం చలికాలంలో జల జీవులు జీవించడానికి సహాయపడుతుంది."
+  },
+  {
+    "id": 552,
+    "en": "Pipes can burst in winter if water inside them freezes.",
+    "te": "వాటి లోపల నీరు గడ్డకట్టినట్లయితే చలికాలంలో పైపులు పగలవచ్చు."
+  },
+  {
+    "id": 553,
+    "en": "Sea breezes occur because land heats up faster than water.",
+    "te": "భూమి నీటి కంటే వేగంగా వేడెక్కుతుంది కాబట్టి సముద్ర గాలులు సంభవిస్తాయి."
+  },
+  {
+    "id": 554,
+    "en": "During the day, cool air from the sea moves towards the hot land.",
+    "te": "పగటిపూట సముద్రం నుండి చల్లని గాలి వేడి భూమి వైపుకు కదులుతుంది."
+  },
+  {
+    "id": 555,
+    "en": "At night, land cools faster, and air moves from land to sea.",
+    "te": "రాత్రి సమయంలో భూమి వేగంగా చల్లబడుతుంది మరియు గాలి భూమి నుండి సముద్రానికి కదులుతుంది."
+  },
+  {
+    "id": 556,
+    "en": "Land breezes are cooler than sea breezes.",
+    "te": "భూ గాలులు సముద్ర గాలుల కంటే చల్లగా ఉంటాయి."
+  },
+  {
+    "id": 557,
+    "en": "Wind is caused by differences in air pressure.",
+    "te": "గాలి పీడన వ్యత్యాసాల వల్ల గాలి ఏర్పడుతుంది."
+  },
+  {
+    "id": 558,
+    "en": "Air moves from high pressure areas to low pressure areas.",
+    "te": "గాలి అధిక పీడన ప్రాంతాల నుండి తక్కువ పీడన ప్రాంతాలకు కదులుతుంది."
+  },
+  {
+    "id": 559,
+    "en": "The Sun heats different parts of Earth unevenly.",
+    "te": "సూర్యుడు భూమి యొక్క వివిధ భాగాలను అసమానంగా వేడి చేస్తాడు."
+  },
+  {
+    "id": 560,
+    "en": "The equator receives more direct sunlight than the poles.",
+    "te": "భూమధ్య రేఖ ధ్రువాల కంటే ఎక్కువ ప్రత్యక్ష సూర్య కాంతిని పొందుతుంది."
+  },
+  {
+    "id": 561,
+    "en": "This creates global wind patterns and weather systems.",
+    "te": "ఇది ప్రపంచ గాలి నమూనాలు మరియు వాతావరణ వ్యవస్థలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 562,
+    "en": "Greenhouse gases trap heat in Earth's atmosphere.",
+    "te": "గ్రీన్‌హౌస్ వాయువులు భూమి యొక్క వాతావరణంలో వేడిని బంధిస్తాయి."
+  },
+  {
+    "id": 563,
+    "en": "The greenhouse effect keeps Earth warm enough for life.",
+    "te": "గ్రీన్‌హౌస్ ప్రభావం భూమిని జీవితానికి తగినంత వేడిగా ఉంచుతుంది."
+  },
+  {
+    "id": 564,
+    "en": "Too many greenhouse gases cause global warming.",
+    "te": "చాలా ఎక్కువ గ్రీన్‌హౌస్ వాయువులు గ్లోబల్ వార్మింగ్‌కు కారణమవుతాయి."
+  },
+  {
+    "id": 565,
+    "en": "Carbon dioxide is a major greenhouse gas.",
+    "te": "కార్బన్ డయాక్సైడ్ ఒక ప్రధాన గ్రీన్‌హౌస్ వాయువు."
+  },
+  {
+    "id": 566,
+    "en": "Heat is a form of energy that flows from a hotter object to a cooler one.",
+    "te": "వేడి అనేది శక్తి యొక్క ఒక రూపం, ఇది వేడి వస్తువు నుండి చల్లగా ఉన్న వస్తువుకు ప్రవహిస్తుంది."
+  },
+  {
+    "id": 567,
+    "en": "There are three main methods of heat transfer: conduction, convection, and radiation.",
+    "te": "వేడి బదిలీకి మూడు ప్రధాన పద్ధతులు ఉన్నాయి: ప్రసరణ, ఉష్ణప్రసరణ, మరియు వికిరణం."
+  },
+  {
+    "id": 568,
+    "en": "Conduction is the transfer of heat through direct contact between objects.",
+    "te": "ప్రసరణ అంటే వస్తువుల మధ్య నేరుగా స్పర్శ ద్వారా వేడి బదిలీ."
+  },
+  {
+    "id": 569,
+    "en": "Metals are good conductors of heat because their atoms are closely packed.",
+    "te": "లోహాలు వేడికి మంచి వాహకాలు ఎందుకంటే వాటి పరమాణువులు దట్టంగా నిండి ఉంటాయి."
+  },
+  {
+    "id": 570,
+    "en": "Wood and plastic are insulators that prevent heat from flowing easily.",
+    "te": "చెక్క మరియు ప్లాస్టిక్ అవాహకాలు, ఇవి వేడిని సులభంగా ప్రవహించకుండా నిరోధిస్తాయి."
+  },
+  {
+    "id": 571,
+    "en": "Convection occurs when heat is transferred by the movement of fluids or gases.",
+    "te": "ద్రవాలు లేదా వాయువుల కదలిక ద్వారా వేడి బదిలీ అయినప్పుడు ఉష్ణప్రసరణ జరుగుతుంది."
+  },
+  {
+    "id": 572,
+    "en": "Hot air rises because it is less dense than cold air, creating convection currents.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున పైకి ఎగురుతుంది, ఉష్ణప్రసరణ ప్రవాహాలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 573,
+    "en": "Radiation is the transfer of heat through electromagnetic waves without needing a medium.",
+    "te": "వికిరణం అంటే విద్యుదయస్కాంత తరంగాల ద్వారా మాధ్యమం అవసరం లేకుండా వేడి బదిలీ."
+  },
+  {
+    "id": 574,
+    "en": "The Sun heats the Earth through radiation across the vacuum of space.",
+    "te": "అంతరిక్ష శూన్యతలో వికిరణం ద్వారా సూర్యుడు భూమిని వేడి చేస్తాడు."
+  },
+  {
+    "id": 575,
+    "en": "Dark surfaces have higher emissivity and absorb more heat than light surfaces.",
+    "te": "ముదురు రంగు ఉపరితలాలు ఎక్కువ ఉద్గార సామర్థ్యం కలిగి ఉండి, తెలుపు ఉపరితలాల కంటే ఎక్కువ వేడిని గ్రహిస్తాయి."
+  },
+  {
+    "id": 576,
+    "en": "Thermal equilibrium is reached when two objects in contact have the same temperature.",
+    "te": "సంపర్కంలో ఉన్న రెండు వస్తువులు ఒకే ఉష్ణోగ్రత కలిగి ఉన్నప్పుడు ఉష్ణ సమతౌల్య స్థితి చేరుకుంటుంది."
+  },
+  {
+    "id": 577,
+    "en": "Specific heat is the amount of energy needed to raise the temperature of one kilogram of a substance by one degree Celsius.",
+    "te": "విశిష్ట వేడి అంటే ఒక కిలోగ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తి మొత్తం."
+  },
+  {
+    "id": 578,
+    "en": "Water has a high specific heat, which is why it takes longer to heat up and cool down.",
+    "te": "నీరు ఎక్కువ విశిష్ట వేడిని కలిగి ఉంటుంది, అందుకే వేడి చేయడానికి మరియు చల్లబరచడానికి ఎక్కువ సమయం పడుతుంది."
+  },
+  {
+    "id": 579,
+    "en": "Thermal conductivity measures how well a material can conduct heat.",
+    "te": "ఉష్ణ వాహకత అనేది ఒక పదార్థం వేడిని ఎంత బాగా ప్రసరింపజేయగలదో కొలుస్తుంది."
+  },
+  {
+    "id": 580,
+    "en": "Copper has high thermal conductivity, making it useful for cooking pots.",
+    "te": "రాగి అధిక ఉష్ణ వాహకతను కలిగి ఉంటుంది, ఇది వంట పాత్రలకు ఉపయోగకరంగా ఉంటుంది."
+  },
+  {
+    "id": 581,
+    "en": "A thermos flask uses a vacuum to prevent heat transfer by conduction and convection.",
+    "te": "థర్మస్ ఫ్లాస్క్ ప్రసరణ మరియు ఉష్ణప్రసరణ ద్వారా వేడి బదిలీని నిరోధించడానికి శూన్యతను ఉపయోగిస్తుంది."
+  },
+  {
+    "id": 582,
+    "en": "Absorption is the process by which a material takes in energy from radiation.",
+    "te": "శోషణ అనేది ఒక పదార్థం వికిరణం నుండి శక్తిని తీసుకునే ప్రక్రియ."
+  },
+  {
+    "id": 583,
+    "en": "Light-colored clothing reflects more radiation and keeps you cooler in summer.",
+    "te": "లేత రంగు దుస్తులు ఎక్కువ వికిరణాన్ని ప్రతిబింబిస్తాయి మరియు వేసవిలో మిమ్మల్ని చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 584,
+    "en": "When you place a metal spoon in hot tea, it becomes warm.",
+    "te": "వేడి టీలో లోహపు చెంచాను పెట్టినప్పుడు అది వేడెక్కుతుంది."
+  },
+  {
+    "id": 585,
+    "en": "Heat always travels from a hotter object to a colder one.",
+    "te": "వేడి ఎప్పుడూ వేడిగా ఉన్న వస్తువునుండి చల్లని వస్తువుకు వెళ్తుంది."
+  },
+  {
+    "id": 586,
+    "en": "Temperature is a measure of how hot or cold something is.",
+    "te": "ఉష్ణోగ్రత అంటే ఏదైనా ఎంత వేడిగా లేదా చల్లగా ఉందో కొలిచే కొలమానము."
+  },
+  {
+    "id": 587,
+    "en": "A thermometer is used to measure temperature accurately.",
+    "te": "ఉష్ణోగ్రతను ఖచ్చితంగా కొలవడానికి థర్మామీటర్ ఉపయోగిస్తారు."
+  },
+  {
+    "id": 588,
+    "en": "The Celsius scale is commonly used in science and everyday life.",
+    "te": "సెల్సియస్ స్కేల్ సైన్స్ మరియు రోజువారీ జీవితంలో సాధారణంగా ఉపయోగిస్తారు."
+  },
+  {
+    "id": 589,
+    "en": "Water freezes at zero degrees Celsius.",
+    "te": "నీరు సున్న డిగ్రీల సెల్సియస్ వద్ద గడ్డకడుతుంది."
+  },
+  {
+    "id": 590,
+    "en": "Water boils at one hundred degrees Celsius at sea level.",
+    "te": "సముద్ర మట్టంలో నీరు వంద డిగ్రీల సెల్సియస్ వద్ద మరుగుతుంది."
+  },
+  {
+    "id": 591,
+    "en": "When water boils, it changes from liquid to gas.",
+    "te": "నీరు మరిగినప్పుడు అది ద్రవం నుండి వాయువుగా మారుతుంది."
+  },
+  {
+    "id": 592,
+    "en": "Steam is the gaseous form of water.",
+    "te": "ఆవిరి అనేది నీటి యొక్క వాయు రూపం."
+  },
+  {
+    "id": 593,
+    "en": "Ice is the solid form of water.",
+    "te": "మంచు అనేది నీటి ఘన రూపం."
+  },
+  {
+    "id": 594,
+    "en": "When ice melts, it absorbs heat from the surroundings.",
+    "te": "మంచు కరిగినప్పుడు అది పరిసరాల నుండి వేడిని గ్రహిస్తుంది."
+  },
+  {
+    "id": 595,
+    "en": "Evaporation is the process of liquid changing into vapor.",
+    "te": "బాష్పీభవనం అంటే ద్రవం ఆవిరిగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 596,
+    "en": "Condensation is the process of vapor changing into liquid.",
+    "te": "సంగ్రహణ అంటే ఆవిరి ద్రవంగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 597,
+    "en": "Morning dew forms through condensation of water vapor.",
+    "te": "ఉదయం మంచు నీటి ఆవిరి సంగ్రహణ ద్వారా ఏర్పడుతుంది."
+  },
+  {
+    "id": 598,
+    "en": "Fog is tiny water droplets suspended in air.",
+    "te": "పొగమంచు అనేది గాలిలో నిలిచి ఉన్న చిన్న నీటి బిందువులు."
+  },
+  {
+    "id": 599,
+    "en": "Clouds form when water vapor condenses around dust particles.",
+    "te": "నీటి ఆవిరి ధూళి కణాల చుట్టూ సంగ్రహించినప్పుడు మేఘాలు ఏర్పడతాయి."
+  },
+  {
+    "id": 600,
+    "en": "Rain occurs when water droplets in clouds become heavy and fall.",
+    "te": "మేఘాల్లోని నీటి బిందువులు బరువుగా మారి పడినప్పుడు వర్షం కురుస్తుంది."
+  },
+  {
+    "id": 601,
+    "en": "The water cycle involves evaporation, condensation, and precipitation.",
+    "te": "నీటి చక్రంలో బాష్పీభవనం, సంగ్రహణ మరియు వర్షపాతం ఉంటాయి."
+  },
+  {
+    "id": 602,
+    "en": "Heat energy from the Sun drives the water cycle.",
+    "te": "సూర్యుడి నుండి వచ్చే ఉష్ణ శక్తి నీటి చక్రాన్ని నడిపిస్తుంది."
+  },
+  {
+    "id": 603,
+    "en": "A good conductor allows heat to pass through it easily.",
+    "te": "మంచి వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేస్తుంది."
+  },
+  {
+    "id": 604,
+    "en": "A poor conductor does not allow heat to pass through easily.",
+    "te": "చెడు వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేయదు."
+  },
+  {
+    "id": 605,
+    "en": "Silver is the best conductor of heat among all metals.",
+    "te": "వెండి అన్ని లోహాలలో వేడికి అత్యుత్తమ వాహకం."
+  },
+  {
+    "id": 606,
+    "en": "Aluminum is a good conductor and is used in cooking utensils.",
+    "te": "అల్యూమినియం మంచి వాహకం మరియు వంట పాత్రలలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 607,
+    "en": "Iron is used to make frying pans because it conducts heat well.",
+    "te": "ఇనుము వేడిని బాగా ప్రసరింపజేస్తుంది కాబట్టి దాన్ని తావాలు తయారు చేయడానికి ఉపయోగిస్తారు."
+  },
+  {
+    "id": 608,
+    "en": "Steel is an alloy that combines iron with carbon.",
+    "te": "ఉక్కు అనేది ఇనుమును కార్బన్‌తో కలుపు చేసిన మిశ్రమం."
+  },
+  {
+    "id": 609,
+    "en": "Stainless steel is used in kitchenware because it resists rust.",
+    "te": "స్టెయిన్‌లెస్ స్టీల్ తుప్పును నిరోధిస్తుంది కాబట్టి వంటగది సామగ్రిలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 610,
+    "en": "Glass is a poor conductor of heat.",
+    "te": "గాజు వేడికి చెడు వాహకం."
+  },
+  {
+    "id": 611,
+    "en": "Air is one of the poorest conductors of heat.",
+    "te": "గాలి వేడికి అత్యంత చెడు వాహకాలలో ఒకటి."
+  },
+  {
+    "id": 612,
+    "en": "Wool traps air between its fibers, making it a good insulator.",
+    "te": "గొంగళి తన తంతువుల మధ్య గాలిని పట్టుకుంటుంది, దీనివల్ల అది మంచి అవాహకం అవుతుంది."
+  },
+  {
+    "id": 613,
+    "en": "Cotton clothes are suitable for summer because they allow air circulation.",
+    "te": "కాటన్ బట్టలు వేసవికి అనువుగా ఉంటాయి ఎందుకంటే అవి గాలి ప్రసరణను అనుమతిస్తాయి."
+  },
+  {
+    "id": 614,
+    "en": "Synthetic fabrics may not breathe as well as natural fibers.",
+    "te": "సింథటిక్ బట్టలు సహజ తంతువుల వలె ఊపిరి పోయనివి కావచ్చు."
+  },
+  {
+    "id": 615,
+    "en": "Double-walled containers reduce heat transfer through the air gap.",
+    "te": "రెండు గోడల కంటైనర్లు గాలి అంతరం ద్వారా వేడి బదిలీని తగ్గిస్తాయి."
+  },
+  {
+    "id": 616,
+    "en": "A vacuum flask keeps liquids hot or cold for many hours.",
+    "te": "వాక్యూమ్ ఫ్లాస్క్ ద్రవాలను చాలా గంటలు వేడిగా లేదా చల్లగా ఉంచుతుంది."
+  },
+  {
+    "id": 617,
+    "en": "The shiny inner surface of a flask reflects radiation back.",
+    "te": "ఫ్లాస్క్ యొక్క మెరుస్తున్న లోపలి ఉపరితలం వికిరణాన్ని తిరిగి ప్రతిబింబిస్తుంది."
+  },
+  {
+    "id": 618,
+    "en": "Handles of cooking pots are made of plastic or wood to prevent burns.",
+    "te": "వంట పాత్రల హ్యాండిళ్ళు కాలిపోకుండా నిరోధించడానికి ప్లాస్టిక్ లేదా చెక్కతో తయారు చేస్తారు."
+  },
+  {
+    "id": 619,
+    "en": "When cooking, always use pot holders to avoid burns.",
+    "te": "వంట చేసేటప్పుడు కాలిపోకుండా ఎల్లప్పుడూ పాట్ హోల్డర్లను ఉపయోగించండి."
+  },
+  {
+    "id": 620,
+    "en": "Hot oil can cause severe burns, so handle it carefully.",
+    "te": "వేడి నూనె తీవ్రమైన కాలుపులు కలిగించగలదు, కాబట్టి దాన్ని జాగ్రత్తగా నిర్వహించండి."
+  },
+  {
+    "id": 621,
+    "en": "Fire requires fuel, oxygen, and heat to burn.",
+    "te": "అగ్ని మండాలంటే ఇంధనం, ఆక్సిజన్ మరియు వేడి అవసరం."
+  },
+  {
+    "id": 622,
+    "en": "Removing any one of these three stops the fire.",
+    "te": "ఈ మూడింటిలో ఏదైనా ఒకటి తీసివేస్తే అగ్ని ఆగిపోతుంది."
+  },
+  {
+    "id": 623,
+    "en": "Water cools the fire and removes heat.",
+    "te": "నీరు అగ్నిని చల్లబరుస్తుంది మరియు వేడిని తొలగిస్తుంది."
+  },
+  {
+    "id": 624,
+    "en": "A fire blanket cuts off oxygen supply to the flames.",
+    "te": "ఫైర్ బ్లాంకెట్ మంటలకు ఆక్సిజన్ సరఫరాను నిలిపివేస్తుంది."
+  },
+  {
+    "id": 625,
+    "en": "Carbon dioxide fire extinguishers work by displacing oxygen.",
+    "te": "కార్బన్ డయాక్సైడ్ ఫైర్ ఎక్స్‌టింగ్విషర్లు ఆక్సిజన్‌ను తొలగించడం ద్వారా పనిచేస్తాయి."
+  },
+  {
+    "id": 626,
+    "en": "Never use water on an electrical fire.",
+    "te": "విద్యుత్ అగ్నిపై ఎప్పుడూ నీటిని ఉపయోగించవద్దు."
+  },
+  {
+    "id": 627,
+    "en": "Oil fires should be smothered, not doused with water.",
+    "te": "నూనె మంటలు అణచివేయాలి, నీటితో ఆర్పకూడదు."
+  },
+  {
+    "id": 628,
+    "en": "A smoke detector warns you when there is smoke in the house.",
+    "te": "ఇంట్లో పొగ ఉన్నప్పుడు స్మోక్ డిటెక్టర్ మిమ్మల్ని హెచ్చరిస్తుంది."
+  },
+  {
+    "id": 629,
+    "en": "Every home should have a fire escape plan.",
+    "te": "ప్రతి ఇంట్లో ఫైర్ ఎస్కేప్ ప్లాన్ ఉండాలి."
+  },
+  {
+    "id": 630,
+    "en": "In case of fire, crawl low under smoke to breathe cleaner air.",
+    "te": "అగ్ని విషయంలో శుద్ధమైన గాలిని పీల్చడానికి పొగ కింద తక్కువగా క్రాల్ చేయండి."
+  },
+  {
+    "id": 631,
+    "en": "Heat makes substances expand.",
+    "te": "వేడి పదార్థాలను విస్తరింపజేస్తుంది."
+  },
+  {
+    "id": 632,
+    "en": "When a metal rod is heated, it becomes longer.",
+    "te": "లోహపు కడ్డీని వేడి చేసినప్పుడు అది పొడవుగా మారుతుంది."
+  },
+  {
+    "id": 633,
+    "en": "Railway tracks have gaps to allow for expansion in summer.",
+    "te": "రైల్వే ట్రాక్‌లలో వేసవిలో విస్తరణకు అనుమతి ఇవ్వడానికి గ్యాప్‌లు ఉంటాయి."
+  },
+  {
+    "id": 634,
+    "en": "Bridges have expansion joints to accommodate temperature changes.",
+    "te": "వంతెనలు ఉష్ణోగ్రత మార్పులను సరిచేయడానికి విస్తరణ జాయింట్లను కలిగి ఉంటాయి."
+  },
+  {
+    "id": 635,
+    "en": "A bimetallic strip bends when heated because the two metals expand differently.",
+    "te": "రెండు లోహాలు భిన్నంగా విస్తరిస్తాయి కాబట్టి బైమెటాలిక్ స్ట్రిప్ వేడి చేసినప్పుడు వంగుతుంది."
+  },
+  {
+    "id": 636,
+    "en": "Thermostats use bimetallic strips to control temperature.",
+    "te": "థర్మోస్టాట్‌లు ఉష్ణోగ్రతను నియంత్రించడానికి బైమెటాలిక్ స్ట్రిప్‌లను ఉపయోగిస్తాయి."
+  },
+  {
+    "id": 637,
+    "en": "Liquids expand more than solids when heated.",
+    "te": "వేడి చేసినప్పుడు ద్రవాలు ఘన పదార్థాల కంటే ఎక్కువ విస్తరిస్తాయి."
+  },
+  {
+    "id": 638,
+    "en": "Gases expand even more than liquids when heated.",
+    "te": "వేడి చేసినప్పుడు వాయువులు ద్రవాల కంటే మరింత విస్తరిస్తాయి."
+  },
+  {
+    "id": 639,
+    "en": "A hot air balloon rises because hot air is less dense than cool air.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున వేడి గాలి బుడగ పైకి లేస్తుంది."
+  },
+  {
+    "id": 640,
+    "en": "Density is the mass per unit volume of a substance.",
+    "te": "సాంద్రత అనేది పదార్థం యొక్క యూనిట్ వాల్యూమ్‌కు ద్రవ్యరాశి."
+  },
+  {
+    "id": 641,
+    "en": "When a substance expands, its density decreases.",
+    "te": "పదార్థం విస్తరించినప్పుడు దాని సాంద్రత తగ్గుతుంది."
+  },
+  {
+    "id": 642,
+    "en": "Water is unusual because it expands when it freezes.",
+    "te": "నీరు గడ్డకట్టినప్పుడు విస్తరిస్తుంది కాబట్టి అది అసాధారణమైనది."
+  },
+  {
+    "id": 643,
+    "en": "Ice floats on water because it is less dense.",
+    "te": "మంచు తక్కువ సాంద్రత కలిగి ఉన్నందున నీటిపై తేలుతుంది."
+  },
+  {
+    "id": 644,
+    "en": "This property of water helps aquatic life survive in winter.",
+    "te": "నీటి యొక్క ఈ లక్షణం చలికాలంలో జల జీవులు జీవించడానికి సహాయపడుతుంది."
+  },
+  {
+    "id": 645,
+    "en": "Pipes can burst in winter if water inside them freezes.",
+    "te": "వాటి లోపల నీరు గడ్డకట్టినట్లయితే చలికాలంలో పైపులు పగలవచ్చు."
+  },
+  {
+    "id": 646,
+    "en": "Sea breezes occur because land heats up faster than water.",
+    "te": "భూమి నీటి కంటే వేగంగా వేడెక్కుతుంది కాబట్టి సముద్ర గాలులు సంభవిస్తాయి."
+  },
+  {
+    "id": 647,
+    "en": "During the day, cool air from the sea moves towards the hot land.",
+    "te": "పగటిపూట సముద్రం నుండి చల్లని గాలి వేడి భూమి వైపుకు కదులుతుంది."
+  },
+  {
+    "id": 648,
+    "en": "At night, land cools faster, and air moves from land to sea.",
+    "te": "రాత్రి సమయంలో భూమి వేగంగా చల్లబడుతుంది మరియు గాలి భూమి నుండి సముద్రానికి కదులుతుంది."
+  },
+  {
+    "id": 649,
+    "en": "Land breezes are cooler than sea breezes.",
+    "te": "భూ గాలులు సముద్ర గాలుల కంటే చల్లగా ఉంటాయి."
+  },
+  {
+    "id": 650,
+    "en": "Wind is caused by differences in air pressure.",
+    "te": "గాలి పీడన వ్యత్యాసాల వల్ల గాలి ఏర్పడుతుంది."
+  },
+  {
+    "id": 651,
+    "en": "Air moves from high pressure areas to low pressure areas.",
+    "te": "గాలి అధిక పీడన ప్రాంతాల నుండి తక్కువ పీడన ప్రాంతాలకు కదులుతుంది."
+  },
+  {
+    "id": 652,
+    "en": "The Sun heats different parts of Earth unevenly.",
+    "te": "సూర్యుడు భూమి యొక్క వివిధ భాగాలను అసమానంగా వేడి చేస్తాడు."
+  },
+  {
+    "id": 653,
+    "en": "The equator receives more direct sunlight than the poles.",
+    "te": "భూమధ్య రేఖ ధ్రువాల కంటే ఎక్కువ ప్రత్యక్ష సూర్య కాంతిని పొందుతుంది."
+  },
+  {
+    "id": 654,
+    "en": "This creates global wind patterns and weather systems.",
+    "te": "ఇది ప్రపంచ గాలి నమూనాలు మరియు వాతావరణ వ్యవస్థలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 655,
+    "en": "Greenhouse gases trap heat in Earth's atmosphere.",
+    "te": "గ్రీన్‌హౌస్ వాయువులు భూమి యొక్క వాతావరణంలో వేడిని బంధిస్తాయి."
+  },
+  {
+    "id": 656,
+    "en": "The greenhouse effect keeps Earth warm enough for life.",
+    "te": "గ్రీన్‌హౌస్ ప్రభావం భూమిని జీవితానికి తగినంత వేడిగా ఉంచుతుంది."
+  },
+  {
+    "id": 657,
+    "en": "Too many greenhouse gases cause global warming.",
+    "te": "చాలా ఎక్కువ గ్రీన్‌హౌస్ వాయువులు గ్లోబల్ వార్మింగ్‌కు కారణమవుతాయి."
+  },
+  {
+    "id": 658,
+    "en": "Carbon dioxide is a major greenhouse gas.",
+    "te": "కార్బన్ డయాక్సైడ్ ఒక ప్రధాన గ్రీన్‌హౌస్ వాయువు."
+  },
+  {
+    "id": 659,
+    "en": "Heat is a form of energy that flows from a hotter object to a cooler one.",
+    "te": "వేడి అనేది శక్తి యొక్క ఒక రూపం, ఇది వేడి వస్తువు నుండి చల్లగా ఉన్న వస్తువుకు ప్రవహిస్తుంది."
+  },
+  {
+    "id": 660,
+    "en": "There are three main methods of heat transfer: conduction, convection, and radiation.",
+    "te": "వేడి బదిలీకి మూడు ప్రధాన పద్ధతులు ఉన్నాయి: ప్రసరణ, ఉష్ణప్రసరణ, మరియు వికిరణం."
+  },
+  {
+    "id": 661,
+    "en": "Conduction is the transfer of heat through direct contact between objects.",
+    "te": "ప్రసరణ అంటే వస్తువుల మధ్య నేరుగా స్పర్శ ద్వారా వేడి బదిలీ."
+  },
+  {
+    "id": 662,
+    "en": "Metals are good conductors of heat because their atoms are closely packed.",
+    "te": "లోహాలు వేడికి మంచి వాహకాలు ఎందుకంటే వాటి పరమాణువులు దట్టంగా నిండి ఉంటాయి."
+  },
+  {
+    "id": 663,
+    "en": "Wood and plastic are insulators that prevent heat from flowing easily.",
+    "te": "చెక్క మరియు ప్లాస్టిక్ అవాహకాలు, ఇవి వేడిని సులభంగా ప్రవహించకుండా నిరోధిస్తాయి."
+  },
+  {
+    "id": 664,
+    "en": "Convection occurs when heat is transferred by the movement of fluids or gases.",
+    "te": "ద్రవాలు లేదా వాయువుల కదలిక ద్వారా వేడి బదిలీ అయినప్పుడు ఉష్ణప్రసరణ జరుగుతుంది."
+  },
+  {
+    "id": 665,
+    "en": "Hot air rises because it is less dense than cold air, creating convection currents.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున పైకి ఎగురుతుంది, ఉష్ణప్రసరణ ప్రవాహాలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 666,
+    "en": "Radiation is the transfer of heat through electromagnetic waves without needing a medium.",
+    "te": "వికిరణం అంటే విద్యుదయస్కాంత తరంగాల ద్వారా మాధ్యమం అవసరం లేకుండా వేడి బదిలీ."
+  },
+  {
+    "id": 667,
+    "en": "The Sun heats the Earth through radiation across the vacuum of space.",
+    "te": "అంతరిక్ష శూన్యతలో వికిరణం ద్వారా సూర్యుడు భూమిని వేడి చేస్తాడు."
+  },
+  {
+    "id": 668,
+    "en": "Dark surfaces have higher emissivity and absorb more heat than light surfaces.",
+    "te": "ముదురు రంగు ఉపరితలాలు ఎక్కువ ఉద్గార సామర్థ్యం కలిగి ఉండి, తెలుపు ఉపరితలాల కంటే ఎక్కువ వేడిని గ్రహిస్తాయి."
+  },
+  {
+    "id": 669,
+    "en": "Thermal equilibrium is reached when two objects in contact have the same temperature.",
+    "te": "సంపర్కంలో ఉన్న రెండు వస్తువులు ఒకే ఉష్ణోగ్రత కలిగి ఉన్నప్పుడు ఉష్ణ సమతౌల్య స్థితి చేరుకుంటుంది."
+  },
+  {
+    "id": 670,
+    "en": "Specific heat is the amount of energy needed to raise the temperature of one kilogram of a substance by one degree Celsius.",
+    "te": "విశిష్ట వేడి అంటే ఒక కిలోగ్రాము పదార్థం యొక్క ఉష్ణోగ్రతను ఒక డిగ్రీ సెల్సియస్ పెంచడానికి అవసరమైన శక్తి మొత్తం."
+  },
+  {
+    "id": 671,
+    "en": "Water has a high specific heat, which is why it takes longer to heat up and cool down.",
+    "te": "నీరు ఎక్కువ విశిష్ట వేడిని కలిగి ఉంటుంది, అందుకే వేడి చేయడానికి మరియు చల్లబరచడానికి ఎక్కువ సమయం పడుతుంది."
+  },
+  {
+    "id": 672,
+    "en": "Thermal conductivity measures how well a material can conduct heat.",
+    "te": "ఉష్ణ వాహకత అనేది ఒక పదార్థం వేడిని ఎంత బాగా ప్రసరింపజేయగలదో కొలుస్తుంది."
+  },
+  {
+    "id": 673,
+    "en": "Copper has high thermal conductivity, making it useful for cooking pots.",
+    "te": "రాగి అధిక ఉష్ణ వాహకతను కలిగి ఉంటుంది, ఇది వంట పాత్రలకు ఉపయోగకరంగా ఉంటుంది."
+  },
+  {
+    "id": 674,
+    "en": "A thermos flask uses a vacuum to prevent heat transfer by conduction and convection.",
+    "te": "థర్మస్ ఫ్లాస్క్ ప్రసరణ మరియు ఉష్ణప్రసరణ ద్వారా వేడి బదిలీని నిరోధించడానికి శూన్యతను ఉపయోగిస్తుంది."
+  },
+  {
+    "id": 675,
+    "en": "Absorption is the process by which a material takes in energy from radiation.",
+    "te": "శోషణ అనేది ఒక పదార్థం వికిరణం నుండి శక్తిని తీసుకునే ప్రక్రియ."
+  },
+  {
+    "id": 676,
+    "en": "Light-colored clothing reflects more radiation and keeps you cooler in summer.",
+    "te": "లేత రంగు దుస్తులు ఎక్కువ వికిరణాన్ని ప్రతిబింబిస్తాయి మరియు వేసవిలో మిమ్మల్ని చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 677,
+    "en": "When you place a metal spoon in hot tea, it becomes warm.",
+    "te": "వేడి టీలో లోహపు చెంచాను పెట్టినప్పుడు అది వేడెక్కుతుంది."
+  },
+  {
+    "id": 678,
+    "en": "Heat always travels from a hotter object to a colder one.",
+    "te": "వేడి ఎప్పుడూ వేడిగా ఉన్న వస్తువునుండి చల్లని వస్తువుకు వెళ్తుంది."
+  },
+  {
+    "id": 679,
+    "en": "Temperature is a measure of how hot or cold something is.",
+    "te": "ఉష్ణోగ్రత అంటే ఏదైనా ఎంత వేడిగా లేదా చల్లగా ఉందో కొలిచే కొలమానము."
+  },
+  {
+    "id": 680,
+    "en": "A thermometer is used to measure temperature accurately.",
+    "te": "ఉష్ణోగ్రతను ఖచ్చితంగా కొలవడానికి థర్మామీటర్ ఉపయోగిస్తారు."
+  },
+  {
+    "id": 681,
+    "en": "The Celsius scale is commonly used in science and everyday life.",
+    "te": "సెల్సియస్ స్కేల్ సైన్స్ మరియు రోజువారీ జీవితంలో సాధారణంగా ఉపయోగిస్తారు."
+  },
+  {
+    "id": 682,
+    "en": "Water freezes at zero degrees Celsius.",
+    "te": "నీరు సున్న డిగ్రీల సెల్సియస్ వద్ద గడ్డకడుతుంది."
+  },
+  {
+    "id": 683,
+    "en": "Water boils at one hundred degrees Celsius at sea level.",
+    "te": "సముద్ర మట్టంలో నీరు వంద డిగ్రీల సెల్సియస్ వద్ద మరుగుతుంది."
+  },
+  {
+    "id": 684,
+    "en": "When water boils, it changes from liquid to gas.",
+    "te": "నీరు మరిగినప్పుడు అది ద్రవం నుండి వాయువుగా మారుతుంది."
+  },
+  {
+    "id": 685,
+    "en": "Steam is the gaseous form of water.",
+    "te": "ఆవిరి అనేది నీటి యొక్క వాయు రూపం."
+  },
+  {
+    "id": 686,
+    "en": "Ice is the solid form of water.",
+    "te": "మంచు అనేది నీటి ఘన రూపం."
+  },
+  {
+    "id": 687,
+    "en": "When ice melts, it absorbs heat from the surroundings.",
+    "te": "మంచు కరిగినప్పుడు అది పరిసరాల నుండి వేడిని గ్రహిస్తుంది."
+  },
+  {
+    "id": 688,
+    "en": "Evaporation is the process of liquid changing into vapor.",
+    "te": "బాష్పీభవనం అంటే ద్రవం ఆవిరిగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 689,
+    "en": "Condensation is the process of vapor changing into liquid.",
+    "te": "సంగ్రహణ అంటే ఆవిరి ద్రవంగా మారే ప్రక్రియ."
+  },
+  {
+    "id": 690,
+    "en": "Morning dew forms through condensation of water vapor.",
+    "te": "ఉదయం మంచు నీటి ఆవిరి సంగ్రహణ ద్వారా ఏర్పడుతుంది."
+  },
+  {
+    "id": 691,
+    "en": "Fog is tiny water droplets suspended in air.",
+    "te": "పొగమంచు అనేది గాలిలో నిలిచి ఉన్న చిన్న నీటి బిందువులు."
+  },
+  {
+    "id": 692,
+    "en": "Clouds form when water vapor condenses around dust particles.",
+    "te": "నీటి ఆవిరి ధూళి కణాల చుట్టూ సంగ్రహించినప్పుడు మేఘాలు ఏర్పడతాయి."
+  },
+  {
+    "id": 693,
+    "en": "Rain occurs when water droplets in clouds become heavy and fall.",
+    "te": "మేఘాల్లోని నీటి బిందువులు బరువుగా మారి పడినప్పుడు వర్షం కురుస్తుంది."
+  },
+  {
+    "id": 694,
+    "en": "The water cycle involves evaporation, condensation, and precipitation.",
+    "te": "నీటి చక్రంలో బాష్పీభవనం, సంగ్రహణ మరియు వర్షపాతం ఉంటాయి."
+  },
+  {
+    "id": 695,
+    "en": "Heat energy from the Sun drives the water cycle.",
+    "te": "సూర్యుడి నుండి వచ్చే ఉష్ణ శక్తి నీటి చక్రాన్ని నడిపిస్తుంది."
+  },
+  {
+    "id": 696,
+    "en": "A good conductor allows heat to pass through it easily.",
+    "te": "మంచి వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేస్తుంది."
+  },
+  {
+    "id": 697,
+    "en": "A poor conductor does not allow heat to pass through easily.",
+    "te": "చెడు వాహకం వేడిని తన గుండా సులభంగా ప్రవహింపజేయదు."
+  },
+  {
+    "id": 698,
+    "en": "Silver is the best conductor of heat among all metals.",
+    "te": "వెండి అన్ని లోహాలలో వేడికి అత్యుత్తమ వాహకం."
+  },
+  {
+    "id": 699,
+    "en": "Aluminum is a good conductor and is used in cooking utensils.",
+    "te": "అల్యూమినియం మంచి వాహకం మరియు వంట పాత్రలలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 700,
+    "en": "Iron is used to make frying pans because it conducts heat well.",
+    "te": "ఇనుము వేడిని బాగా ప్రసరింపజేస్తుంది కాబట్టి దాన్ని తావాలు తయారు చేయడానికి ఉపయోగిస్తారు."
+  },
+  {
+    "id": 701,
+    "en": "Steel is an alloy that combines iron with carbon.",
+    "te": "ఉక్కు అనేది ఇనుమును కార్బన్‌తో కలుపు చేసిన మిశ్రమం."
+  },
+  {
+    "id": 702,
+    "en": "Stainless steel is used in kitchenware because it resists rust.",
+    "te": "స్టెయిన్‌లెస్ స్టీల్ తుప్పును నిరోధిస్తుంది కాబట్టి వంటగది సామగ్రిలో ఉపయోగిస్తారు."
+  },
+  {
+    "id": 703,
+    "en": "Glass is a poor conductor of heat.",
+    "te": "గాజు వేడికి చెడు వాహకం."
+  },
+  {
+    "id": 704,
+    "en": "Air is one of the poorest conductors of heat.",
+    "te": "గాలి వేడికి అత్యంత చెడు వాహకాలలో ఒకటి."
+  },
+  {
+    "id": 705,
+    "en": "Wool traps air between its fibers, making it a good insulator.",
+    "te": "గొంగళి తన తంతువుల మధ్య గాలిని పట్టుకుంటుంది, దీనివల్ల అది మంచి అవాహకం అవుతుంది."
+  },
+  {
+    "id": 706,
+    "en": "Cotton clothes are suitable for summer because they allow air circulation.",
+    "te": "కాటన్ బట్టలు వేసవికి అనువుగా ఉంటాయి ఎందుకంటే అవి గాలి ప్రసరణను అనుమతిస్తాయి."
+  },
+  {
+    "id": 707,
+    "en": "Synthetic fabrics may not breathe as well as natural fibers.",
+    "te": "సింథటిక్ బట్టలు సహజ తంతువుల వలె ఊపిరి పోయనివి కావచ్చు."
+  },
+  {
+    "id": 708,
+    "en": "Double-walled containers reduce heat transfer through the air gap.",
+    "te": "రెండు గోడల కంటైనర్లు గాలి అంతరం ద్వారా వేడి బదిలీని తగ్గిస్తాయి."
+  },
+  {
+    "id": 709,
+    "en": "A vacuum flask keeps liquids hot or cold for many hours.",
+    "te": "వాక్యూమ్ ఫ్లాస్క్ ద్రవాలను చాలా గంటలు వేడిగా లేదా చల్లగా ఉంచుతుంది."
+  },
+  {
+    "id": 710,
+    "en": "The shiny inner surface of a flask reflects radiation back.",
+    "te": "ఫ్లాస్క్ యొక్క మెరుస్తున్న లోపలి ఉపరితలం వికిరణాన్ని తిరిగి ప్రతిబింబిస్తుంది."
+  },
+  {
+    "id": 711,
+    "en": "Handles of cooking pots are made of plastic or wood to prevent burns.",
+    "te": "వంట పాత్రల హ్యాండిళ్ళు కాలిపోకుండా నిరోధించడానికి ప్లాస్టిక్ లేదా చెక్కతో తయారు చేస్తారు."
+  },
+  {
+    "id": 712,
+    "en": "When cooking, always use pot holders to avoid burns.",
+    "te": "వంట చేసేటప్పుడు కాలిపోకుండా ఎల్లప్పుడూ పాట్ హోల్డర్లను ఉపయోగించండి."
+  },
+  {
+    "id": 713,
+    "en": "Hot oil can cause severe burns, so handle it carefully.",
+    "te": "వేడి నూనె తీవ్రమైన కాలుపులు కలిగించగలదు, కాబట్టి దాన్ని జాగ్రత్తగా నిర్వహించండి."
+  },
+  {
+    "id": 714,
+    "en": "Fire requires fuel, oxygen, and heat to burn.",
+    "te": "అగ్ని మండాలంటే ఇంధనం, ఆక్సిజన్ మరియు వేడి అవసరం."
+  },
+  {
+    "id": 715,
+    "en": "Removing any one of these three stops the fire.",
+    "te": "ఈ మూడింటిలో ఏదైనా ఒకటి తీసివేస్తే అగ్ని ఆగిపోతుంది."
+  },
+  {
+    "id": 716,
+    "en": "Water cools the fire and removes heat.",
+    "te": "నీరు అగ్నిని చల్లబరుస్తుంది మరియు వేడిని తొలగిస్తుంది."
+  },
+  {
+    "id": 717,
+    "en": "A fire blanket cuts off oxygen supply to the flames.",
+    "te": "ఫైర్ బ్లాంకెట్ మంటలకు ఆక్సిజన్ సరఫరాను నిలిపివేస్తుంది."
+  },
+  {
+    "id": 718,
+    "en": "Carbon dioxide fire extinguishers work by displacing oxygen.",
+    "te": "కార్బన్ డయాక్సైడ్ ఫైర్ ఎక్స్‌టింగ్విషర్లు ఆక్సిజన్‌ను తొలగించడం ద్వారా పనిచేస్తాయి."
+  },
+  {
+    "id": 719,
+    "en": "Never use water on an electrical fire.",
+    "te": "విద్యుత్ అగ్నిపై ఎప్పుడూ నీటిని ఉపయోగించవద్దు."
+  },
+  {
+    "id": 720,
+    "en": "Oil fires should be smothered, not doused with water.",
+    "te": "నూనె మంటలు అణచివేయాలి, నీటితో ఆర్పకూడదు."
+  },
+  {
+    "id": 721,
+    "en": "A smoke detector warns you when there is smoke in the house.",
+    "te": "ఇంట్లో పొగ ఉన్నప్పుడు స్మోక్ డిటెక్టర్ మిమ్మల్ని హెచ్చరిస్తుంది."
+  },
+  {
+    "id": 722,
+    "en": "Every home should have a fire escape plan.",
+    "te": "ప్రతి ఇంట్లో ఫైర్ ఎస్కేప్ ప్లాన్ ఉండాలి."
+  },
+  {
+    "id": 723,
+    "en": "In case of fire, crawl low under smoke to breathe cleaner air.",
+    "te": "అగ్ని విషయంలో శుద్ధమైన గాలిని పీల్చడానికి పొగ కింద తక్కువగా క్రాల్ చేయండి."
+  },
+  {
+    "id": 724,
+    "en": "Heat makes substances expand.",
+    "te": "వేడి పదార్థాలను విస్తరింపజేస్తుంది."
+  },
+  {
+    "id": 725,
+    "en": "When a metal rod is heated, it becomes longer.",
+    "te": "లోహపు కడ్డీని వేడి చేసినప్పుడు అది పొడవుగా మారుతుంది."
+  },
+  {
+    "id": 726,
+    "en": "Railway tracks have gaps to allow for expansion in summer.",
+    "te": "రైల్వే ట్రాక్‌లలో వేసవిలో విస్తరణకు అనుమతి ఇవ్వడానికి గ్యాప్‌లు ఉంటాయి."
+  },
+  {
+    "id": 727,
+    "en": "Bridges have expansion joints to accommodate temperature changes.",
+    "te": "వంతెనలు ఉష్ణోగ్రత మార్పులను సరిచేయడానికి విస్తరణ జాయింట్లను కలిగి ఉంటాయి."
+  },
+  {
+    "id": 728,
+    "en": "A bimetallic strip bends when heated because the two metals expand differently.",
+    "te": "రెండు లోహాలు భిన్నంగా విస్తరిస్తాయి కాబట్టి బైమెటాలిక్ స్ట్రిప్ వేడి చేసినప్పుడు వంగుతుంది."
+  },
+  {
+    "id": 729,
+    "en": "Thermostats use bimetallic strips to control temperature.",
+    "te": "థర్మోస్టాట్‌లు ఉష్ణోగ్రతను నియంత్రించడానికి బైమెటాలిక్ స్ట్రిప్‌లను ఉపయోగిస్తాయి."
+  },
+  {
+    "id": 730,
+    "en": "Liquids expand more than solids when heated.",
+    "te": "వేడి చేసినప్పుడు ద్రవాలు ఘన పదార్థాల కంటే ఎక్కువ విస్తరిస్తాయి."
+  },
+  {
+    "id": 731,
+    "en": "Gases expand even more than liquids when heated.",
+    "te": "వేడి చేసినప్పుడు వాయువులు ద్రవాల కంటే మరింత విస్తరిస్తాయి."
+  },
+  {
+    "id": 732,
+    "en": "A hot air balloon rises because hot air is less dense than cool air.",
+    "te": "వేడి గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉన్నందున వేడి గాలి బుడగ పైకి లేస్తుంది."
+  },
+  {
+    "id": 733,
+    "en": "Density is the mass per unit volume of a substance.",
+    "te": "సాంద్రత అనేది పదార్థం యొక్క యూనిట్ వాల్యూమ్‌కు ద్రవ్యరాశి."
+  },
+  {
+    "id": 734,
+    "en": "When a substance expands, its density decreases.",
+    "te": "పదార్థం విస్తరించినప్పుడు దాని సాంద్రత తగ్గుతుంది."
+  },
+  {
+    "id": 735,
+    "en": "Water is unusual because it expands when it freezes.",
+    "te": "నీరు గడ్డకట్టినప్పుడు విస్తరిస్తుంది కాబట్టి అది అసాధారణమైనది."
+  },
+  {
+    "id": 736,
+    "en": "Ice floats on water because it is less dense.",
+    "te": "మంచు తక్కువ సాంద్రత కలిగి ఉన్నందున నీటిపై తేలుతుంది."
+  },
+  {
+    "id": 737,
+    "en": "This property of water helps aquatic life survive in winter.",
+    "te": "నీటి యొక్క ఈ లక్షణం చలికాలంలో జల జీవులు జీవించడానికి సహాయపడుతుంది."
+  },
+  {
+    "id": 738,
+    "en": "Pipes can burst in winter if water inside them freezes.",
+    "te": "వాటి లోపల నీరు గడ్డకట్టినట్లయితే చలికాలంలో పైపులు పగలవచ్చు."
+  },
+  {
+    "id": 739,
+    "en": "Sea breezes occur because land heats up faster than water.",
+    "te": "భూమి నీటి కంటే వేగంగా వేడెక్కుతుంది కాబట్టి సముద్ర గాలులు సంభవిస్తాయి."
+  },
+  {
+    "id": 740,
+    "en": "During the day, cool air from the sea moves towards the hot land.",
+    "te": "పగటిపూట సముద్రం నుండి చల్లని గాలి వేడి భూమి వైపుకు కదులుతుంది."
+  },
+  {
+    "id": 741,
+    "en": "At night, land cools faster, and air moves from land to sea.",
+    "te": "రాత్రి సమయంలో భూమి వేగంగా చల్లబడుతుంది మరియు గాలి భూమి నుండి సముద్రానికి కదులుతుంది."
+  },
+  {
+    "id": 742,
+    "en": "Land breezes are cooler than sea breezes.",
+    "te": "భూ గాలులు సముద్ర గాలుల కంటే చల్లగా ఉంటాయి."
+  },
+  {
+    "id": 743,
+    "en": "Wind is caused by differences in air pressure.",
+    "te": "గాలి పీడన వ్యత్యాసాల వల్ల గాలి ఏర్పడుతుంది."
+  },
+  {
+    "id": 744,
+    "en": "Air moves from high pressure areas to low pressure areas.",
+    "te": "గాలి అధిక పీడన ప్రాంతాల నుండి తక్కువ పీడన ప్రాంతాలకు కదులుతుంది."
+  },
+  {
+    "id": 745,
+    "en": "The Sun heats different parts of Earth unevenly.",
+    "te": "సూర్యుడు భూమి యొక్క వివిధ భాగాలను అసమానంగా వేడి చేస్తాడు."
+  },
+  {
+    "id": 746,
+    "en": "The equator receives more direct sunlight than the poles.",
+    "te": "భూమధ్య రేఖ ధ్రువాల కంటే ఎక్కువ ప్రత్యక్ష సూర్య కాంతిని పొందుతుంది."
+  },
+  {
+    "id": 747,
+    "en": "This creates global wind patterns and weather systems.",
+    "te": "ఇది ప్రపంచ గాలి నమూనాలు మరియు వాతావరణ వ్యవస్థలను సృష్టిస్తుంది."
+  },
+  {
+    "id": 748,
+    "en": "Greenhouse gases trap heat in Earth's atmosphere.",
+    "te": "గ్రీన్‌హౌస్ వాయువులు భూమి యొక్క వాతావరణంలో వేడిని బంధిస్తాయి."
+  },
+  {
+    "id": 749,
+    "en": "The greenhouse effect keeps Earth warm enough for life.",
+    "te": "గ్రీన్‌హౌస్ ప్రభావం భూమిని జీవితానికి తగినంత వేడిగా ఉంచుతుంది."
+  },
+  {
+    "id": 750,
+    "en": "Too many greenhouse gases cause global warming.",
+    "te": "చాలా ఎక్కువ గ్రీన్‌హౌస్ వాయువులు గ్లోబల్ వార్మింగ్‌కు కారణమవుతాయి."
+  },
+  {
+    "id": 751,
+    "en": "Carbon dioxide is a major greenhouse gas.",
+    "te": "కార్బన్ డయాక్సైడ్ ఒక ప్రధాన గ్రీన్‌హౌస్ వాయువు."
+  }
+]

@@ -3753,5 +3753,105 @@
     "id": 751,
     "en": "Carbon dioxide is a major greenhouse gas.",
     "te": "కార్బన్ డయాక్సైడ్ ఒక ప్రధాన గ్రీన్‌హౌస్ వాయువు."
+  },
+  {
+    "id": 752,
+    "en": "When you stir hot tea with a metal spoon, heat travels up the spoon by conduction.",
+    "te": "మీరు వేడి టీలో లోహపు చెంచాతో కలిపినప్పుడు, వేడి ప్రసరణ ద్వారా చెంచా పైకి ప్రయాణిస్తుంది."
+  },
+  {
+    "id": 753,
+    "en": "Clay pots keep water cool because they allow evaporation.",
+    "te": "మట్టి కుండలు నీటిని చల్లగా ఉంచుతాయి ఎందుకంటే అవి ఆవిరిని అనుమతిస్తాయి."
+  },
+  {
+    "id": 754,
+    "en": "Dark colored clothes absorb more heat from the sun than light colored clothes.",
+    "te": "ముదురు రంగు దుస్తులు తేలికైన రంగు దుస్తుల కంటే సూర్యుని నుండి ఎక్కువ వేడిని గ్రహిస్తాయి."
+  },
+  {
+    "id": 755,
+    "en": "In summer, we wear white clothes because they reflect sunlight.",
+    "te": "వేసవిలో, మనం తెల్ల దుస్తులు ధరిస్తాము ఎందుకంటే అవి సూర్యకాంతిని ప్రతిబింబిస్తాయి."
+  },
+  {
+    "id": 756,
+    "en": "A pressure cooker cooks food faster because it increases the boiling point of water.",
+    "te": "ప్రెషర్ కుక్కర్ ఆహారాన్ని వేగంగా వండుతుంది ఎందుకంటే ఇది నీటి మరిగే స్థానాన్ని పెంచుతుంది."
+  },
+  {
+    "id": 757,
+    "en": "Land heats up faster than water during the day.",
+    "te": "పగటి సమయంలో నేల నీటి కంటే వేగంగా వేడెక్కుతుంది."
+  },
+  {
+    "id": 758,
+    "en": "Sea breezes occur because of different heating rates of land and water.",
+    "te": "నేల మరియు నీటి వేర్వేరు వేడెక్కే రేట్ల వల్ల సముద్ర గాలులు వస్తాయి."
+  },
+  {
+    "id": 759,
+    "en": "Double-walled steel bottles keep drinks hot or cold by preventing heat transfer.",
+    "te": "డబుల్-వాల్డ్ స్టీల్ బాటిల్స్ వేడి బదిలీని నిరోధించడం ద్వారా పానీయాలను వేడిగా లేదా చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 760,
+    "en": "Ceiling fans help in convection by circulating air in the room.",
+    "te": "సీలింగ్ ఫ్యాన్‌లు గదిలో గాలిని ప్రసరింపజేయడం ద్వారా ఉష్ణప్రసరణకు సహాయపడతాయి."
+  },
+  {
+    "id": 761,
+    "en": "The handle of a frying pan is made of plastic to prevent heat conduction.",
+    "te": "ఫ్రైయింగ్ పాన్ హ్యాండిల్ వేడి ప్రసరణను నిరోధించడానికి ప్లాస్టిక్‌తో చేయబడింది."
+  },
+  {
+    "id": 762,
+    "en": "Ice melts when it absorbs heat from its surroundings.",
+    "te": "మంచు తన చుట్టుపక్కల నుండి వేడిని గ్రహించినప్పుడు కరుగుతుంది."
+  },
+  {
+    "id": 763,
+    "en": "Sweating cools our body through evaporation.",
+    "te": "చెమట ఆవిరి ద్వారా మన శరీరాన్ని చల్లబరుస్తుంది."
+  },
+  {
+    "id": 764,
+    "en": "Birds fluff their feathers in winter to trap warm air for insulation.",
+    "te": "పక్షులు శీతాకాలంలో వేడి గాలిని బంధించడానికి తమ ఈకలను ఉబ్బుకుంటాయి."
+  },
+  {
+    "id": 765,
+    "en": "Frost forms when water vapor freezes directly on cold surfaces.",
+    "te": "చల్లని ఉపరితలాల మీద నీటి ఆవిరి నేరుగా గడ్డకట్టినప్పుడు మంచు ఏర్పడుతుంది."
+  },
+  {
+    "id": 766,
+    "en": "Hot air balloons rise because warm air is less dense than cool air.",
+    "te": "వేడి గాలి బుడగలు పైకి లేస్తాయి ఎందుకంటే వెచ్చని గాలి చల్లని గాలి కంటే తక్కువ సాంద్రత కలిగి ఉంటుంది."
+  },
+  {
+    "id": 767,
+    "en": "Cooking oil has a higher boiling point than water.",
+    "te": "వంట నూనె నీటి కంటే ఎక్కువ మరిగే స్థానం కలిగి ఉంటుంది."
+  },
+  {
+    "id": 768,
+    "en": "Refrigerators remove heat from inside and release it outside.",
+    "te": "రిఫ్రిజిరేటర్లు లోపలి నుండి వేడిని తొలగించి బయటకు విడుదల చేస్తాయి."
+  },
+  {
+    "id": 769,
+    "en": "Air conditioners work by absorbing heat from the room.",
+    "te": "ఎయిర్ కండిషనర్లు గది నుండి వేడిని గ్రహించడం ద్వారా పని చేస్తాయి."
+  },
+  {
+    "id": 770,
+    "en": "Thatch roofs keep houses cool because they provide natural insulation.",
+    "te": "గడ్డి కప్పులు సహజ అవాహకతను అందించడం వల్ల ఇళ్ళను చల్లగా ఉంచుతాయి."
+  },
+  {
+    "id": 771,
+    "en": "Heat energy is measured in joules or calories.",
+    "te": "వేడి శక్తిని జూల్స్ లేదా కేలరీలలో కొలుస్తారు."
   }
 ]

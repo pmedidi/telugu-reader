@@ -26,3 +26,9 @@ server.log
 .env
 .env.local
 .env.*.local
+
+# Node modules
+node_modules/
+package-lock.json
+
+.vercel

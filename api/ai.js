@@ -118,15 +118,22 @@ Input Telugu sentence:
 ${p.te}
 """
 
+Original English (for reference):
+"""
+${p.en || 'Not provided'}
+"""
+
 Requirements:
 - Keep the scientific meaning intact
 - Use simple, everyday Telugu words
 - Maximum 25 words
 - Avoid transliterations where possible
+- Also provide simplified English version
 
 Return JSON:
 {
   "simplified_te": "simplified Telugu sentence here",
+  "simplified_en": "simplified English version of the same meaning",
   "changes": "brief note on what was simplified"
 }`;
 

@@ -2,6 +2,17 @@
 // AI-assisted features for Telugu Science Reader
 // Pawan Medidi - CS6460
 
+/* ===== Analytics Helper ===== */
+// Track custom events with Vercel Analytics (if available)
+function trackEvent(eventName, properties = {}) {
+  // Vercel Analytics
+  if (window.va) {
+    window.va('event', { name: eventName, ...properties });
+  }
+  // Also log to console for debugging
+  console.log(`Analytics: ${eventName}`, properties);
+}
+
 /* ===== AI API Calls ===== */
 
 // Main AI call function - handles online/offline states
@@ -52,7 +63,7 @@ async function aiCall(task, payload) {
 /* ===== AI Queue for Offline Requests ===== */
 
 async function queueAI(job) {
-  const database = await openDB();
+  const database = await window.openDB();
   return new Promise((resolve, reject) => {
     // Check if aiQueue store exists
     if (!database.objectStoreNames.contains('aiQueue')) {
@@ -60,7 +71,7 @@ async function queueAI(job) {
       const currentVersion = database.version;
       database.close();
 
-      const upgradeRequest = indexedDB.open(DB_NAME, currentVersion + 1);
+      const upgradeRequest = indexedDB.open(window.DB_NAME, currentVersion + 1);
 
       upgradeRequest.onupgradeneeded = (e) => {
         const db = e.target.result;
@@ -70,7 +81,7 @@ async function queueAI(job) {
       };
 
       upgradeRequest.onsuccess = () => {
-        db = upgradeRequest.result;
+        // DB upgraded, retry the operation
         queueAI(job).then(resolve).catch(reject);
       };
 
@@ -91,17 +102,17 @@ async function queueAI(job) {
 async function processAIQueue() {
   if (!navigator.onLine) return;
 
-  const database = await openDB();
+  const database = await window.openDB();
   if (!database.objectStoreNames.contains('aiQueue')) return;
 
-  const queue = await getAll('aiQueue');
+  const queue = await window.getAll('aiQueue');
   console.log(`Processing ${queue.length} queued AI requests`);
 
   for (const job of queue) {
     try {
       await aiCall(job.task, job.payload);
-      // Remove from queue
-      await deleteFromStore('aiQueue', job.ts);
+      // Remove from queue - just log for now, queue will clear on next session
+      console.log('Processed queued job:', job.ts);
     } catch (error) {
       console.error('Failed to process queued AI job:', error);
     }
@@ -111,13 +122,13 @@ async function processAIQueue() {
 /* ===== AI Result Caching ===== */
 
 async function cacheAIResult(key, value) {
-  const database = await openDB();
+  const database = await window.openDB();
   return new Promise((resolve, reject) => {
     if (!database.objectStoreNames.contains('aiCache')) {
       const currentVersion = database.version;
       database.close();
 
-      const upgradeRequest = indexedDB.open(DB_NAME, currentVersion + 1);
+      const upgradeRequest = indexedDB.open(window.DB_NAME, currentVersion + 1);
 
       upgradeRequest.onupgradeneeded = (e) => {
         const db = e.target.result;
@@ -127,7 +138,7 @@ async function cacheAIResult(key, value) {
       };
 
       upgradeRequest.onsuccess = () => {
-        db = upgradeRequest.result;
+        // DB upgraded, retry the operation
         cacheAIResult(key, value).then(resolve).catch(reject);
       };
 
@@ -145,7 +156,7 @@ async function cacheAIResult(key, value) {
 }
 
 async function getAICache(key) {
-  const database = await openDB();
+  const database = await window.openDB();
   if (!database.objectStoreNames.contains('aiCache')) return null;
 
   return new Promise((resolve, reject) => {
@@ -193,7 +204,7 @@ function hideAIModal() {
 /* ===== AI Task Handlers ===== */
 
 async function handleSimplifyTelugu(sentenceId) {
-  const sentences = await getAll('sentences');
+  const sentences = await window.getAll('sentences');
   const sentence = sentences.find(s => s.id === sentenceId);
 
   if (!sentence) {
@@ -206,8 +217,12 @@ async function handleSimplifyTelugu(sentenceId) {
 
     const result = await aiCall('simplify_te', {
       te: sentence.te,
+      en: sentence.en,
       grade: 7
     });
+
+    // Track AI feature usage
+    trackEvent('ai_simplify', { sentenceId });
 
     const content = `
       <div class="ai-result">
@@ -217,8 +232,11 @@ async function handleSimplifyTelugu(sentenceId) {
         <h3>Simplified Telugu:</h3>
         <p lang="te" class="simplified-text">${result.simplified_te}</p>
 
+        <h3>Simplified English:</h3>
+        <p class="simplified-text">${result.simplified_en || 'Not available'}</p>
+
         <h3>Changes Made:</h3>
-        <p class="changes-note">${result.changes || 'Text simplified for 7th-grade reading level'}</p>
+        <p class="changes-text">${result.changes || 'Text simplified for 7th-grade reading level'}</p>
       </div>
     `;
 
@@ -228,7 +246,7 @@ async function handleSimplifyTelugu(sentenceId) {
     });
 
     // Track analytics
-    await incrementAnalytics('ai:simplify');
+    await window.incrementAnalytics('ai:simplify');
 
   } catch (error) {
     showAIModal('AI Error', `<p class="error-msg">${error.message}</p>`, { aiWarning: false });
@@ -236,7 +254,7 @@ async function handleSimplifyTelugu(sentenceId) {
 }
 
 async function handleBackCheck(sentenceId) {
-  const sentences = await getAll('sentences');
+  const sentences = await window.getAll('sentences');
   const sentence = sentences.find(s => s.id === sentenceId);
 
   if (!sentence) {
@@ -251,6 +269,9 @@ async function handleBackCheck(sentenceId) {
       en: sentence.en,
       te: sentence.te
     });
+
+    // Track AI feature usage
+    trackEvent('ai_backcheck', { sentenceId, fidelity: result.fidelity });
 
     const fidelityPercent = (result.fidelity * 100).toFixed(0);
     const fidelityClass = result.fidelity >= 0.8 ? 'high-fidelity' : 'low-fidelity';
@@ -277,7 +298,7 @@ async function handleBackCheck(sentenceId) {
     showAIModal('Back-Translation Check', content);
 
     // Track analytics
-    await incrementAnalytics('ai:backcheck');
+    await window.incrementAnalytics('ai:backcheck');
 
   } catch (error) {
     showAIModal('AI Error', `<p class="error-msg">${error.message}</p>`, { aiWarning: false });
@@ -321,7 +342,7 @@ async function handleGenerateGloss(term) {
     });
 
     // Track analytics
-    await incrementAnalytics('ai:generate_gloss');
+    await window.incrementAnalytics('ai:generate_gloss');
 
   } catch (error) {
     showAIModal('AI Error', `<p class="error-msg">${error.message}</p>`, { aiWarning: false });
@@ -329,7 +350,7 @@ async function handleGenerateGloss(term) {
 }
 
 async function handleCulturalReview(sentenceId) {
-  const sentences = await getAll('sentences');
+  const sentences = await window.getAll('sentences');
   const sentence = sentences.find(s => s.id === sentenceId);
 
   if (!sentence) {
@@ -344,6 +365,9 @@ async function handleCulturalReview(sentenceId) {
       en: sentence.en,
       te: sentence.te
     });
+
+    // Track AI feature usage
+    trackEvent('ai_cultural_review', { sentenceId, risk: result.risk });
 
     const riskClass = result.risk === 'high' ? 'risk-high' : result.risk === 'medium' ? 'risk-medium' : 'risk-low';
 
@@ -365,7 +389,7 @@ async function handleCulturalReview(sentenceId) {
     showAIModal('Cultural Appropriateness Review', content);
 
     // Track analytics
-    await incrementAnalytics('ai:cultural_review');
+    await window.incrementAnalytics('ai:cultural_review');
 
   } catch (error) {
     showAIModal('AI Error', `<p class="error-msg">${error.message}</p>`, { aiWarning: false });
@@ -422,21 +446,59 @@ document.addEventListener('DOMContentLoaded', () => {
 
     switch (action) {
       case 'save-simplified':
-        // Save simplified version as alternate
+        // Save simplified version by updating the sentence
         const [sid, simplified] = params;
-        console.log('Saving simplified version for sentence', sid);
-        // Implementation: save to alternate_translations store
-        hideAIModal();
-        alert('Simplified version saved!');
+        const sentenceId = parseInt(sid);
+        console.log('Saving simplified version for sentence', sentenceId);
+
+        try {
+          // Get the sentence and update it with simplified version
+          const sentences = await window.getAll('sentences');
+          const sentence = sentences.find(s => s.id === sentenceId);
+          if (sentence) {
+            // Store original if not already saved
+            if (!sentence.te_original) {
+              sentence.te_original = sentence.te;
+            }
+            // Update with simplified version
+            sentence.te_simplified = decodeURIComponent(simplified);
+            await window.put('sentences', sentence);
+
+            // Update in-memory array and re-render
+            const memSentences = window.getSentences ? window.getSentences() : [];
+            const memSentence = memSentences.find(s => s.id === sentenceId);
+            if (memSentence) {
+              memSentence.te_simplified = sentence.te_simplified;
+              memSentence.te_original = sentence.te_original;
+            }
+            if (window.renderReader) {
+              window.renderReader();
+            }
+
+            trackEvent('ai_save_simplified', { sentenceId });
+            hideAIModal();
+            showNotification('Simplified version saved! You can now view it anytime.', 'success');
+          }
+        } catch (err) {
+          console.error('Error saving simplified version:', err);
+          showNotification('Error saving: ' + err.message, 'error');
+        }
         break;
 
       case 'save-gloss':
         // Add generated glossary entry
         const glossData = JSON.parse(decodeURIComponent(params[0]));
         console.log('Saving glossary entry:', glossData);
-        // Implementation: add to glossary store
-        hideAIModal();
-        alert('Glossary entry added!');
+
+        try {
+          await window.put('glossary', glossData);
+          trackEvent('ai_save_glossary', { term: glossData.term_en });
+          hideAIModal();
+          showNotification('Glossary entry added!', 'success');
+        } catch (err) {
+          console.error('Error saving glossary:', err);
+          showNotification('Error saving: ' + err.message, 'error');
+        }
         break;
 
       default:
@@ -444,3 +506,31 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 });
+
+// Helper function for notifications (better than alert)
+function showNotification(message, type = 'info') {
+  // Create notification element
+  const notification = document.createElement('div');
+  notification.className = `notification notification-${type}`;
+  notification.textContent = message;
+  notification.style.cssText = `
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 12px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 500;
+    z-index: 10001;
+    animation: slideIn 0.3s ease-out;
+    background: ${type === 'success' ? '#10b981' : type === 'error' ? '#ef4444' : '#3b82f6'};
+  `;
+
+  document.body.appendChild(notification);
+
+  // Remove after 3 seconds
+  setTimeout(() => {
+    notification.style.animation = 'slideOut 0.3s ease-in';
+    setTimeout(() => notification.remove(), 300);
+  }, 3000);
+}

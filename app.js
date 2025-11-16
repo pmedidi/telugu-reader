@@ -7,10 +7,20 @@ const DB_VERSION = 1;
 let db;
 
 async function openDB() {
-  if (db) return db;
+  // If db exists but connection is closed, reset it
+  if (db) {
+    try {
+      // Test if connection is still valid by checking objectStoreNames
+      db.objectStoreNames;
+      return db;
+    } catch (e) {
+      // Connection was closed/invalidated, reset
+      db = null;
+    }
+  }
 
   return new Promise((resolve, reject) => {
-    const request = indexedDB.open(DB_NAME, DB_VERSION);
+    const request = indexedDB.open(DB_NAME);
 
     request.onerror = () => reject(request.error);
     request.onsuccess = () => {
@@ -88,41 +98,61 @@ async function get(storeName, key) {
   });
 }
 
+// Expose IndexedDB functions globally for ai-helpers.js
+window.getAll = getAll;
+window.put = put;
+window.add = add;
+window.get = get;
+window.openDB = openDB;
+window.DB_NAME = DB_NAME;
+window.DB_VERSION = DB_VERSION;
+
 /* ===== App State ===== */
 let sentences = [];
 let glossary = {};
 let primaryLang = 'en'; // 'en' or 'te'
+let allSentencesData = []; // Full data from JSON (for lazy loading)
+let isLoading = false;
+const PAGE_SIZE = 20;
+
+// Expose sentences array getter for ai-helpers.js
+window.getSentences = () => sentences;
 
 /* ===== Bootstrap & Data Seeding ===== */
+
 async function bootstrap() {
   try {
     await openDB();
 
-    // Check if data exists
-    const existingSentences = await getAll('sentences');
+    // Load sentences JSON directly (no IndexedDB seeding for sentences)
+    console.log('Loading sentences...');
+    const sentencesResponse = await fetch('/data/sentences.json');
+    allSentencesData = await sentencesResponse.json();
+    console.log(`Loaded ${allSentencesData.length} sentences`);
+
+    // Load first page of sentences
+    sentences = allSentencesData.slice(0, PAGE_SIZE);
+
+    // Load glossary (still need this for term highlighting)
     const existingGlossary = await getAll('glossary');
-
-    // Seed if empty
-    if (existingSentences.length === 0) {
-      console.log('Seeding sentences...');
-      const response = await fetch('/data/sentences.json');
-      const data = await response.json();
-      for (const sentence of data) {
-        await put('sentences', sentence);
-      }
-    }
-
     if (existingGlossary.length === 0) {
       console.log('Seeding glossary...');
       const response = await fetch('/data/glossary.json');
       const data = await response.json();
-      for (const term of data) {
-        await put('glossary', term);
-      }
+      // Batch insert glossary
+      const database = await openDB();
+      await new Promise((resolve, reject) => {
+        const tx = database.transaction('glossary', 'readwrite');
+        const store = tx.objectStore('glossary');
+        for (const item of data) {
+          store.put(item);
+        }
+        tx.oncomplete = () => resolve();
+        tx.onerror = () => reject(tx.error);
+      });
+      console.log(`Seeded ${data.length} glossary terms`);
     }
 
-    // Load data into memory
-    sentences = await getAll('sentences');
     const glossaryArray = await getAll('glossary');
     glossary = Object.fromEntries(glossaryArray.map(t => [t.term_en.toLowerCase(), t]));
 
@@ -131,54 +161,134 @@ async function bootstrap() {
     populateSentenceSelect();
     renderTopTerms();
 
+    // Setup infinite scroll
+    setupInfiniteScroll();
+
   } catch (err) {
     console.warn('Bootstrap error:', err);
   }
 }
 
+// Load more sentences when scrolling
+function loadMoreSentences() {
+  if (isLoading || sentences.length >= allSentencesData.length) return;
+
+  isLoading = true;
+  const nextBatch = allSentencesData.slice(sentences.length, sentences.length + PAGE_SIZE);
+
+  if (nextBatch.length > 0) {
+    sentences = sentences.concat(nextBatch);
+    appendSentences(nextBatch);
+    console.log(`Loaded ${sentences.length}/${allSentencesData.length} sentences`);
+  }
+
+  isLoading = false;
+}
+
+// Append new sentences to the reader (without re-rendering all)
+function appendSentences(newSentences) {
+  const reader = document.getElementById('reader');
+
+  newSentences.forEach(s => {
+    const pair = createSentencePair(s);
+    reader.appendChild(pair);
+  });
+
+  updateLoadMoreButton();
+}
+
+// Setup infinite scroll listener
+function setupInfiniteScroll() {
+  // Add "Load More" button
+  const loadMoreBtn = document.createElement('button');
+  loadMoreBtn.id = 'loadMoreBtn';
+  loadMoreBtn.textContent = `Load More (${sentences.length}/${allSentencesData.length})`;
+  loadMoreBtn.className = 'load-more-btn';
+  loadMoreBtn.addEventListener('click', loadMoreSentences);
+  document.getElementById('reader').after(loadMoreBtn);
+
+  // Also load on scroll near bottom
+  window.addEventListener('scroll', () => {
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 500) {
+      loadMoreSentences();
+    }
+  });
+}
+
+function updateLoadMoreButton() {
+  const btn = document.getElementById('loadMoreBtn');
+  if (btn) {
+    if (sentences.length >= allSentencesData.length) {
+      btn.textContent = 'All sentences loaded';
+      btn.disabled = true;
+    } else {
+      btn.textContent = `Load More (${sentences.length}/${allSentencesData.length})`;
+    }
+  }
+}
+
 /* ===== Reader Rendering ===== */
+
+// Create a single sentence pair element
+function createSentencePair(s) {
+  const pair = document.createElement('div');
+  pair.className = 'sentence-pair';
+  pair.id = `sentence-${s.id}`;
+
+  const enDiv = document.createElement('div');
+  enDiv.className = `sentence ${primaryLang === 'en' ? 'primary' : 'secondary'}`;
+  enDiv.lang = 'en';
+  enDiv.innerHTML = wrapTerms(s.en);
+
+  const teDiv = document.createElement('div');
+  teDiv.className = `sentence ${primaryLang === 'te' ? 'primary' : 'secondary'}`;
+  teDiv.lang = 'te';
+  teDiv.textContent = s.te;
+
+  // Show simplified badge if available
+  if (s.te_simplified) {
+    const simplifiedBadge = document.createElement('div');
+    simplifiedBadge.className = 'simplified-badge';
+    simplifiedBadge.innerHTML = `
+      <span class="badge-icon">✓ Simplified version available</span>
+      <button class="view-simplified-btn" data-sid="${s.id}">View</button>
+    `;
+    teDiv.appendChild(simplifiedBadge);
+  }
+
+  // Add AI tools menu
+  const aiTools = document.createElement('div');
+  aiTools.className = 'ai-tools';
+  aiTools.innerHTML = `
+    <button class="ai-btn" data-action="simplify" data-sid="${s.id}" title="Simplify Telugu text for 7th grade">
+      🪄 Simplify
+    </button>
+    <button class="ai-btn" data-action="backcheck" data-sid="${s.id}" title="Check translation accuracy">
+      🔄 Back-check
+    </button>
+    <button class="ai-btn" data-action="cultural" data-sid="${s.id}" title="Review cultural appropriateness">
+      🌍 Cultural
+    </button>
+  `;
+
+  if (primaryLang === 'en') {
+    pair.appendChild(enDiv);
+    pair.appendChild(teDiv);
+  } else {
+    pair.appendChild(teDiv);
+    pair.appendChild(enDiv);
+  }
+
+  pair.appendChild(aiTools);
+  return pair;
+}
+
 function renderReader() {
   const reader = document.getElementById('reader');
   reader.innerHTML = '';
 
   sentences.forEach(s => {
-    const pair = document.createElement('div');
-    pair.className = 'sentence-pair';
-
-    const enDiv = document.createElement('div');
-    enDiv.className = `sentence ${primaryLang === 'en' ? 'primary' : 'secondary'}`;
-    enDiv.lang = 'en';
-    enDiv.innerHTML = wrapTerms(s.en);
-
-    const teDiv = document.createElement('div');
-    teDiv.className = `sentence ${primaryLang === 'te' ? 'primary' : 'secondary'}`;
-    teDiv.lang = 'te';
-    teDiv.textContent = s.te;
-
-    // Add AI tools menu
-    const aiTools = document.createElement('div');
-    aiTools.className = 'ai-tools';
-    aiTools.innerHTML = `
-      <button class="ai-btn" data-action="simplify" data-sid="${s.id}" title="Simplify Telugu text for 7th grade">
-        🪄 Simplify
-      </button>
-      <button class="ai-btn" data-action="backcheck" data-sid="${s.id}" title="Check translation accuracy">
-        🔄 Back-check
-      </button>
-      <button class="ai-btn" data-action="cultural" data-sid="${s.id}" title="Review cultural appropriateness">
-        🌍 Cultural
-      </button>
-    `;
-
-    if (primaryLang === 'en') {
-      pair.appendChild(enDiv);
-      pair.appendChild(teDiv);
-    } else {
-      pair.appendChild(teDiv);
-      pair.appendChild(enDiv);
-    }
-
-    pair.appendChild(aiTools);
+    const pair = createSentencePair(s);
     reader.appendChild(pair);
   });
 
@@ -242,9 +352,14 @@ function openGlossary(termKey) {
   panel.hidden = false;
   document.getElementById('closeGlossary').focus();
 
-  // Track analytics
+  // Track analytics (local IndexedDB)
   incrementAnalytics(`gloss:${term.term_en}`);
   renderTopTerms();
+
+  // Track with Vercel Analytics (if available)
+  if (window.va) {
+    window.va('event', { name: 'glossary_lookup', term: term.term_en });
+  }
 }
 
 function closeGlossary() {
@@ -264,6 +379,38 @@ async function incrementAnalytics(key) {
     console.warn('Analytics error:', err);
   }
 }
+
+// Expose incrementAnalytics globally for ai-helpers.js
+window.incrementAnalytics = incrementAnalytics;
+
+// Show saved simplified version
+function showSimplifiedModal(sentence) {
+  const panel = document.getElementById('glossaryPanel');
+  const contentDiv = document.getElementById('glossaryContent');
+
+  const html = `
+    <h2>Saved Simplified Version</h2>
+    <div class="ai-result">
+      <h3>Original Telugu:</h3>
+      <p lang="te" class="original-text">${sentence.te_original || sentence.te}</p>
+
+      <h3>Simplified Telugu:</h3>
+      <p lang="te" class="simplified-text">${sentence.te_simplified}</p>
+
+      <h3>Original English:</h3>
+      <p class="original-text">${sentence.en}</p>
+    </div>
+  `;
+
+  contentDiv.innerHTML = html;
+  panel.hidden = false;
+  document.getElementById('closeGlossary').focus();
+}
+
+// Expose for ai-helpers.js
+window.showSimplifiedModal = showSimplifiedModal;
+window.renderReader = renderReader;
+window.sentences = sentences;
 
 async function renderTopTerms() {
   try {
@@ -360,6 +507,14 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('reader').addEventListener('click', (e) => {
     if (e.target.classList.contains('term')) {
       openGlossary(e.target.dataset.term);
+    }
+    // View simplified version
+    if (e.target.classList.contains('view-simplified-btn')) {
+      const sid = parseInt(e.target.dataset.sid);
+      const sentence = sentences.find(s => s.id === sid);
+      if (sentence && sentence.te_simplified) {
+        showSimplifiedModal(sentence);
+      }
     }
   });
 

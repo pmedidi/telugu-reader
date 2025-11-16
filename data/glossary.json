@@ -4762,5 +4762,101 @@
       "Example 1 for term 392",
       "Example 2 for term 392"
     ]
+  },
+  {
+    "term_en": "evaporation",
+    "term_te": "ఆవిరి (ఎవాపరేషన్)",
+    "defs": [
+      "The process where liquid turns into gas at the surface",
+      "Causes cooling because heat is absorbed from surroundings"
+    ],
+    "examples": [
+      "Wet clothes drying in the sun",
+      "Clay pot keeping water cool through surface evaporation"
+    ]
+  },
+  {
+    "term_en": "boiling point",
+    "term_te": "మరిగే స్థానం (బాయిలింగ్ పాయింట్)",
+    "defs": [
+      "Temperature at which a liquid turns into gas throughout",
+      "Water boils at 100°C at normal atmospheric pressure"
+    ],
+    "examples": [
+      "Water boiling in a pot at 100°C",
+      "Pressure cooker increasing boiling point to cook faster"
+    ]
+  },
+  {
+    "term_en": "density",
+    "term_te": "సాంద్రత (డెన్సిటీ)",
+    "defs": [
+      "Amount of mass packed into a given volume",
+      "Hot air is less dense than cold air"
+    ],
+    "examples": [
+      "Hot air balloons rise because warm air is less dense",
+      "Oil floats on water because it is less dense"
+    ]
+  },
+  {
+    "term_en": "joule",
+    "term_te": "జూల్ (జౌల్)",
+    "defs": [
+      "SI unit for measuring energy including heat",
+      "One joule equals the energy needed to lift 100 grams by 1 meter"
+    ],
+    "examples": [
+      "The energy in food is often measured in kilojoules",
+      "A small apple contains about 400,000 joules of energy"
+    ]
+  },
+  {
+    "term_en": "calorie",
+    "term_te": "కేలరీ (కాలరీ)",
+    "defs": [
+      "Unit of heat energy equal to 4.184 joules",
+      "Amount of heat needed to raise 1 gram of water by 1°C"
+    ],
+    "examples": [
+      "Food labels show energy content in calories",
+      "One glass of milk has about 150 calories"
+    ]
+  },
+  {
+    "term_en": "freezing",
+    "term_te": "గడ్డకట్టడం (ఫ్రీజింగ్)",
+    "defs": [
+      "Process where liquid changes to solid state",
+      "Occurs when heat is removed from a liquid"
+    ],
+    "examples": [
+      "Water freezing into ice at 0°C",
+      "Frost forming on cold surfaces"
+    ]
+  },
+  {
+    "term_en": "refrigerator",
+    "term_te": "రిఫ్రిజిరేటర్ (ఫ్రిడ్జ్)",
+    "defs": [
+      "Appliance that removes heat from inside to keep things cool",
+      "Uses evaporation and condensation cycle to transfer heat"
+    ],
+    "examples": [
+      "Keeping milk fresh in the fridge",
+      "Freezer section for making ice"
+    ]
+  },
+  {
+    "term_en": "specific heat",
+    "term_te": "విశిష్ట ఉష్ణం (స్పెసిఫిక్ హీట్)",
+    "defs": [
+      "Amount of heat needed to raise temperature of 1 kg by 1°C",
+      "Different materials have different specific heat values"
+    ],
+    "examples": [
+      "Water has high specific heat, so it heats slowly",
+      "Land has lower specific heat than water, so it heats faster"
+    ]
   }
 ]

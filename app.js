@@ -12,7 +12,13 @@ async function openDB() {
     try {
       // Test if connection is still valid by checking objectStoreNames
       db.objectStoreNames;
-      return db;
+      // Also verify required stores exist
+      if (!db.objectStoreNames.contains('glossary') || !db.objectStoreNames.contains('analytics')) {
+        db.close();
+        db = null;
+      } else {
+        return db;
+      }
     } catch (e) {
       // Connection was closed/invalidated, reset
       db = null;
@@ -20,12 +26,37 @@ async function openDB() {
   }
 
   return new Promise((resolve, reject) => {
-    const request = indexedDB.open(DB_NAME);
+    // Open with version to ensure onupgradeneeded runs if stores are missing
+    const request = indexedDB.open(DB_NAME, DB_VERSION);
 
     request.onerror = () => reject(request.error);
     request.onsuccess = () => {
       db = request.result;
-      resolve(db);
+      // Check if stores exist, if not we need to upgrade
+      if (!db.objectStoreNames.contains('glossary')) {
+        db.close();
+        // Force version upgrade
+        const upgradeRequest = indexedDB.open(DB_NAME, db.version + 1);
+        upgradeRequest.onupgradeneeded = (e) => {
+          const database = e.target.result;
+          if (!database.objectStoreNames.contains('glossary')) {
+            database.createObjectStore('glossary', { keyPath: 'term_en' });
+          }
+          if (!database.objectStoreNames.contains('analytics')) {
+            database.createObjectStore('analytics', { keyPath: 'key' });
+          }
+          if (!database.objectStoreNames.contains('feedback')) {
+            database.createObjectStore('feedback', { keyPath: 'id', autoIncrement: true });
+          }
+        };
+        upgradeRequest.onsuccess = () => {
+          db = upgradeRequest.result;
+          resolve(db);
+        };
+        upgradeRequest.onerror = () => reject(upgradeRequest.error);
+      } else {
+        resolve(db);
+      }
     };
 
     request.onupgradeneeded = (e) => {

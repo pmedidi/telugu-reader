@@ -204,7 +204,8 @@ function hideAIModal() {
 /* ===== AI Task Handlers ===== */
 
 async function handleSimplifyTelugu(sentenceId) {
-  const sentences = await window.getAll('sentences');
+  // Use in-memory sentences array (from lazy loading)
+  const sentences = window.getSentences ? window.getSentences() : await window.getAll('sentences');
   const sentence = sentences.find(s => s.id === sentenceId);
 
   if (!sentence) {
@@ -254,7 +255,8 @@ async function handleSimplifyTelugu(sentenceId) {
 }
 
 async function handleBackCheck(sentenceId) {
-  const sentences = await window.getAll('sentences');
+  // Use in-memory sentences array (from lazy loading)
+  const sentences = window.getSentences ? window.getSentences() : await window.getAll('sentences');
   const sentence = sentences.find(s => s.id === sentenceId);
 
   if (!sentence) {
@@ -350,7 +352,8 @@ async function handleGenerateGloss(term) {
 }
 
 async function handleCulturalReview(sentenceId) {
-  const sentences = await window.getAll('sentences');
+  // Use in-memory sentences array (from lazy loading)
+  const sentences = window.getSentences ? window.getSentences() : await window.getAll('sentences');
   const sentence = sentences.find(s => s.id === sentenceId);
 
   if (!sentence) {

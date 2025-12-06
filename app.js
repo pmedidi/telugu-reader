@@ -153,9 +153,7 @@ window.getSentences = () => sentences;
 
 async function bootstrap() {
   try {
-    await openDB();
-
-    // Load sentences JSON directly (no IndexedDB seeding for sentences)
+    // Load sentences JSON directly (no IndexedDB)
     console.log('Loading sentences...');
     const sentencesResponse = await fetch('/data/sentences.json');
     allSentencesData = await sentencesResponse.json();
@@ -164,28 +162,12 @@ async function bootstrap() {
     // Load first page of sentences
     sentences = allSentencesData.slice(0, PAGE_SIZE);
 
-    // Load glossary (still need this for term highlighting)
-    const existingGlossary = await getAll('glossary');
-    if (existingGlossary.length === 0) {
-      console.log('Seeding glossary...');
-      const response = await fetch('/data/glossary.json');
-      const data = await response.json();
-      // Batch insert glossary
-      const database = await openDB();
-      await new Promise((resolve, reject) => {
-        const tx = database.transaction('glossary', 'readwrite');
-        const store = tx.objectStore('glossary');
-        for (const item of data) {
-          store.put(item);
-        }
-        tx.oncomplete = () => resolve();
-        tx.onerror = () => reject(tx.error);
-      });
-      console.log(`Seeded ${data.length} glossary terms`);
-    }
-
-    const glossaryArray = await getAll('glossary');
-    glossary = Object.fromEntries(glossaryArray.map(t => [t.term_en.toLowerCase(), t]));
+    // Load glossary directly from JSON (no IndexedDB)
+    console.log('Loading glossary...');
+    const glossaryResponse = await fetch('/data/glossary.json');
+    const glossaryData = await glossaryResponse.json();
+    glossary = Object.fromEntries(glossaryData.map(t => [t.term_en.toLowerCase(), t]));
+    console.log(`Loaded ${glossaryData.length} glossary terms`);
 
     // Render UI
     renderReader();

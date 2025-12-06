@@ -1,29 +1,44 @@
 # Quick Start Guide
 
-## Run Locally (4 Steps)
+## Run Locally (5 Steps)
 
-1. **Open terminal in project folder**
+1. **Extract the .zip file and open terminal in project folder**
    ```bash
    cd telugu-reader
    ```
 
-2. **Create `.env` file with your OpenAI API key**
-   ```bash
-   echo "OPENAI_API_KEY=your-key-here" > .env
+2. **Install Node.js** (if not already installed)
+   - Download from [nodejs.org](https://nodejs.org)
+   - Verify installation: `node --version`
+
+3. **Create `.env` file with your OpenAI API key**
+
+   Create a file named `.env` in the project root with this content:
+   ```
+   OPENAI_API_KEY=your-key-here
    ```
    Replace `your-key-here` with your actual OpenAI API key.
 
-3. **Start Vercel dev server** (required for AI features)
+   **Important:** Don't share this file or commit it to version control!
+
+4. **Start Vercel dev server** (required for AI features)
    ```bash
    npx vercel dev
    ```
-   This runs the serverless API endpoint locally.
+   - First time: Follow prompts to link project (or skip with `vercel dev --yes`)
+   - This runs the serverless API endpoint locally
 
-4. **Open browser**
+5. **Open browser**
    ```
    http://localhost:3000
    ```
    (Or whatever port Vercel dev shows)
+
+## View Live Production Version (No Setup)
+
+Just visit: **https://telugu-reader.vercel.app**
+
+No installation needed! All features work including AI.
 
 ## Test Offline Mode
 

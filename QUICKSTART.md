@@ -1,28 +1,29 @@
 # Quick Start Guide
 
-## Run Locally (3 Steps)
+## Run Locally (4 Steps)
 
 1. **Open terminal in project folder**
    ```bash
    cd telugu-reader
    ```
 
-2. **Start server** (choose one):
+2. **Create `.env` file with your OpenAI API key**
    ```bash
-   # Python
-   python -m http.server 8000
-
-   # Node.js
-   npx serve
-
-   # PHP
-   php -S localhost:8000
+   echo "OPENAI_API_KEY=your-key-here" > .env
    ```
+   Replace `your-key-here` with your actual OpenAI API key.
 
-3. **Open browser**
+3. **Start Vercel dev server** (required for AI features)
+   ```bash
+   npx vercel dev
    ```
-   http://localhost:8000
+   This runs the serverless API endpoint locally.
+
+4. **Open browser**
    ```
+   http://localhost:3000
+   ```
+   (Or whatever port Vercel dev shows)
 
 ## Test Offline Mode
 
@@ -31,22 +32,35 @@
 3. Check **Offline** box
 4. Reload page → Should still work!
 
-## Deploy to Vercel (2 Commands)
+## Deploy to Vercel (3 Steps)
 
-```bash
-npm i -g vercel
-vercel
-```
+1. **Install Vercel CLI**
+   ```bash
+   npm i -g vercel
+   ```
 
-Follow prompts → Get live URL instantly!
+2. **Add OpenAI API key to Vercel**
+   - Go to your project on vercel.com
+   - Settings → Environment Variables
+   - Add `OPENAI_API_KEY` with your key
+   - Select all environments (Production, Preview, Development)
+
+3. **Deploy**
+   ```bash
+   vercel --prod
+   ```
+   Or just push to GitHub (auto-deploys if connected)
 
 ## Features to Test
 
 - ✅ Click "Primary: English" to toggle language
 - ✅ Click any blue underlined term (e.g., "conduction")
+- ✅ Click "🪄 Simplify" to simplify Telugu text with AI
+- ✅ Save simplified version and view it later (session only)
 - ✅ Submit feedback via form
 - ✅ Click "Download Feedback" to export JSON
 - ✅ Check "Top Terms" analytics after clicking 3+ terms
+- ✅ Lazy loading (20 sentences at a time, scroll for more)
 - ✅ Go offline and reload (should work!)
 - ✅ Press Tab to navigate, Enter to activate, Esc to close panel
 
@@ -56,20 +70,35 @@ Follow prompts → Get live URL instantly!
 telugu-reader/
 ├── index.html              ← Main page
 ├── styles.css              ← All styling
-├── app.js                  ← Logic + IndexedDB
+├── app.js                  ← Logic + data loading
+├── ai-helpers.js           ← AI feature handlers
 ├── sw.js                   ← Service Worker (offline)
 ├── manifest.webmanifest    ← PWA config
 ├── vercel.json             ← Deploy config
+├── package.json            ← Dependencies
+├── .env                    ← API keys (DO NOT COMMIT)
 ├── README.md               ← Full documentation
+├── api/
+│   └── ai.js               ← Serverless function for OpenAI
 ├── data/
-│   ├── sentences.json      ← 18 bilingual sentences
-│   └── glossary.json       ← 12 terms with definitions
+│   ├── sentences.json      ← 771 bilingual sentences
+│   └── glossary.json       ← 405 terms with definitions
 └── assets/
     ├── icon-192.png        ← App icon
     └── icon-512.png        ← App icon (large)
 ```
 
 ## Troubleshooting
+
+**AI features not working locally?**
+- Make sure you're using `vercel dev` (not a simple HTTP server)
+- Check that `.env` file exists with valid `OPENAI_API_KEY`
+- Check browser Console for errors
+
+**AI features not working in production?**
+- Ensure `OPENAI_API_KEY` is set in Vercel dashboard
+- Redeploy after adding environment variable
+- Check Runtime Logs in Vercel dashboard
 
 **Service Worker not registering?**
 - Must use `localhost` or HTTPS (not `file://`)
@@ -79,9 +108,13 @@ telugu-reader/
 - Ensure Service Worker is active (DevTools → Application)
 - Try hard refresh (Ctrl+Shift+R)
 
+**Page loading old version?**
+- Clear site data: F12 → Application → Clear storage
+- Hard refresh (Ctrl+Shift+R)
+
 **Telugu text not displaying?**
-- Install Telugu fonts if needed
 - Modern browsers should support it by default
+- Install Telugu fonts if needed
 
 ## Next Steps
 

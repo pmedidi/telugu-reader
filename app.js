@@ -2,7 +2,7 @@
 
 /* ===== IndexedDB Utilities ===== */
 const DB_NAME = 'telugu_reader_db';
-const DB_VERSION = 1;
+const DB_VERSION = 2;
 
 let db;
 

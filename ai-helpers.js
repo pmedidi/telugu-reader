@@ -243,7 +243,7 @@ async function handleSimplifyTelugu(sentenceId) {
 
     showAIModal('Simplified Telugu', content, {
       acceptButton: 'Save as Alternate',
-      acceptAction: `save-simplified:${sentenceId}:${encodeURIComponent(result.simplified_te)}`
+      acceptAction: `save-simplified:${sentenceId}:${encodeURIComponent(JSON.stringify(result))}`
     });
 
     // Track analytics
@@ -450,30 +450,31 @@ document.addEventListener('DOMContentLoaded', () => {
     switch (action) {
       case 'save-simplified':
         // Save simplified version by updating the sentence
-        const [sid, simplified] = params;
+        const [sid, simplifiedData] = params;
         const sentenceId = parseInt(sid);
         console.log('Saving simplified version for sentence', sentenceId);
 
         try {
-          // Get the sentence and update it with simplified version
-          const sentences = await window.getAll('sentences');
-          const sentence = sentences.find(s => s.id === sentenceId);
-          if (sentence) {
-            // Store original if not already saved
-            if (!sentence.te_original) {
-              sentence.te_original = sentence.te;
-            }
-            // Update with simplified version
-            sentence.te_simplified = decodeURIComponent(simplified);
-            await window.put('sentences', sentence);
+          // Parse the result object
+          const result = JSON.parse(decodeURIComponent(simplifiedData));
 
-            // Update in-memory array and re-render
-            const memSentences = window.getSentences ? window.getSentences() : [];
-            const memSentence = memSentences.find(s => s.id === sentenceId);
-            if (memSentence) {
-              memSentence.te_simplified = sentence.te_simplified;
-              memSentence.te_original = sentence.te_original;
+          // Update in-memory array
+          const memSentences = window.getSentences ? window.getSentences() : [];
+          const memSentence = memSentences.find(s => s.id === sentenceId);
+          if (memSentence) {
+            // Store original if not already saved
+            if (!memSentence.te_original) {
+              memSentence.te_original = memSentence.te;
             }
+            if (!memSentence.en_original) {
+              memSentence.en_original = memSentence.en;
+            }
+            // Save all simplified data
+            memSentence.te_simplified = result.simplified_te;
+            memSentence.en_simplified = result.simplified_en;
+            memSentence.simplification_changes = result.changes;
+
+            // Re-render to show badge
             if (window.renderReader) {
               window.renderReader();
             }

@@ -411,7 +411,15 @@ function showSimplifiedModal(sentence) {
       <p lang="te" class="simplified-text">${sentence.te_simplified}</p>
 
       <h3>Original English:</h3>
-      <p class="original-text">${sentence.en}</p>
+      <p class="original-text">${sentence.en_original || sentence.en}</p>
+
+      <h3>Simplified English:</h3>
+      <p class="simplified-text">${sentence.en_simplified || 'Not available'}</p>
+
+      ${sentence.simplification_changes ? `
+        <h3>Changes Made:</h3>
+        <p class="changes-text">${sentence.simplification_changes}</p>
+      ` : ''}
     </div>
   `;
 
